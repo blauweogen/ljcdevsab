@@ -1,0 +1,135 @@
+/* ------------------------------------
+	Social icons
+------------------------------------ */
+.soc-icons {
+	@size: 32px;
+	@color: @third-site-light-color - #060606;
+	
+	.rel();
+	font-size: 12px;
+	
+	a {
+		.rel();
+		display: inline-block;
+		width: @size;
+		height: @size;
+	
+		margin-right: 1px;
+		
+		color: @color;
+		font-size: inherit;
+		line-height: @size;
+		text-align: center;
+		.transition(~"color .2s ease-out, background-color .2s ease-out, border-color .2s ease-out");
+		background-color: transparent;
+		
+		&:hover {
+			color: @main-site-dark-color;
+			background-color: @addition-color;
+		}
+		
+		&:last-child {
+			margin-right: 0px;
+		}
+	}
+	
+	a + .soc-tooltip {
+		.abs();
+		z-index: -3;
+		display: block;
+		margin-top: 2px;
+		padding: 5px 10px;
+		background: #3d3d3d;
+
+		font-size: inherit;
+		color: @white-dark;
+		white-space: nowrap;
+		.opacity(0);
+		overflow: hidden;
+		.transition(~"opacity 0.3s ease-in-out, display 0.1s ease-in-out");
+		
+	}
+	
+	a:hover + .soc-tooltip {
+		.opacity(1);
+		z-index: 3;
+	}
+	
+	&.widget.soc-icons-bottom-margin,
+	&.soc-icons-bottom-margin {
+		margin-bottom: 35px;
+	}
+}
+
+.widget.soc-icons {
+	text-align: center;
+	margin-bottom: 0;
+	
+	h3 {
+		margin-bottom: 23px;
+	}
+	
+	a {
+		border: solid 1px @third-site-light-color;
+		.transition(~"color .2s ease-out, background-color .2s ease-out, border-color .2s ease-out");
+		background-color: transparent;
+		
+		&:hover {
+			color: @main-site-dark-color;
+			background-color: @addition-color;
+			border-color: @addition-color;
+		}
+	}
+}
+
+.module-soc-icons {
+	text-align: center;
+	padding-bottom: 30px;
+	@s: 82px;
+	@border: 4px;
+	a {
+		background: fade(@font-site-dark-color, 85%);
+		height: @s;
+		width: @s;
+		color: #696969;
+		font-size: 17px;
+		text-align: center;
+		.rounded(50%);
+		margin: 32px 16px 0 16px;
+		&:last-child {
+			margin-right: 16px;
+		}
+		&:before {
+			.transition(~"color .3s ease-out, background-color .3s ease-out, border-color .3s ease-out") !important;
+			height: @s;
+			line-height: @s - 4;
+			width: @s;
+			display: block;
+			border: solid @border fade(#f4f4f4, 40%);
+			.rounded(50%);
+		}
+		&:hover {
+			border-width: 0;
+			background: transparent;
+			&:before {
+				background: @main-site-light-color;
+				border-color: @main-site-light-color;
+			}
+		}
+		span.soc-tooltip {
+			.rel();
+			font-family: @font-default;
+			width: @s;
+			margin: 0;
+			background: transparent;
+			color: #474747;
+			font-size: 15px;
+			font-weight: 300;
+		}
+	}
+}
+
+.team_member_box .soc-icons,
+.module-soc-icons .soc-icons  {
+	padding-top: 10px;
+}

@@ -1,0 +1,150 @@
+
+.recent-block-wide-container {
+	width: 100%;
+}
+
+.recent-block-wide-wrap {
+	.rel();
+	
+	overflow: hidden;
+}
+
+.recent-block-wide {
+	
+	&>.row {
+		margin: 0 auto;
+		max-width: 100%;
+		min-width: 768px;
+		position: relative;
+		width: 1200px;
+		
+		&:first-child {
+			min-height: 42px;
+		}
+    }
+	
+	.jcarousel-base();
+	
+	.recent-block-wide-list {
+		&:hover {
+			.recent-works-item {
+				.portfolio-entry-hover {
+					.transition(all .7s ease-in-out);
+					background: fade(@main-site-dark-color, 20%);
+					opacity: 1;
+				}
+				&:hover {
+					.portfolio-entry-hover {
+						background-color: fade(@hover-bg-color, 90%);
+					}
+				}
+			}
+		}
+		&:not(:hover) {
+			.recent-works-item .portfolio-entry-hover {
+				.transition(all .7s ease-in-out);
+			}
+		}
+	}
+
+    .recent-block-wide-list li {
+
+        &.with-mask {
+			.portfolio-entry-meta {
+				display: none;
+			}
+
+            .mask {
+				display: block;
+                opacity: 1;
+            }
+			
+			.hover-link {
+				display: none;
+			}
+        }
+
+        .mask {
+            display: none;
+            .abs();
+            z-index: 2;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+			
+            background-color: fade(@forth-site-light-color, 7%);
+            opacity: 0;
+        }
+    }
+}
+
+.recent-works-item {
+	.rel();
+	z-index: 1;
+	min-height: 10px;
+	float: left;
+	
+	ul {
+		margin: 0px;
+		margin-left: 20px;
+	}
+	
+	.hover-entry-meta-portfolio();
+	
+	&:hover {
+		.entry-thumb img {
+			.transform(scale(1.1));
+		}
+
+		&.with-mask .entry-thumb img {
+			.transform(scale(1));
+		}
+	}
+}
+
+.entry-tags {
+	color: @forth-site-light-color;
+	
+	ul {
+		list-style-type: none;
+
+		li {
+			.rel();
+			.inline-block();
+			padding-left: 8px;
+			padding-right: 3px;
+			.opacity(.8);
+
+			color: inherit;
+			font-size: 11px;
+			font-weight: 300;
+
+			&:before {
+				content: '/';
+				.inline-block();
+				.abs();
+				left: 0px;
+				top: 0px;
+
+				font-size: 0.75em;
+				line-height: 3em;
+			}
+
+			&:first-child {
+				padding-left: 0px;
+
+				&:before {
+					display: none;
+				}
+			}
+
+			a {
+				color: inherit;
+				font-size: inherit;
+				font-weight: inherit;
+				text-transform: uppercase;
+			}
+		}
+	}
+}

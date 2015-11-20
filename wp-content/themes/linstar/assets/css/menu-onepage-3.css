@@ -1,0 +1,172 @@
+/* ==========================
+   MENU FULLPAGE CSS
+========================== */
+
+@media only screen and (max-width:1199px) {
+
+}
+
+@media only screen and (max-width:1112px) {
+
+}
+
+@media only screen and (max-width:991px) {
+	.margin_top_one_res3{
+		margin-top: 80px!important;
+	}
+	.navbar-default .navbar-toggle {
+		border-color: #ddd;
+	}
+	
+	.navbar-toggle {
+		background-color: transparent;
+		background-image: none;
+		border: 1px solid transparent;
+		border-radius: 4px;
+		float: right;
+		margin-bottom: 8px;
+		margin-right: 18px;
+		margin-top: 21px;
+		padding: 9px 10px!important;
+		position: relative;
+	}
+	
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+		background-color: #ddd;
+	}
+	
+	.sr-only {
+		border: 0 none;
+		clip: rect(0px, 0px, 0px, 0px);
+		height: 1px;
+		margin: -1px;
+		overflow: hidden;
+		padding: 0;
+		position: absolute;
+		width: 1px;
+	}
+	
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: #888;
+	}
+	.navbar-toggle .icon-bar {
+		border-radius: 1px;
+		display: block;
+		height: 2px;
+		width: 22px;
+	}
+	
+	.navbar-collapse{
+		border-top: 1px solid #E7E7E7;
+		box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset;
+		padding-left: 15px;
+		padding-right: 15px;
+		width: 100%;
+	}
+	
+	.fixednav3 .navbar-default .navbar-nav > li > a{
+		line-height: 20px;
+		padding: 10px 18px;
+	}
+	
+	.fixednav3 .navbar-default .navbar-nav li::after{
+		left: 38px;
+	}
+	
+	.navbar-right{
+		display: none;
+		padding: 0 30px;
+	}
+	
+	body .ovt_section_title{
+		width: 100%;
+		padding: 40px 0px 40px 0px;
+	}
+}
+
+@media only screen and (max-width:800px) {
+	.navbar-default .navbar-toggle {
+		border-color: #ddd;
+	}
+	
+	.navbar-toggle {
+		background-color: transparent;
+		background-image: none;
+		border: 1px solid transparent;
+		border-radius: 4px;
+		float: right;
+		margin-bottom: 8px;
+		margin-right: 18px;
+		margin-top: 21px;
+		padding: 9px 10px!important;
+		position: relative;
+	}
+	
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+		background-color: #ddd;
+	}
+	
+	.sr-only {
+		border: 0 none;
+		clip: rect(0px, 0px, 0px, 0px);
+		height: 1px;
+		margin: -1px;
+		overflow: hidden;
+		padding: 0;
+		position: absolute;
+		width: 1px;
+	}
+	
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: #888;
+	}
+	.navbar-toggle .icon-bar {
+		border-radius: 1px;
+		display: block;
+		height: 2px;
+		width: 22px;
+	}
+	
+	.navbar-collapse{
+		border-top: 1px solid #E7E7E7;
+		box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset;
+		padding-left: 15px;
+		padding-right: 15px;
+		width: 100%;
+	}
+	
+	.fixednav3 .navbar-default .navbar-nav > li > a{
+		line-height: 20px;
+		padding: 10px 18px;
+	}
+	
+	.fixednav3 .navbar-default .navbar-nav li::after{
+		left: 38px;
+	}
+	
+	.navbar-right{
+		display: none;
+		padding: 0 30px;
+	}
+	
+	body .ovt_section_title{
+		width: 100%;
+		padding: 40px 0px 40px 0px;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 999px){
+
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px){
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 639px){
+	
+}
+
+@media only screen and (max-width: 479px){
+	
+}

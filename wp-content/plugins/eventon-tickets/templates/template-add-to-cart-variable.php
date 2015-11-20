@@ -1,0 +1,86 @@
+<?php
+/**
+ * Template for variable item add to cart section
+ * @version 0.4
+ */
+
+
+	wp_enqueue_script( 'wc-add-to-cart-variation' );
+
+	// Load the template
+	
+	$attributes = $product->get_variation_attributes();
+	$available_variations = $product->get_available_variations();
+	$selected_attributes = $product->get_variation_default_attributes();
+
+	$opt = (!empty($opt))? $opt : get_option('evcal_options_evcal_2');
+?>
+<div class='evotx_orderonline_trigger'>
+	<p class='evotx_price_line'><?php echo eventon_get_custom_language($opt, 'evoTX_002ff','Price').' '.$product->get_price_html(); ?></p>
+	<a class='evcal_btn evotx_show_variations'><?php echo eventon_get_custom_language($opt, 'evoTX_002ee','Order Now');?></a>
+</div>
+<form style='display:none' class="variations_form cart evotx_orderonline_variable" method="post" enctype='multipart/form-data' data-product_id="<?php echo $woo_product_id; ?>" data-product_variations="<?php echo esc_attr( json_encode( $available_variations ) ) ?>">
+	
+		<table class="variations" cellspacing="0">
+		<tbody>
+	<?php
+		$loop = 0;foreach ($attributes as $name => $options ):
+		$loop++; 
+	?>
+		
+		<tr>
+			<td class='label'><label for="<?php echo sanitize_title($name); ?>"><?php echo wc_attribute_label( $name ); ?></label></td>
+			<td class="value"><select id="<?php echo esc_attr( sanitize_title($name) ); ?>" name="attribute_<?php echo sanitize_title($name); ?>">
+						<option value=""><?php echo __( 'Choose an option', 'woocommerce' ) ?>&hellip;</option>
+
+					<?php
+		                if ( is_array( $options ) ) {
+
+		                    if ( isset( $_REQUEST[ 'attribute_' . sanitize_title( $name ) ] ) ) {
+		                        $selected_value = $_REQUEST[ 'attribute_' . sanitize_title( $name ) ];
+		                    } elseif ( isset( $selected_attributes[ sanitize_title( $name ) ] ) ) {
+		                        $selected_value = $selected_attributes[ sanitize_title( $name ) ];
+		                    } else {
+		                        $selected_value = '';
+		                    }
+
+		                    // Get terms if this is a taxonomy - ordered
+		                    if ( taxonomy_exists( $name ) ) {
+		                        $terms = wc_get_product_terms( $post->ID, $name, array( 'fields' => 'all' ) );
+		                        foreach ( $terms as $term ) {
+		                            if ( ! in_array( $term->slug, $options ) ) {
+		                                continue;
+		                            }
+		                            echo '<option value="' . esc_attr( $term->slug ) . '" ' . selected( sanitize_title( $selected_value ), sanitize_title( $term->slug ), false ) . '>' . apply_filters( 'woocommerce_variation_option_name', $term->name ) . '</option>';
+		                        }
+		                    } else {
+		                        foreach ( $options as $option ) {
+									echo '<option value="' . esc_attr( $option ) . '" ' . selected( $selected_value, $option, false ) . '>' . esc_html( apply_filters( 'woocommerce_variation_option_name', $option ) ) . '</option>';
+		                        }
+		                    }
+		                }
+		            ?>
+				</select> <?php
+						if ( sizeof($attributes) == $loop )
+							echo '<a class="reset_variations" href="#reset">' . __( 'Clear selection', 'woocommerce' ) . '</a>';
+					?></td>
+				</tr>
+	        <?php endforeach;?>
+		</tbody>
+	</table>
+		
+		<div class="single_variation_wrap evotx_orderonline_add_cart" style="display:none;">
+			<div class="single_variation"></div>
+			<div class="variations_button">				
+				
+				<a class='evcal_btn evoAddToCart variable_add_to_cart_button' data-product_id='<?php echo $woo_product_id;?>'><?php echo eventon_get_custom_language($opt, 'evoTX_002','Add to Cart');?></a>
+				<input type="hidden" name="variation_id" value="" />
+				<?php woocommerce_quantity_input(array(), $product); ?>
+				<input type="hidden" name="add-to-cart" value="<?php echo $product->id; ?>" />
+				<input type="hidden" name="product_id" value="<?php echo esc_attr( $woo_product_id ); ?>" />
+				<div class="clear"></div>
+			</div>
+		</div>
+		
+	</form>
+

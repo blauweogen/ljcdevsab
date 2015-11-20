@@ -1,0 +1,16 @@
+.widget.widget_product_categories {
+	text-align: center;
+	a {
+		.inline-block();
+		margin: 5px 0px;
+		font-weight: 300;
+		color: #575757;
+		border-bottom: 1px dotted fade(@font-site-light-color, 0);
+	}
+	
+	.current-cat a,
+	a:hover {
+		color: @link-color-inverted-hover;
+		border-bottom: 1px dotted @link-color-inverted-hover;
+	}
+}

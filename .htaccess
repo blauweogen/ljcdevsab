@@ -1,0 +1,6 @@
+AuthUserFile "/home/santa/.htpasswds/public_html/ljccdev/passwd"
+AuthName "ljccdev"
+
+# BEGIN WordPress
+
+# END WordPress

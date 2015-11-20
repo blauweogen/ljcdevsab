@@ -1,0 +1,153 @@
+
+/* -----------------------------------------
+	Footer styling
+----------------------------------------- */
+#footer {
+	.footer-logo {
+		text-align: center;
+		padding-bottom: 30px;
+	}
+	.rel();
+	z-index: 1;
+	background: @main-site-dark-color;
+	padding: 50px 0 3px 0;
+
+	border-top: 1px solid #e7e7e7;
+	
+	color: @footer-font-color;
+	font-weight: 300;
+		
+	.col-1.num-1 {
+	    .widget {
+		text-align: center;
+		h2, h3, p {
+			text-align: center;
+		}
+	    }
+	}
+	
+	.col-2.num-1 {
+	    .widget {
+		text-align: center;
+		h2, h3, p {
+			text-align: center;
+		}
+	    }
+	}
+	
+	.col-2.num-2 {
+	    .widget {
+		text-align: center;
+		h2, h3, p {
+			text-align: center;
+		}
+	    }
+	}
+	
+	.col-3.num-1 {
+	    .widget {
+		text-align: center;
+		h2, h3, p {
+			text-align: center;
+		}
+	    }
+	}
+	
+	.col-3.num-2 {
+	    .widget {
+		text-align: center;
+		h2, h3, p {
+			text-align: center;
+		}
+	    }
+	}
+	
+	.col-3.num-3 {
+	    .widget {
+		text-align: center;
+		h2, h3, p {
+			text-align: center;
+		}
+	    }
+	}
+}
+
+#sub-footer {
+	@sub-footer-size: 13px;
+	
+	color: @sub-footer-font-color;
+	font-size: @sub-footer-size;
+
+	background-position: 0 0;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-color: #31343b;
+
+	img {
+		float: left;
+		margin-right: 15px;
+	}
+
+	.columns {
+		font-size: @sub-footer-size;
+		font-weight: 300;
+		min-height: @sub-footer-height;
+		line-height: @sub-footer-height;
+	}
+
+	.subfoot-copyright {
+		font-size: inherit;
+		line-height: @sub-footer-height;
+	}
+
+	/* -- Soc icons */
+	.soc-icons-title {
+		height: @sub-footer-height;
+		vertical-align: top;
+		line-height: @sub-footer-height;
+		padding-right: 10px;
+		float: right;
+		font-size: @sub-footer-size;
+	}
+	
+	.subfoot-soc-icons {
+		float: right;
+		padding-right: 5px;
+		
+		font-size: inherit;
+		
+		.soc-icons {
+			height: @sub-footer-height;
+			
+			font-size: inherit;
+			
+			a {
+				width: auto;
+				height: auto;
+				margin: 0;
+				padding: 0 8px;
+				
+				border-left: solid 1px #444648;
+				
+				color: #5d6165;
+				font-size: 12px;
+				line-height: @sub-footer-height;
+				
+				&:first-child{
+					border-left: none;
+				}
+				
+				.transition(~"background-color .2s linear, color .2s linear");
+				
+				&:hover {
+					background-color: @main-site-light-color;
+					color: @main-site-dark-color;
+				}
+				
+				& + .soc-tooltip {
+					margin-top: -(@sub-footer-height + 33);
+				}
+			}
+		}
+	}
+}

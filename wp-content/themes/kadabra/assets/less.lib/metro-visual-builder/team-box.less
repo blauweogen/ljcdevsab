@@ -1,0 +1,149 @@
+/* -----------------------------------------
+   Team-member item
+----------------------------------------- */
+@widget-our-team-width: 275px;
+@widget-our-team-height: 155px;
+
+@widget-our-team-parallelogram-width: 200px;
+@widget-our-team-parallelogram-height: 130px;
+
+.team_module {
+	.block-title {
+		color: inherit;
+	}
+	
+	.columns:last-child {
+		float: left;
+	}
+	
+	.team_module_slider {
+		.jcarousel-base();
+	}
+}
+
+
+.team_member_box {
+	@member-name-height: 95px;
+	
+	text-align: center;
+
+	.member-image {
+		.relative();
+		.inline-block();
+		margin: 0 auto;
+		overflow: hidden;
+		
+		img {
+			max-width: 100%;
+			max-height: 100%;
+			vertical-align: top;
+		}
+		
+		.member-bg {
+			.absolute(1);
+			top: 0; bottom: 0;
+			left: 0; right: 0;
+			background: fade(@hover-bg-color, 90%);
+		}
+		
+		.member-name {
+			.absolute(2);
+			top: 0;
+			left: 0; right: 0;
+			height: @member-name-height;
+			line-height: @member-name-height;
+			
+			background-color: fade(@main-site-dark-color, 90%);
+			
+			.member-name-valign {
+				.inline-block();
+				vertical-align: middle;
+			}
+		}
+		
+		.member-info {
+			.absolute(2);
+			top: @member-name-height; bottom: 0;
+			left: 0; right: 0;
+			color: @main-site-dark-color;
+		}
+		
+		.member-info-vailgn {
+			height: 100%;
+			display: table;
+			width: 100%;
+			
+			> .member-info-vailgn-cell {
+				height: 100%;
+				display: table-cell;
+				
+				vertical-align: middle;
+			}
+		}
+		
+		/* Hover Effects */
+		.member-name {
+			top: -100%;
+			.transition(top .2s ease-out);
+		}
+		
+		.member-bg {
+			.opacity(0);
+			.transition(opacity .2s ease-out);
+		}
+		
+		.member-info {
+			margin-bottom: -100%;
+			.transition(margin-bottom .2s ease-out);
+		}
+		
+		&:hover {
+			.member-bg {
+				.opacity(1);
+			}
+			
+			.member-name {
+				top: 0;
+			}
+			
+			.member-info {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	> .block-title {
+		margin-top: 20px;
+		color: @title-color;
+	}
+
+	> .dopinfo {
+		padding-top: 0;
+		color: @subtitle-color;
+		opacity: .7;
+	}
+
+	.text {
+		position: relative;
+		overflow: hidden;
+
+		padding: 0 !important;
+
+		line-height: 1.5;
+		font-weight: 300;
+	}
+	
+	.soc-icons a {
+		border-color: fade(#e1e1e1, 40%);
+		color: fade(#e1e1e1, 40%);
+	}
+}
+
+@media only screen and (max-width : (@screen-medium - 1)) {
+	.team_member_box {
+		> .block-title, 
+		> .dopinfo {
+			.hide();
+		}
+	}
+}

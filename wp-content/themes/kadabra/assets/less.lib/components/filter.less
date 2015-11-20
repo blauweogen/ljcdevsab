@@ -1,0 +1,58 @@
+.filter {
+    
+	display: inline-block;
+	
+	li {
+		float: left;
+		margin-right: 20px;
+		
+		a {
+			position: relative;
+			
+			&:after {
+				content: "";
+				height: 0;
+				opacity: 0;
+				width: 24px;
+				background: #ff6565;
+				position: absolute;
+				bottom: -10px;
+				left: 0;
+				max-width: 60%;
+			}
+			
+			&:hover:after {
+				height: 3px;
+				opacity: 1;
+				bottom: -10px;
+			}
+		}
+
+		&.active a:after {
+			height: 3px;
+			opacity: 1;
+		}
+	}
+
+	&.filter-buttons {
+		li {
+			margin-right: 3px;
+
+			a {
+				.button-gray();
+				font-size: 12px;
+				
+				&:after {
+					display: none;
+				}
+			}
+		}
+	}
+}
+
+.sort-panel {
+	margin-bottom: 20px;
+	clear: both;
+	text-align: center;
+}
+

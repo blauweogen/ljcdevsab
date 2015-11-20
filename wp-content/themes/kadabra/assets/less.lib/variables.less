@@ -1,0 +1,129 @@
+/******* GENERATED *************************/
+
+// Main Color
+@main-site-light-color: #6cccf4;
+@main-site-dark-color: #ffffff;
+
+// Secondary Color
+@second-site-light-color: #dbdfe6;
+@second-dark-site-light-color: #31b4d5;
+
+// Third Color
+@addition-color: #ff7362;
+
+// Old third color
+@third-site-light-color: #e7e7e7;
+
+// Forth Color
+@forth-site-light-color: #ffffff;
+@forth-site-dark-color: #000000;
+
+// Text Color
+@font-site-light-color: #293033;
+@font-site-dark-color: #ffffff;
+
+// Link Color
+@link-color: #31b4d5;
+@link-color-hover: @link-color;
+
+@hover-bg-color: #272830;
+
+/**
+ * Addition Color Settings
+ */
+// Header background
+@header-background-color: #ffffff;
+@fixed-header-background-color: #ffffff;
+@fixed-header-background-opacity: 95%;
+
+// News page slider hover
+@news-page-slider-background-hover:#272830;
+@news-page-slider-opacity-hover: 95%;
+
+// Read more
+@read-more-color: #3e4142;
+
+// Default Button
+@button-bg-color: @main-site-light-color;
+
+@import "./_generated/variables.less";
+
+/******* ????????? *************************/
+
+@white-dark: @forth-site-light-color - #0a0a0a;
+@gray-dark: #3e4142;
+
+/******* CALCULATED ************************/
+
+@third-light-site-light-color: @third-site-light-color + #070707;
+@third-dark-site-light-color: @third-site-light-color - #0a0a0a;
+
+/******* Sections ************************/
+
+// -- Global -- 
+// #footer
+@footer-font-color: #636363;
+
+// #sub-footer
+@sub-footer-height: 35px;
+@sub-footer-font-color: #7e8388;
+
+/*******************************************/
+
+@font-default: "Roboto", "Trebuchet MS", Frutiger, "Frutiger Linotype", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+@font-titles: "Conv_Lovelo Black", @font-default;
+
+@link-color-inverted: @main-site-dark-color;
+@link-color-inverted-hover: @link-color;
+
+@footer-background: @forth-site-light-color - #0a0a0a;
+
+@title-color: @font-site-light-color - #282828 ; // #2b2b2b;
+@title-highlight-color: @main-site-light-color;
+@subtitle-color: @font-site-light-color + #3e3f47; // #777777;
+
+@border-color: @third-site-light-color;
+
+// Header
+@header-soc-icons-color: @third-site-light-color - #8a8682;// #5d6165;
+@header-soc-icons-hover-color: @third-site-light-color - #484848; // #9d9d9d;
+@header-soc-icons-border: @third-site-light-color - #898989; // #5c5c5c;
+
+@gutter-width: 20px;
+/*********************************
+	Post List
+**********************************/
+@news-widgets-delim-color: @border-color;
+@news-widgets-entry-meta-icon-color: #c6c6c6;
+@news-widgets-entry-meta-color: #9c9c9c;
+
+//	-- recent-posts
+@recent-post-thumbnail-width: 50px;
+@recent-post-gutter-width: @gutter-width;
+
+@recent-post-entry-meta-height: 32px;
+
+
+/**
+ *	Products Woocommerce
+ */
+@woocommerce-title-color: @gray-dark;
+@woocommerce-description: #8a9193;
+@woocommerce-price-color: @main-site-light-color;
+@woocommerce-old-price-color: @third-light-site-light-color - #202020;
+
+@woocommerce-border: 1px;
+@woocommerce-border-color: @third-light-site-light-color;
+@woocommerce-product-padding: 10px;
+
+@foundation-row-width: 1200px;
+@foundation-row-min-width: 768px;
+/**
+ *	Screen Dimensions
+ */
+@screen-x-large: 1280px;
+@screen-large: 1180px;
+@screen-normal: 1024px;
+@screen-x-medium: 800px;
+@screen-medium: @screen-x-medium; // was 768px;
+@screen-small: 480px;

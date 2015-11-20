@@ -1,0 +1,110 @@
+TABLE.dls-sus-sheets {
+    width: 100%;
+}
+TABLE.dls-sus-tasks TD,
+TABLE.dls-sus-sheets TD {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+TABLE.dls-sus-tasks TD,
+TABLE.dls-sus-sheets TD,
+TABLE.dls-sus-tasks TH,
+TABLE.dls-sus-sheets TH {
+    border-bottom: 1px solid #ccc;
+    padding: .2em .6em;
+    text-align: left;
+    vertical-align: top;
+}
+TABLE.dls-sus-tasks TD,
+TABLE.dls-sus-tasks TH {
+    border-bottom: 0;
+}
+TABLE.dls-sus-tasks .dls-sus-spot-1 TD {
+    border-top: 1px solid #ccc;
+}
+TABLE.dls-sus-tasks .dls-sus-last-task.dls-sus-last-spot TD {
+    border-bottom: 1px solid #ccc;
+}
+TABLE.dls-sus-tasks TFOOT {
+    display: none;
+}
+TABLE.dls-sus-tasks .dls-sus-task-expired TD {
+    background: #f2f2f2;
+}
+TABLE.dls-sus-sheets TR.filled {
+    background: #eee;
+}
+TABLE.dls-sus-sheets .column-open_spots {
+    text-align: center;
+}
+TABLE.dls-sus-sheets .column-open_spots {
+    text-align: center;
+}
+TABLE.dls-sus-sheets .column-view_link {
+    white-space: nowrap;
+}
+
+.dls-sus.error,
+.dls-sus.alert,
+.dls-sus.updated {
+    color: #000 !important;
+    display: block;
+    float: none;
+    margin: 1em 0;
+    padding: 5px 5px 5px 30px;
+    text-align: left !important;
+    width: auto;
+}
+.dls-sus.updated {
+    background: #F0FFDF url('../images/icon-check.gif') no-repeat scroll 8px .5em;
+}
+.dls-sus.alert {
+    background: #fff7e2 url('../images/icon-alert.png') no-repeat scroll 8px .5em;
+}
+.dls-sus.error {
+    background: #FFF2CF url('../images/icon-alert.png') no-repeat scroll 8px .5em;
+}
+
+.dls-sus-signup-form {
+    width: 50%;
+}
+.dls-sus-signup-form LABEL {
+    display: block;
+}
+.dls-sus-signup-form .dls-sus-city LABEL,
+.dls-sus-signup-form .dls-sus-state LABEL,
+.dls-sus-signup-form .dls-sus-zip LABEL {
+    white-space: nowrap;
+}
+.dls-sus-signup-form INPUT[type="text"],
+.dls-sus-signup-form SELECT {
+    width: 98%;
+}
+.dls-sus-signup-form .dls-sus-city,
+.dls-sus-signup-form .dls-sus-state,
+.dls-sus-signup-form .dls-sus-zip {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 2%;
+}
+.dls-sus-signup-form .dls-sus-city {
+    width: 50%;
+}
+.dls-sus-signup-form .dls-sus-state {
+    width: 20%;
+}
+.dls-sus-signup-form .dls-sus-zip {
+    width: 22%;
+    margin-right: 0;
+}
+.dls-sus-signup-form .dls-sus-remember LABEL {
+    display: inline;
+}
+.dls-sus-signup-form  LABEL.dls-sus-inline-label {
+    display: inline;
+}
+.dls-sus-signup-form .dls-sus-note {
+    font-style: italic;
+    font-size: 0.8em;
+    display: block;
+}

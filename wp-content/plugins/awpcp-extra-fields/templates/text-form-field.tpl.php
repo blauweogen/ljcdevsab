@@ -1,0 +1,1 @@
+<input id="<?php echo esc_attr( $html['id'] ); ?>" class="inputbox <?php echo esc_attr( $html['class'] ); ?>" type="text" name="<?php echo esc_attr( $html['name'] ); ?>" value="<?php echo esc_attr( $value ); ?>">

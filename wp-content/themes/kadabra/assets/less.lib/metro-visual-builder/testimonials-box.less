@@ -1,0 +1,156 @@
+.testimonials_module > div {
+	position: relative;
+	text-align: center;
+}
+
+.testimonials-viewport {
+	padding-top: 13px;
+}
+
+.testimonials_item {
+	overflow: hidden;
+		
+	.cite {
+		margin-bottom: 10px;
+	}
+	
+	blockquote {
+		background-color: transparent;
+		padding: 0;
+		color: @font-site-light-color;
+		font-size: 16px;
+		font-style: italic;
+		line-height: 20px;
+		text-align: center;
+		padding: 0 60px;
+	}
+	
+	&:first-child {
+		display: block; 
+	}
+	
+	.read-more,
+	blockquote:before {
+		.transition(all 0.3s ease-in-out);
+	}
+	blockquote:after {
+		.transition(all 0.3s ease-in-out);
+	}
+	
+	.read-more {
+		.opacity(0);
+	}
+	
+	&:hover  {
+		blockquote:before {
+			color: @addition-color;
+		}
+		blockquote:after {
+			color: @addition-color;
+		}
+		
+		.read-more {
+			.opacity(1);
+		}
+	}
+}
+
+.testimonials_module {
+	.avatar {
+	    @h: 50px;
+		position: relative;
+		overflow: hidden;
+		width: auto;
+		text-align: center;
+		display: inline-block;
+		background: @addition-color;
+		width: @h;
+		height: @h;
+		.rounded(50%);
+		line-height: 1;
+
+		&:before {
+			content: "\e174";
+			font-family: "streamline-30px" !important;
+			font-size: 20px;
+			line-height: @h;
+			color: @main-site-dark-color;
+		}
+	}
+}
+
+.testimonials-slide {
+	position: relative;
+	overflow: hidden;
+}
+
+.testimonials-slide {
+	.jcarousel-base();
+	text-align: center;
+}
+
+.cite {
+	clear: both;
+	padding-top: 15px; 
+	color: @subtitle-color;
+	text-align: center;
+}
+
+.cite .quote-author, .cite .quote-sub {
+	display: block;
+	padding: 5px 0;
+}
+
+.cite .quote-sub {
+	text-transform: uppercase;
+	padding: 5px 0;
+	font-size: 12px;
+	font-weight: 300;
+}
+
+.quoteCite {
+	clear: both;
+	padding-top: 10px; 
+}
+
+/* Control Nav */
+.testimonials-pagination {
+	text-align: center;
+	
+	@size: 14px;
+	@color: @third-dark-site-light-color;
+	
+	a {
+		.inline-block();
+		height: @size;
+		
+		vertical-align: middle;
+		line-height: @size;
+		
+		&.testimonials-nav-item {
+			.rel();
+			width: @size;
+			height: @size;
+			margin: 0 2px;
+			overflow: hidden;
+			
+			text-indent: 1000%;
+
+			border: 2px solid @color;
+			.rounded(50%);
+			background-color: transparent;
+			
+			.transition(background-color .2s linear);
+			
+			&.active,
+			&:hover {
+				background-color: @color;
+			}
+		}
+	}
+}
+
+.mvb-row-fullwidth .testimonials-slide {
+	max-width: 1180px;
+	margin: 0 auto;
+}

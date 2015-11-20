@@ -1,0 +1,92 @@
+.recent-block-isotope {
+	overflow: hidden;
+	
+	> .row {
+		margin: 0 auto;
+		max-width: 100%;
+		//min-width: 768px;
+		position: relative;
+		width: 1200px;
+		
+		.sort-panel {
+			clear: none;
+			margin-bottom: 0;
+			margin-top: 3px;
+			float: none;
+			text-align: center;
+			
+			.filter {
+				li {
+					padding: 4px 12px;
+					border: 1px solid #f4f4f4;
+					margin-right: 1px;
+					&.active {
+						background: @addition-color;
+						border-color: @addition-color;
+					}
+				}
+				
+				li.active a {
+					color: @forth-site-light-color;
+				}
+				
+				a {
+					font-size: 14px;
+					color: #7d7d7d;
+					
+					&:after {
+						display: none;
+					}
+				}
+			}
+		}
+	}
+	
+	.recent-works-list {
+		width: 101%;
+		&:hover {
+			.recent-works-item .portfolio-entry-hover {
+				.transition(all .7s ease-in-out);
+				background: fade(@main-site-dark-color, 20%);
+				opacity: 1;
+			}
+		}
+		&:not(:hover) {
+			.recent-works-item .portfolio-entry-hover {
+				.transition(all .7s ease-in-out);
+			}
+		}
+		
+		.project {
+			width: 20%;
+			margin: 0;
+			padding: 0;
+			float: left;
+			overflow: hidden;
+			
+			.entry-thumb {
+				position: relative;
+				
+				.box-name {
+					position: absolute;
+					right: 20px;
+					left: 20px;
+					bottom: 20px;
+					color: @font-site-dark-color;
+					font-size: 32px;
+					line-height: 20px;
+				}
+			}
+			
+			&:hover {
+				.portfolio-entry-hover {
+					background-color: fade(@hover-bg-color, 90%);
+				}
+			}
+		}
+	}
+	
+	.recent-works-list-hidden {
+		display: none;
+	}
+}

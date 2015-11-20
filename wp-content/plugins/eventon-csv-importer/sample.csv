@@ -1,0 +1,3 @@
+publish_status,featured,color,event_name,event_description,event_start_date,event_start_time,event_end_date,event_end_time,all_day,hide_end_time,location_name,event_location,event_gmap,event_organizer,event_type,event_type_2,cmd_1
+draft,yes,,Private Grounds Event,,3/28/2015,9:30:AM,3/30/2015,2:00:PM,yes,no,,"Skrillexland, MA",Yes,Flume,15,You can use event_type_x to add upto 5 event type category term IDs,Custom Meta field value
+publish,no,DB4F6B,Bassnector coming to town,Testing the event descriptiong field's power,3/21/2015,1:45:PM,,,no,yes,Martin The King,"400 Southwest Kingston Avenue Portland, OR",No,Music for your ears,"7,19",,You can use cmd_x upto 10 to add custom field values

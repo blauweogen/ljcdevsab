@@ -1,0 +1,1 @@
+<span class="entry-date"><i class="icon-calendar-2"></i>&nbsp;<?php echo get_the_date(); ?></span>

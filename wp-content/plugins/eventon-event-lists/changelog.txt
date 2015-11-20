@@ -1,0 +1,21 @@
+Event Lists (EL) addon for EventON Plugin
+====================================
+v0.6 (2014-9-18)
+FIXED: Addon initial check and compatibility with eventon 2.2.18
+
+v 0.5 (2014-9-10)
+UPDATED: Compatibility with Eventon 2.2.17
+FIXED: Users shortcode variable compatibility with actionUser
+
+v 0.4 (2014-8-22)
+UPDATED: Shortocode generator options to support more of the global variables
+FIXED: Not activated error solved
+
+v0.3 (2014-6-1)
+UPDATED: Compatibility with eventON 2.2.12
+
+v0.2 (2014-5-20)
+FIXED: slowness in wp-admin
+
+v 0.1 (2014-2-13)
+Initial release

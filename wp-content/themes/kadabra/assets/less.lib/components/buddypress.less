@@ -1,0 +1,224 @@
+#buddypress {
+	div#item-header {
+		#item-header-avatar {
+			float: left;
+			width: 13%;
+		}
+		div#item-header-content {
+			float: right;
+			width: 85%;
+			span {
+				font-size: 14px;
+				&.highlight {
+					color: @font-site-light-color;
+					background: transparent;
+				}
+			}
+		}
+	}
+	#item-nav {
+		float: left;
+		width: 13%;
+		max-width: 150px;
+		div.item-list-tabs {
+			ul li {
+				width: 100%;
+				padding-right: 20px;
+			}
+		}
+	}
+	
+	#item-body {
+		float: right;
+		width: 85%;
+		form#whats-new-form {
+			padding: 20px 0;
+		}
+	}
+    
+	p {
+		font-size: 15px;
+	}
+	form#whats-new-form textarea {
+		height: 50px;
+	}
+	div.pagination {
+		padding-bottom: 25px;
+	}
+	div.item-list-tabs {
+		ul li.selected a, ul li.current a, ul li a:hover {
+			font-weight: 300;
+			background: transparent;
+			color: @font-site-light-color;
+			padding-left: 0;
+			span {
+				font-weight: 300;
+				background: @main-site-light-color;
+				color: @main-site-dark-color;
+				border-color: @main-site-light-color;
+			}
+		}
+		ul li {
+			a {
+				background: transparent;
+				color: @font-site-light-color;
+				.rel();
+				padding-right: 40px;
+				padding-left: 0;
+				span {
+					background: @main-site-light-color;
+					color: @main-site-dark-color;
+					border-color: @main-site-light-color;
+					padding: 0 9px;
+					font-size: 10px;
+					font-weight: 300;
+					.rounded(2px);
+					.abs();
+					right: 0;
+					top: 8px;
+				}
+			}
+		}
+		.feed {
+			a {
+				color: @font-site-light-color;
+				&:before {
+					content: "\e114";
+					display: block;
+					font-size: 15px;
+					font-family: "streamline-30px" !important;
+					.abs();
+					left: 40px;
+				}
+			}
+		}
+	}
+	div.activity-meta {
+		margin: 18px 0;
+		a {
+			.default-button();
+			line-height: 42px;
+			&:hover {
+				border-width: 0;
+			}
+			span {
+				.rounded(50%);
+			}
+		}
+	}
+	.activity-avatar {
+		margin: 0;
+		.rel();
+		top: 10px;
+	}
+	#activity-stream {
+		p {
+			font-size: 14px;
+		}
+		.activity-inner p {
+			font-size: 15px;
+		}
+	}
+	ul.item-list li {
+		padding: 25px 0 10px 0;
+	}
+	div.item-list-tabs#subnav ul li.last {
+		display: none;
+	}
+	.activity-list .activity-content .activity-header img.avatar {
+		margin: 0 5px -5px 10px !important;
+	}
+	.bp-single-group {
+		.item-title a{
+			.block-title();
+		}
+		.item-meta span {
+			.subtitle();
+		}
+	}
+	.dir-form div.item-list-tabs ul,
+	div#subnav.item-list-tabs ul,
+	.bp-legacy div#item-body div.item-list-tabs ul{
+		li a {
+			border: 1px solid #f6f6f6;
+			padding-left: 40px;
+			margin-right: 2px;
+		}
+		li.feed a {
+			border-width: 0;
+			padding: 0 20px 0 0;
+		}
+	}
+	.dir-form div.item-list-tabs ul li.current a,
+	.dir-form div.item-list-tabs ul li.selected a,
+	div#subnav.item-list-tabs ul li.current a,
+	div#subnav.item-list-tabs ul li.selected a,
+	.bp-legacy div#item-body div.item-list-tabs ul li.current a,
+	.bp-legacy div#item-body div.item-list-tabs ul li.selected a {
+		background: @main-site-light-color;
+		color: @main-site-dark-color;
+		opacity: 1;
+	}
+	
+	.dir-search {
+		display: none;
+	}
+	ul.item-list li div.item-title {
+		span {
+			font-size: 13px;
+		}
+	}
+	div.generic-button a,
+	button,
+	a.button,
+	input[type=submit],
+	input[type=button],
+	input[type=reset],
+	ul.button-nav li a,
+	.comment-reply-link {
+		.rel();
+		left: 0;
+		z-index: 1;
+		display: inline-block;
+		padding: 13px 20px 10px;
+		border: 1px solid @third-site-light-color !important;
+		color: @read-more-color !important;
+		font-size: 12px !important;
+		font-family: @font-titles;
+		&:hover {
+			background: transparent;
+		}
+	}
+	form#whats-new-form {
+		#whats-new-options {
+			overflow: hidden;
+			#whats-new-submit {
+				margin-top: -2px;
+			}
+		}
+	}
+	table thead tr th {
+		font-weight: 300;
+		font-size: 14px;
+	}
+	.standard-form div.submit input,
+	a.bp-title-button{
+		.default-button();
+		line-height: 42px;
+		&:hover {
+			border-bottom-width: 0;
+		}
+	}
+	ul.item-list {
+		border-top-width: 0;
+	}
+}
+#stuning-header #page-title .page-title-inner a.button {
+		line-height: 42px;
+		.rel();
+		bottom: 5px;
+}
+@media only screen
+and (max-width : @screen-normal - 1) {
+	div.item-list-tabs ul li a:hover span { display: none !important; }
+}

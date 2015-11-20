@@ -1,0 +1,102 @@
+/****************************
+	mvb_features_list
+*****************************/
+@mvb-features-list-item-height: 40px;
+@mvb-features-list-color-highlight: @main-site-light-color;
+
+.module-features-list {
+	@height: @mvb-features-list-item-height;
+	@border: 2px;
+	
+	margin-top: 20px;
+	//color: @forth-site-light-color;
+	text-align: center;
+	
+	.module-feature-box {
+	    
+		margin: 5px 0 12px 0;
+		text-align: left;
+		
+		> a,
+		> span {
+			.rel();
+			display: block;
+			height: @height;
+			overflow: hidden;
+			
+			padding: 0px (@mvb-features-list-item-height / 3);
+			padding-left: (@mvb-features-list-item-height / 3) + 28px;
+			left: -((@mvb-features-list-item-height / 3) + @border);
+			
+			color: inherit;
+			font-size: inherit;
+			line-height: @height - 4;
+			
+			.rounded(@mvb-features-list-item-height / 2);
+			border: 2px solid fade(@forth-site-light-color, 0%);
+			
+			
+			&:hover {
+				border: 2px solid @font-site-dark-color;
+				border-color: fade(@forth-site-light-color, 12%);
+				background: @font-site-dark-color;
+				background-color: fade(@forth-site-light-color, 4%);
+				
+				i {
+					background: @forth-site-light-color;
+				}
+			}
+			
+			&:before {
+				@size: 6px;
+				content: '';
+				.abs();
+				left: (@mvb-features-list-item-height / 3);
+				top: 50%;
+				margin-top: -(@size / 2);
+				display: block;
+				width: @size;
+				height: @size;
+				
+				.rounded(50%);
+				background: #696969;
+				
+				.transition(background 0.2s ease-in-out);
+			}
+			
+			&:hover:before {
+				background: @link-color-inverted-hover;
+			}
+		}
+		
+		> a:hover {
+			color: @mvb-features-list-color-highlight;
+		}
+	}
+	
+	i {
+		@icon-size: 20px;
+		
+		.inline-block();
+		width: @icon-size;
+		height: @icon-size;
+		margin-right: 20px;
+		.rounded(50%);
+		
+		color: @forth-site-dark-color;
+		font-size: 10px;
+		text-align: center;
+		line-height: @icon-size;
+		background: @mvb-features-list-color-highlight;
+	}
+	
+	.read-more {
+		margin-top: 40px;
+		margin-left: 2px;
+	}
+}
+
+
+.background--dark .module-features-list {
+	color: @font-site-dark-color;
+}

@@ -1,0 +1,173 @@
+.widget_counter_mail_subscribe {
+
+	.follow-widget {
+		overflow: hidden; 
+		margin-left: -3px;
+		
+		&.extended {
+			a {
+				padding: 10px 14px 5px;
+
+				i {
+					text-align: left;
+				}
+			}
+		}
+		
+		a {
+			.rel();
+			display: block;
+			width: 32.3%;
+			height: 81px;
+			float: left;
+			margin-left: 1%;
+			margin-bottom: 4px;
+			padding: 0 14px;
+			
+			color: @font-site-dark-color;
+			
+			> .follow-widget-valign {
+				display: block;
+				.vertical-align();
+			}
+			
+			i {
+				font-size: 24px;
+				display: inline-block;
+				margin-bottom: 5px;
+				line-height: 1em;
+			}
+			
+			.number {
+				font-size: 16px;
+				color: @font-site-dark-color;
+				line-height: 1;
+				font-weight: inherit;
+				text-transform: uppercase;
+				position: relative;
+			}
+			
+			.text {
+				font-size: 12px;
+				line-height: 1;
+				text-transform: uppercase; 
+			}
+			
+			&.tw {
+				background: #50b3e5; 
+				
+				.text {
+					color: #d1f0ff;
+				}
+				
+				.text-shadow(#4ca8d6, 0, 0, 1px);
+			}
+			
+			&.fb {
+				background: #7a90b7; 
+				
+				.text {
+					color: #c5dafe; 
+				}
+				
+				.text-shadow(#6d81a5, 0, 0, 1px);
+			}
+			
+			&.yt {
+				background: #ff6565; 
+				
+				.text {
+					color: #fecbca; 
+				}
+				
+				.text-shadow(#e66463, 0, 0, 1px);
+			}
+		}
+		
+		&.simple {
+			font-weight: 300;
+			a {
+				line-height: 17px;
+				
+				i {
+					float: left;
+					margin-top: 6px;
+					margin-right: 8px;
+				}
+			}
+		}
+	}
+	
+	.subscribe-widget {
+		padding: 10px 10px 15px;
+		
+		.widget-title {
+			text-align: center;
+		}
+		
+		p {
+			color: #585d5e;
+		}
+		
+		.button {
+			padding-left: 7px;
+			i {
+				color: @main-site-light-color - #125060;
+				font-size: 21px;
+				position: absolute;
+				left: 9px;
+				top: 11px;
+			}
+		}
+		
+		
+		&.simple {
+			border: none;
+			padding: 0;
+			position: relative;
+			
+			&>.widget-title,
+			&>p {
+				display: none;
+			}
+			
+			.submit {
+				display: none;
+			}
+			
+			&:after {
+				content: "\e114";
+				width: 20px;
+				height: 20px;
+				font-size: 20px;
+				line-height: 20px;
+				font-family: "streamline-30px" !important;
+				color: #d8d8d8;
+				position: absolute;
+				top: 15px;
+				right: 15px;
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 980px) {
+	.widget_counter_mail_subscribe .follow-widget a span { font-size: 11px !important; }
+}
+
+/*
+
+#feedburner_subscribe {
+	position: relative; }
+#feedburner_subscribe .text {
+    height: 40px; }
+#feedburner_subscribe .submit {
+    width: 34px;
+    height: 34px;
+    position: absolute;
+    z-index: 1;
+    top: 3px;
+    right: 3px;
+    background: #ffb44a url("../img/rss-subscribe-ico.png") center no-repeat;
+    text-align: center;
+    border: none; }*/

@@ -1,0 +1,39 @@
+/* -----------------------------------------
+   Social share panel
+----------------------------------------- */
+.social-share {
+	@color: inherit;
+
+	a {
+		color: @color;
+		
+		.hover-link-inverted-color();
+	}
+	
+	.post-like {
+		.rel();
+		display: inline-block;
+		line-height: 30px;
+		
+		a,
+		.alreadyvoted {
+			padding-left: 20px;
+		}
+		
+		a.voted {
+			color: @color;
+			cursor: default;
+		}
+		
+		i {
+			vertical-align: middle;
+		}
+	}
+}
+
+.entry-meta .social-share .post-like {
+	a,
+	span {
+		height: 21px;
+	}
+}

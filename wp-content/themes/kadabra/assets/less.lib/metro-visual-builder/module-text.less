@@ -1,0 +1,64 @@
+/************************
+	Text Module
+*************************/
+
+.module-text {
+	.textwidget.dropcaps {
+		&:first-letter {
+			float: left;
+			padding: 0 .2em .2em 0;
+			
+			vertical-align: top;
+			line-height: 1em;
+			font-size: 3em;
+		}
+		
+		&.dropcaps-type-rec:first-letter {
+			@outer-size: 1.2em;
+			
+			width: @outer-size;
+			margin: .2em .2em .2em 0;
+			padding: 0;
+			.rounded(2px);
+			
+			font-size: 2em;
+			line-height: @outer-size;
+			text-align: center;
+		}
+		&.dropcaps-type-round:first-letter {
+			@outer-size: 1.2em;
+			
+			width: @outer-size;
+			margin: .2em .2em .2em 0;
+			padding: 0;
+			.rounded(50%);
+			
+			font-size: 2em;
+			line-height: @outer-size;
+			text-align: center;
+		}
+
+		&.dropcaps-style-red {
+			&:first-letter {
+				color: @main-site-light-color;
+			}
+
+			&.dropcaps-type-rec:first-letter,
+			&.dropcaps-type-round:first-letter {
+				color: @forth-site-light-color;
+				background-color: @main-site-light-color;
+			}
+		}
+		&.dropcaps-style-dark {
+			&:first-letter {
+				color: @forth-site-dark-color;
+			}
+
+			&.dropcaps-type-rec:first-letter,
+			&.dropcaps-type-round:first-letter {
+				color: @forth-site-light-color;
+				background-color: @forth-site-dark-color;
+			}
+		}
+	}
+}

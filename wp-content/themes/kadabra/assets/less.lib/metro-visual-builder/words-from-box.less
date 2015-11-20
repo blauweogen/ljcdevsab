@@ -1,0 +1,46 @@
+.words_from_module {
+    text-align: center;
+    .words_from_wrap {
+		overflow: hidden;
+		.avatar {
+			position: relative;
+			width: 120px;
+			height: 120px;
+			display: inline-block;
+
+			img {
+				width: 120px;
+				height: 120px;
+				.rounded(50%);
+			}
+		}
+		.cite {
+			.quote-author.box-name {
+				position: relative;
+
+				color: @title-color;
+				font-size: 18px;
+				font-weight: 600;
+			}
+
+			.quote-sub.dopinfo {
+				color: @subtitle-color;
+				font-size: 16px;
+				font-weight: 300;
+				margin-bottom: 7px;
+			}
+
+		}
+		blockquote {
+			background-color: transparent;
+			padding: 0;
+			color: @font-site-light-color;
+			font-size: 16px;
+			font-style: italic;
+			line-height: 20px;
+			text-align: center;
+			padding: 0 60px;
+		}
+
+    }
+}

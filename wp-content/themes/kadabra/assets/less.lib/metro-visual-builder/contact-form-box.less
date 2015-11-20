@@ -1,0 +1,85 @@
+.module-contact-form {    
+	text-align: center;
+	margin-bottom: (@gutter-width / 2);
+
+	input {
+	    height: 50px;
+	}
+	
+	input[type="text"], 
+	input[type="password"], 
+	input[type="date"], 
+	input[type="datetime"], 
+	input[type="email"], 
+	input[type="number"], 
+	input[type="search"], 
+	input[type="tel"], 
+	input[type="time"], 
+	input[type="url"],
+	textarea {
+		.rel();
+		margin-bottom: 7px;
+	}
+	
+	.button {
+		i {
+		    color: @main-site-light-color - #125060;
+		    &:before {
+			    .abs();
+			    left: 10px;
+			    top: 9px;
+		    }
+		}
+		
+	}
+	
+	.input-wrap {
+		@width: 20px;
+		@padding: 7px;
+		@height: 7px;
+		
+		.rel();
+		margin:0;
+		padding:0;
+		
+		.input-icon {
+			.abs();
+			z-index: 1;
+			top: 50%; left: @padding;
+			width: @width;
+			margin-top: -((@height / 2) + 2);
+			font-size: @height;
+			text-align: center;
+			color: #b2b2b2;
+		}		
+		
+		input {
+			padding-left: @width;
+		}
+		
+		textarea {
+			padding-left: @width;
+		}
+		
+		textarea + .input-icon {
+			top: @padding;
+			margin-top: 0;
+		}
+	}
+	
+	#recaptcha_widget_div {
+		margin-bottom: 7px;
+		
+		#recaptcha_area {
+			margin: 0 auto;
+		}
+		
+		.recaptcha_input_area {
+			height: auto !important;
+			
+			input {
+				height: 33px;
+			}
+		}
+	}
+}

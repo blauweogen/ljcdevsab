@@ -1,0 +1,41 @@
+.module-dividers {
+	.divider-hr {
+		overflow: hidden;
+		margin: @gutter-width + 15 auto;
+		border-bottom: 1px solid @border-color;
+		text-align: center;
+			a {
+				margin: 0;
+				.abs();
+				overflow: hidden;
+				background: #ffffff;
+				.box-shadow(0 0 0 7px #ffffff);
+				left: 50%;
+				.translate(-50%, -50%);
+				span i {
+					padding-right: 10px;
+					margin-left: -10px;
+				}
+			}
+		
+		&.divider-hr-thin {
+			
+		}
+		
+		&.divider-hr-fat {
+			border-bottom-width: 2px;
+		}
+		
+		&.divider-hr-dotted {
+			border-bottom-style: dotted;
+		}
+		
+		&.divider-hr-small {
+			width: 70px;
+		}
+		
+		a {
+			
+		}
+	}
+}

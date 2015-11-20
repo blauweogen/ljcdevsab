@@ -1,0 +1,5117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadabra v1.0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-11 09:28+0200\n"
+"PO-Revision-Date: 2014-03-19 06:51:50+0000\n"
+"Last-Translator: DFDevelopment <dynamicframeworks@gmail.com>\n"
+"Language-Team: DFDevelopment <dynamicframeworks@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../.\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:12
+#@ dfd
+msgid "<strong>404 Error </strong>- no page here"
+msgstr "<strong>ошибка 404</strong>- страница не найдена"
+
+#: 404.php:16
+#@ dfd
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Мы не можем найти то, что Вы ищете. Возможно, поиск или одна из ссылок ниже могут быть полезными."
+
+#: 404.php:20
+#@ dfd
+msgid "Look it in archives"
+msgstr "Ищите в архивах"
+
+#: 404.php:29
+#@ dfd
+msgid "Search can be used"
+msgstr "Можно использовать поиск"
+
+#: 404.php:35
+#@ dfd
+msgid "Most Used Categoriesd"
+msgstr "Наиболее используемые категории"
+
+#: 404.php:44
+#: posts-sidebar-sel.php:146
+#: templates/content.php:15
+#@ dfd
+msgid "Tags also can be used"
+msgstr "Теги также могут использоваться"
+
+#: comments.php:13
+#, php-format
+#@ dfd
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: comments.php:16
+#@ dfd
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: comments.php:36
+#@ dfd
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий нужно отредактировать."
+
+#: comments.php:55
+#@ dfd
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Этот комментарий защищен паролем. Чтобы просмотреть его, введите пароль."
+
+#: comments.php:74
+#: taxonomy.php:27
+#@ dfd
+msgid "Older"
+msgstr "Давние"
+
+#: comments.php:75
+#: taxonomy.php:30
+#@ dfd
+msgid "Newer"
+msgstr "Новые"
+
+#: comments.php:96
+#@ dfd
+msgid "Leave a comment to this post"
+msgstr "Оставьте комментарий на этот пост"
+
+#: comments.php:96
+#, php-format
+#@ dfd
+msgid "Leave a Reply to %s"
+msgstr "Оставить ответ на %s"
+
+#: comments.php:98
+#@ dfd
+msgid "Required fields are marked *"
+msgstr "Обязательные поля обозначены *"
+
+#: comments.php:105
+#, php-format
+#@ dfd
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны<a href=\"%s\">войти в систему</a> чтобы оставить комментарий."
+
+#: comments.php:112
+#, php-format
+#@ dfd
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Зарегистрирован как <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: comments.php:113
+#@ dfd
+msgid "Log out of this account"
+msgstr "Выйти из этого аккаунта"
+
+#: comments.php:113
+#@ dfd
+msgid "Log out &raquo;"
+msgstr "Выйти из системы &raquo;"
+
+#: comments.php:117
+#: inc/mvb/html/public/mvb_contact_form.php:75
+#: woocommerce/single-product-reviews.php:58
+#@ dfd
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:117
+#: comments.php:119
+#@ dfd
+msgid "*"
+msgstr "*"
+
+#: comments.php:119
+#@ dfd
+msgid "Email (will not be published)"
+msgstr "Email (не будет опубликован)"
+
+#: comments.php:121
+#@ dfd
+msgid "Website"
+msgstr "Вебсайт"
+
+#: comments.php:125
+#@ dfd
+msgid "Comment"
+msgstr "Комментарий"
+
+#: comments.php:130
+#@ dfd
+msgid "Submit Comment"
+msgstr "Оставить комментарий"
+
+#: functions.php:45
+#@ dfd
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: functions.php:46
+#@ dfd
+msgid "Footer navigation"
+msgstr "Навигация футера"
+
+#: posts-sidebar-sel.php:134
+#: templates/content-search.php:7
+#: templates/content.php:5
+#@ dfd
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: posts-sidebar-sel.php:139
+#: templates/content-search.php:11
+#: templates/content.php:9
+#@ dfd
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, ничего не найдено по Вашему запросу. Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+#: single.php:63
+#@ dfd
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: taxonomy.php:12
+#: tmp-posts-left-img.php:68
+#: tmp-posts-masonry-2-left-side.php:67
+#: tmp-posts-masonry-2-side.php:66
+#: tmp-posts-masonry-2.php:66
+#: tmp-posts-masonry-3-left-sidebar.php:66
+#: tmp-posts-masonry-3-right-sidebar.php:64
+#: tmp-posts-masonry-3.php:64
+#: tmp-posts-right-img.php:68
+#@ dfd
+msgid "Sorry, no results were found."
+msgstr "Извините, ничего не найдено."
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:134
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:111
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:121
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:113
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:270
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:134
+#: inc/mvb/html/public/mvb_presentation_boxes_vertical.php:74
+#: inc/wrapping.php:50
+#: tmp-portfolio-masonry_excerpt.php:104
+#@ dfd
+msgid "Read more"
+msgstr "Читать больше"
+
+#: inc/actions.php:144
+#@ dfd
+msgid "Prev"
+msgstr "Пред."
+
+#: inc/actions.php:145
+#: inc/components.php:49
+#@ dfd
+msgid "Next"
+msgstr "След."
+
+#: inc/actions.php:166
+#: templates/top-folio.php:46
+#: templates/top-forum.php:67
+#@ dfd
+msgid "Home"
+msgstr "Домой"
+
+#: inc/actions.php:167
+#, php-format
+#@ dfd
+msgid "Archive by Category \"%s\""
+msgstr "Архивные страницы по категориям \"%s\""
+
+#: inc/actions.php:168
+#, php-format
+#@ dfd
+msgid "Search Results for \"%s\" Query"
+msgstr "Результаты поиска для \"%s\" Query"
+
+#: inc/actions.php:169
+#, php-format
+#@ dfd
+msgid "Posts Tagged \"%s\""
+msgstr "Posts Tagged \"%s\""
+
+#: inc/actions.php:170
+#, php-format
+#@ dfd
+msgid "Articles Posted by %s"
+msgstr "Посты опубликованы %s"
+
+#: inc/actions.php:171
+#: woocommerce/shop/breadcrumb.php:160
+#@ dfd
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: inc/actions.php:301
+#: woocommerce/shop/breadcrumb.php:216
+#@ dfd
+msgid "Page"
+msgstr "Страница"
+
+#: inc/components.php:48
+#@ dfd
+msgid "Previous"
+msgstr "Пред."
+
+#: inc/components.php:117
+#: inc/widgets/widget-login.php:61
+#@ dfd
+msgid "Login on site"
+msgstr "Войти на сайт"
+
+#: inc/components.php:352
+#: inc/components.php:356
+#@ dfd
+msgid "I like this article"
+msgstr "Мне нравится эта статья"
+
+#: inc/components.php:469
+#: inc/mvb/html/public/mvb_recent_works.php:40
+#: inc/widgets/widget-category-news.php:136
+#@ dfd
+msgid "All"
+msgstr "Все"
+
+#: inc/menu.php:6
+#, php-format
+#@ dfd
+msgid "Please assign a menu to the primary menu location under %1$s."
+msgstr "Пожалуйста, назначьте меню к основному расположению меню под %1$s."
+
+#: inc/menu.php:7
+#, php-format
+#@ dfd
+msgid "<a href=\"%s\">Menus</a>"
+msgstr "<a href=\"%s\">Меню</a>"
+
+#: inc/post-type.php:8
+#@ dfd
+msgid "Portfolios"
+msgstr "Портфолио"
+
+#: inc/post-type.php:9
+#@ dfd
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: inc/post-type.php:10
+#@ dfd
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: inc/post-type.php:11
+#@ dfd
+msgid "Add New Portfolio item"
+msgstr "Добавить новое портфолио"
+
+#: inc/post-type.php:12
+#@ dfd
+msgid "Edit Portfolio item"
+msgstr "Редактировать портфолио"
+
+#: inc/post-type.php:13
+#@ dfd
+msgid "New Portfolio item"
+msgstr "Новое портфолио"
+
+#: inc/post-type.php:14
+#@ dfd
+msgid "All Portfolio items"
+msgstr "Все портфолио"
+
+#: inc/post-type.php:15
+#@ dfd
+msgid "View Portfolio item"
+msgstr "Просмотреть портфолио"
+
+#: inc/post-type.php:16
+#@ dfd
+msgid "Search Portfolios item"
+msgstr "Искать портфолио"
+
+#: inc/post-type.php:17
+#@ dfd
+msgid "No products found"
+msgstr "Портфолио не найдено"
+
+#: inc/post-type.php:18
+#@ dfd
+msgid "No products found in the Trash"
+msgstr "В корзине никаких портфолио не найдено"
+
+#: inc/post-type.php:39
+#, php-format
+#@ dfd
+msgid "Portfolio updated. <a href=\"%s\">View product</a>"
+msgstr "Портфолио обновлено. <a href=\"%s\">Просмотреть товар</a>"
+
+#: inc/post-type.php:40
+#@ dfd
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено."
+
+#: inc/post-type.php:41
+#@ dfd
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено."
+
+#: inc/post-type.php:42
+#@ dfd
+msgid "Portfolio updated."
+msgstr "Портфолио обновлено."
+
+#: inc/post-type.php:43
+#, php-format
+#@ dfd
+msgid "Portfolio restored to revision from %s"
+msgstr "Портфолио восстановлено для просмотра из %s"
+
+#: inc/post-type.php:44
+#, php-format
+#@ dfd
+msgid "Portfolio published. <a href=\"%s\">View product</a>"
+msgstr "Портфолио опубликовано. <a href=\"%s\">Просмотреть товар</a>"
+
+#: inc/post-type.php:45
+#@ dfd
+msgid "Portfolio saved."
+msgstr "Портфолио сохранено."
+
+#: inc/post-type.php:46
+#, php-format
+#@ dfd
+msgid "Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr "Портфолио отправлено. <a target=\"_blank\" href=\"%s\">Просмотреть товар</a>"
+
+#: inc/post-type.php:47
+#, php-format
+#@ dfd
+msgid "Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview product</a>"
+msgstr "Портфолио созданно для: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Просмотреть товар</a>"
+
+#: inc/post-type.php:47
+#@ dfd
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: inc/post-type.php:48
+#, php-format
+#@ dfd
+msgid "Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr "Эскиз портфолио обновлен. <a target=\"_blank\" href=\"%s\">Просмотреть товар</a>"
+
+#: inc/post-type.php:73
+#: inc/post-type.php:83
+#@ dfd
+msgid "Portfolio Categories"
+msgstr "Категории портфолио"
+
+#: inc/post-type.php:74
+#@ dfd
+msgid "Portfolio Category"
+msgstr "Категория портфолио"
+
+#: inc/post-type.php:75
+#@ dfd
+msgid "Search Portfolio Categories"
+msgstr "Искать категории портфолио"
+
+#: inc/post-type.php:76
+#@ dfd
+msgid "All Portfolio Categories"
+msgstr "Все категории портфолио"
+
+#: inc/post-type.php:77
+#@ dfd
+msgid "Parent Portfolio Category"
+msgstr "Родительсткая категория портфолио"
+
+#: inc/post-type.php:78
+#@ dfd
+msgid "Parent Portfolio Category:"
+msgstr "Родительсткая категория портфолио:"
+
+#: inc/post-type.php:79
+#@ dfd
+msgid "Edit Portfolio Category"
+msgstr "Редактировать категорию портфолио"
+
+#: inc/post-type.php:80
+#@ dfd
+msgid "Update Portfolio Category"
+msgstr "Обновить категорию портфолио"
+
+#: inc/post-type.php:81
+#@ dfd
+msgid "Add New Portfolio Category"
+msgstr "Добавить новую категорию портфолио"
+
+#: inc/post-type.php:82
+#@ dfd
+msgid "New Portfolio Category"
+msgstr "Новая категория портфолио"
+
+#: inc/post-type.php:97
+#: inc/post-type.php:98
+#@ dfd
+msgid "Time Line"
+msgstr "Временная строка"
+
+#: inc/post-type.php:99
+#@ dfd
+msgid "Add New Time Line Item"
+msgstr "Добавить новый пункт меню"
+
+#: inc/post-type.php:100
+#@ dfd
+msgid "Edit Time Line Item"
+msgstr "Редактировать пункт меню"
+
+#: inc/post-type.php:101
+#@ dfd
+msgid "Search Time Line Items"
+msgstr "Искать пункты меню"
+
+#: inc/post-type.php:102
+#@ dfd
+msgid "Sorry: Time Line Item Not Found"
+msgstr "Извините: не было найдено ни одного пункта меню"
+
+#: inc/post-type.php:103
+#@ dfd
+msgid "Sorry: Time Line Item Not Found In Trash"
+msgstr "Извините: в корзине не было найдено ни одного пункта меню"
+
+#: inc/post-type.php:127
+#@ dfd
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: inc/post-type.php:128
+#@ dfd
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: inc/post-type.php:129
+#@ dfd
+msgid "Add New Testimonial Item"
+msgstr "Добавить новый отзыв"
+
+#: inc/post-type.php:130
+#@ dfd
+msgid "Edit Testimonial Item"
+msgstr "Редактировать отзыв"
+
+#: inc/post-type.php:131
+#@ dfd
+msgid "Search Testimonial Items"
+msgstr "Искать отзыв"
+
+#: inc/post-type.php:132
+#@ dfd
+msgid "Sorry: Testimonial Item Not Found"
+msgstr "Извините: не было найдено ни одного пункта отзывов"
+
+#: inc/post-type.php:133
+#@ dfd
+msgid "Sorry: Testimonial Item Not Found In Trash"
+msgstr "Извините: в корзине не было найдено ни одного пункта отзывов"
+
+#: inc/widgets.php:8
+#@ dfd
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: inc/widgets.php:16
+#@ dfd
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+#: inc/widgets.php:26
+#@ dfd
+msgid "Footer column 1"
+msgstr "Колонка футера 1"
+
+#: inc/widgets.php:34
+#@ dfd
+msgid "Footer column 2"
+msgstr "Колонка футера 2"
+
+#: inc/widgets.php:42
+#@ dfd
+msgid "Footer column 3"
+msgstr "Колонка футера 3"
+
+#: inc/widgets.php:51
+#@ dfd
+msgid "Sidebar for shop. Product page"
+msgstr "Сайдбар для магазина. Страница товара"
+
+#: inc/widgets.php:60
+#@ dfd
+msgid "Sidebar for shop. Product list"
+msgstr "Сайдбар для магазина. Список товаров"
+
+#: inc/widgets.php:69
+#@ dfd
+msgid "BBPress right"
+msgstr "BBPress справа"
+
+#: inc/widgets.php:174
+#@ dfd
+msgid "Title allocate"
+msgstr "Выделить название"
+
+#: inc/woocommerce.php:75
+#@ dfd
+msgid "View your shopping cart"
+msgstr "Просмотреть вашу корзину"
+
+#: inc/custom_metabox/custom-headers.php:25
+#@ dfd
+msgid "Select header type"
+msgstr "Выбрать тип хедера"
+
+#: inc/custom_metabox/custom-sidebar.php:25
+#@ dfd
+msgid "Select custom sidebar"
+msgstr "Выбрать пользовательский сайдбар"
+
+#: inc/custom_metabox/features-boxes.php:26
+#@ dfd
+msgid "Feature box options"
+msgstr "Опции блока характеристик"
+
+#: inc/custom_metabox/features-boxes.php:34
+#@ dfd
+msgid "Icon for features box"
+msgstr "Иконка для блока характеристик"
+
+#: inc/custom_metabox/headers-boxes.php:26
+#@ dfd
+msgid "Page header background"
+msgstr "Фон шапки страницы"
+
+#: inc/custom_metabox/headers-boxes.php:34
+#@ dfd
+msgid "Select image pattern for header background"
+msgstr "Выбрать шаблон изображения для фона шапки сайта"
+
+#: inc/custom_metabox/headers-boxes.php:42
+#@ dfd
+msgid "Select color for header background"
+msgstr "Выберите цвет фона шапки."
+
+#: inc/custom_metabox/headers-boxes.php:49
+#@ dfd
+msgid "Page subtitle"
+msgstr "Подзаголовок страницы"
+
+#: inc/custom_metabox/page-boxes.php:25
+#: inc/custom_metabox/page-boxes.php:71
+#@ dfd
+msgid "Select Blog parameters"
+msgstr "Выбрать параметры Блога"
+
+#: inc/custom_metabox/page-boxes.php:111
+#@ dfd
+msgid "Boxed Page background options"
+msgstr "Опции фона для страницы в рамке"
+
+#: inc/custom_metabox/page-boxes.php:118
+#@ dfd
+msgid "Background color"
+msgstr "Цвет фона сайта"
+
+#: inc/custom_metabox/page-boxes.php:119
+#@ dfd
+msgid "Color of body of page (page will be set to boxed)"
+msgstr "Цвет фона страницы (страница будет установлена в рамке)"
+
+#: inc/custom_metabox/page-boxes.php:125
+#@ dfd
+msgid "Fixed backrgound"
+msgstr "Зафиксировать фон сайта"
+
+#: inc/custom_metabox/page-boxes.php:126
+#@ dfd
+msgid "Check if you want to bg will be fixed on page scroll"
+msgstr "Отметьте, если хотите, чтобы фон был зафиксирован при прокрутке страницы"
+
+#: inc/custom_metabox/page-boxes.php:131
+#@ dfd
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+#: inc/custom_metabox/page-boxes.php:132
+#@ dfd
+msgid "Upload an image or enter an URL."
+msgstr "Загрузите Ваше собственное изображение или введите URL"
+
+#: inc/custom_metabox/page-boxes.php:137
+#: options/options.php:908
+#@ dfd
+msgid "Background image repeat"
+msgstr "Повтор фонового изображения"
+
+#: inc/custom_metabox/page-boxes.php:154
+#@ dfd
+msgid "Block before content"
+msgstr "Блок перед контентом"
+
+#: inc/custom_metabox/page-boxes.php:162
+#@ dfd
+msgid "Text block ( shortcodes will work here )"
+msgstr "Текстовый блок ( с шорткодами)"
+
+#: inc/custom_metabox/page-boxes.php:180
+#@ dfd
+msgid "Additional Text fields"
+msgstr "Дополнительные текстовые поля"
+
+#: inc/custom_metabox/page-boxes.php:188
+#: inc/widgets/widget-text.php:9
+#@ dfd
+msgid "Text block"
+msgstr "Текстовый блок"
+
+#: inc/custom_metabox/page-boxes.php:202
+#@ dfd
+msgid "QR Code address"
+msgstr "Адресс QR-кода "
+
+#: inc/custom_metabox/portfolio-boxes.php:28
+#@ dfd
+msgid "Select portfolio parameters"
+msgstr "Выбрать параметры портфолио"
+
+#: inc/custom_metabox/portfolio-boxes.php:79
+#@ dfd
+msgid "Number of items"
+msgstr "Количество элементов"
+
+#: inc/custom_metabox/portfolio-boxes.php:80
+#@ dfd
+msgid "Number of portfolio items that will be show on page"
+msgstr "Количество элементов портфолио, которые будут отображаться на странице"
+
+#: inc/custom_metabox/portfolio-boxes.php:89
+#@ dfd
+msgid "Portfolio Video"
+msgstr "Видео портфолио"
+
+#: inc/custom_metabox/portfolio-boxes.php:102
+#: inc/custom_metabox/post-boxes.php:43
+#@ dfd
+msgid "Self hosted video file in mp4 format"
+msgstr "Загружаемое видео в формате mp4 "
+
+#: inc/custom_metabox/portfolio-boxes.php:108
+#: inc/custom_metabox/post-boxes.php:49
+#@ dfd
+msgid "Self hosted video file in webM format"
+msgstr "Загружаемое видео в формате webM"
+
+#: inc/custom_metabox/portfolio-boxes.php:118
+#@ dfd
+msgid "Portfolio Template"
+msgstr "Шаблон портфолио"
+
+#: inc/custom_metabox/portfolio-boxes.php:133
+#@ dfd
+msgid "Portfolio inside 1 variant"
+msgstr "Портфолио вариант 1"
+
+#: inc/custom_metabox/portfolio-boxes.php:137
+#@ dfd
+msgid "Portfolio inside 2 variant"
+msgstr "Портфолио вариант 2"
+
+#: inc/custom_metabox/portfolio-boxes.php:161
+#@ dfd
+msgid "Images gallery"
+msgstr "Галерея изображений"
+
+#: inc/custom_metabox/portfolio-boxes.php:202
+#: inc/custom_metabox/portfolio-boxes.php:262
+#@ dfd
+msgid "Delete image"
+msgstr "Удалить изображение"
+
+#: inc/custom_metabox/portfolio-boxes.php:202
+#: inc/custom_metabox/portfolio-boxes.php:262
+#@ dfd
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/custom_metabox/portfolio-boxes.php:213
+#@ dfd
+msgid "Add gallery images"
+msgstr "Добавить изображения галереи"
+
+#: inc/custom_metabox/portfolio-boxes.php:239
+#@ dfd
+msgid "Add Images to Product Gallery"
+msgstr "Добавить картинку в галерею товаров"
+
+#: inc/custom_metabox/portfolio-boxes.php:241
+#@ dfd
+msgid "Add to gallery"
+msgstr "Добавить в галерею"
+
+#: inc/custom_metabox/post-boxes.php:23
+#@ dfd
+msgid "Post Video"
+msgstr "Видеопост"
+
+#: inc/custom_metabox/post-boxes.php:31
+#@ dfd
+msgid "YouTube video ID"
+msgstr "YouTube видео ID"
+
+#: inc/custom_metabox/post-boxes.php:37
+#@ dfd
+msgid "Vimeo video ID"
+msgstr "Vimeo видео ID"
+
+#: inc/custom_metabox/post-boxes.php:61
+#@ dfd
+msgid "Post Audio"
+msgstr "Аудио пост"
+
+#: inc/custom_metabox/post-boxes.php:69
+#@ dfd
+msgid "Use audio embed code"
+msgstr "Использовать аудио код для вставки"
+
+#: inc/custom_metabox/post-boxes.php:75
+#@ dfd
+msgid "Self hosted audio file in mp3 format"
+msgstr "Загружаемый аудиофайл в формате mp3"
+
+#: inc/custom_metabox/product-boxes.php:26
+#@ dfd
+msgid "Product subtitle"
+msgstr "Подзаголовок товара"
+
+#: inc/custom_metabox/product-boxes.php:34
+#@ dfd
+msgid "Set product subtitle"
+msgstr "Установить подзаголовок товара"
+
+#: inc/custom_metabox/testimonial-boxes.php:26
+#@ dfd
+msgid "Testimonial info"
+msgstr "Информация отзыва"
+
+#: inc/custom_metabox/testimonial-boxes.php:33
+#@ dfd
+msgid "Author of testimonial"
+msgstr "Автор отзыва"
+
+#: inc/custom_metabox/testimonial-boxes.php:39
+#@ dfd
+msgid "Author additional"
+msgstr "Дополнительная информация об авторе"
+
+#: inc/custom_metabox/timeline-boxes.php:25
+#: inc/mvb/gears/libraries/mvb_contact_form.php:46
+#: inc/mvb/gears/libraries/mvb_facts.php:43
+#@ dfd
+msgid "Sub Title"
+msgstr "Подзаголовок"
+
+#: inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+#@ dfd
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Пожалуйста, введите свое имя пользователя на Envato Marketplace"
+
+#: inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+#@ dfd
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Пожалуйста, введите API ключ на Envato Marketplace"
+
+#: inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+#@ dfd
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"set\" обязательный параметр."
+
+#: inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+#@ dfd
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envato Marketplace \"item ID\" обязательный параметр."
+
+#: inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:291
+#@ dfd
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr "Загрузка пакета обновления из Envato API&#8230;"
+
+#: inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:302
+#@ dfd
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr "Загрузка пакета установки из Envato API&#8230;"
+
+#: inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:481
+#@ dfd
+msgid "Undefined update error"
+msgstr "Неопределенная ошибка обновления"
+
+#: inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:493
+#@ dfd
+msgid "Has no updates"
+msgstr "Нет обновлений"
+
+#: inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:507
+#, php-format
+#@ dfd
+msgid "To enable theme update notifications, please enter your Envato Marketplace credentials in the %s"
+msgstr "Чтобы включить уведомления об обновлениях темы, пожалуйста, введите свои учетные данные на Envato Marketplace в %s"
+
+#: inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:521
+#, php-format
+#@ dfd
+msgid "An update to the theme is available! Head over to %s to update it now."
+msgstr "Обновление темы сейчас доступно! Перейдите сюда %s, чтобы обновить сейчас."
+
+#: inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:542
+#, php-format
+#@ dfd
+msgid "Theme '%s' was updated"
+msgstr "Тема '%s' обновлена"
+
+#: inc/lib/plugin-activation.php:155
+#: inc/lib/plugins.php:207
+#@ dfd
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины "
+
+#: inc/lib/plugin-activation.php:156
+#: inc/lib/plugins.php:208
+#@ dfd
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/lib/plugin-activation.php:157
+#: inc/lib/plugins.php:209
+#, php-format
+#@ dfd
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/lib/plugin-activation.php:158
+#@ dfd
+msgid "Something went wrong."
+msgstr "Что-то пошло не так"
+
+#: inc/lib/plugin-activation.php:169
+#: inc/lib/plugins.php:221
+#@ dfd
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке необходимых плагинов"
+
+#: inc/lib/plugin-activation.php:170
+#@ dfd
+msgid "Return to the dashboard"
+msgstr "Вернуться к админ панели"
+
+#: inc/lib/plugin-activation.php:171
+#: inc/lib/plugin-activation.php:1840
+#: inc/lib/plugins.php:222
+#@ dfd
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован"
+
+#: inc/lib/plugin-activation.php:173
+#, php-format
+#@ dfd
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#: inc/lib/plugin-activation.php:174
+#@ dfd
+msgid "Dismiss this notice"
+msgstr "Проигнорировать это уведомление"
+
+#: inc/lib/plugin-activation.php:1085
+#@ dfd
+msgid "External Link"
+msgstr "Внешняя ссылка"
+
+#: inc/lib/plugin-activation.php:1090
+#@ dfd
+msgid "Private Repository"
+msgstr "Личный репозиторий"
+
+#: inc/lib/plugin-activation.php:1093
+#@ dfd
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный "
+
+#: inc/lib/plugin-activation.php:1097
+#@ dfd
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress "
+
+#: inc/lib/plugin-activation.php:1100
+#@ dfd
+msgid "Required"
+msgstr " (требуется)"
+
+#: inc/lib/plugin-activation.php:1100
+#@ dfd
+msgid "Recommended"
+msgstr "Рекомендованный"
+
+#: inc/lib/plugin-activation.php:1103
+#@ dfd
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/lib/plugin-activation.php:1105
+#@ dfd
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован "
+
+#: inc/lib/plugin-activation.php:1275
+#, php-format
+#@ dfd
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Нет плагинов для установки или активации. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+
+#: inc/lib/plugin-activation.php:1291
+#@ dfd
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/lib/plugin-activation.php:1292
+#@ dfd
+msgid "Source"
+msgstr "Источник"
+
+#: inc/lib/plugin-activation.php:1293
+#@ dfd
+msgid "Type"
+msgstr "Тип"
+
+#: inc/lib/plugin-activation.php:1294
+#@ dfd
+msgid "Status"
+msgstr "Статус"
+
+#: inc/lib/plugin-activation.php:1312
+#@ dfd
+msgid "Install"
+msgstr "Установить"
+
+#: inc/lib/plugin-activation.php:1313
+#@ dfd
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/lib/plugin-activation.php:1823
+#@ dfd
+msgid "Install package not available."
+msgstr "Пакет установки недоступен"
+
+#: inc/lib/plugin-activation.php:1824
+#, php-format
+#@ dfd
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка пакета установки из <span class=\"code\">%s</span>&#8230;"
+
+#: inc/lib/plugin-activation.php:1825
+#@ dfd
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+#: inc/lib/plugin-activation.php:1826
+#@ dfd
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+#: inc/lib/plugin-activation.php:1827
+#@ dfd
+msgid "Plugin install failed."
+msgstr "Установка плагина не удалась "
+
+#: inc/lib/plugin-activation.php:1828
+#@ dfd
+msgid "Plugin installed successfully."
+msgstr "Плагин установлен успешно"
+
+#: inc/lib/plugin-activation.php:1839
+#@ dfd
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась"
+
+#: inc/lib/plugin-activation.php:1949
+#@ dfd
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации начался. Это может занять некоторое время, пожалуйста, подождите."
+
+#: inc/lib/plugin-activation.php:1950
+#, php-format
+#@ dfd
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирван успешно."
+
+#: inc/lib/plugin-activation.php:1950
+#: inc/lib/plugin-activation.php:1959
+#@ dfd
+msgid "Show Details"
+msgstr "Отображать детали"
+
+#: inc/lib/plugin-activation.php:1950
+#: inc/lib/plugin-activation.php:1959
+#@ dfd
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: inc/lib/plugin-activation.php:1951
+#@ dfd
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были успешно завершены"
+
+#: inc/lib/plugin-activation.php:1952
+#, php-format
+#@ dfd
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/lib/plugin-activation.php:1956
+#@ dfd
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки начался. Это может занять некоторое время, пожалуйста, подождите."
+
+#: inc/lib/plugin-activation.php:1957
+#, php-format
+#@ dfd
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Во время установки произошла ошибка %1$s: <strong>%2$s</strong>."
+
+#: inc/lib/plugin-activation.php:1958
+#, php-format
+#@ dfd
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась"
+
+#: inc/lib/plugin-activation.php:1959
+#, php-format
+#@ dfd
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно"
+
+#: inc/lib/plugin-activation.php:1960
+#@ dfd
+msgid "All installations have been completed."
+msgstr "Все установки были успешно завершены"
+
+#: inc/lib/plugin-activation.php:1961
+#, php-format
+#@ dfd
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/lib/plugin-activation.php:2052
+#@ dfd
+msgid "Return to the Dashboard"
+msgstr "Вернуться к консоли"
+
+#: inc/lib/plugins.php:210
+#@ dfd
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина"
+
+#: inc/lib/plugins.php:223
+#, php-format
+#@ dfd
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и активированы успешно. %s"
+
+#: inc/lib/metabox/init.php:210
+#: options/options/fields/icon/field_icon.php:28
+#@ dfd
+msgid "Add Icon"
+msgstr "Добавить иконку"
+
+#: inc/lib/metabox/init.php:217
+#@ dfd
+msgid "-- Select a sidebar --"
+msgstr "-- Выбрать сайдбар --"
+
+#: inc/lib/metabox/init.php:230
+#@ dfd
+msgid "Please install SMK Sidebar Generator plugin in Apperance -> Install plugins"
+msgstr "Пожалуйста, установите плагин SMK Sidebar Generator в Внешний вид -> Установить плагины"
+
+#: inc/lib/metabox/init.php:238
+#@ dfd
+msgid "-- Select a header --"
+msgstr "-- Выбрать хедер --"
+
+#: inc/lib/metabox/init.php:681
+#@ dfd
+msgid "Please Try Again"
+msgstr "Пожалуйста, попробуйте снова"
+
+#: inc/lib/metabox/init.php:698
+#@ dfd
+msgid "Remove Embed"
+msgstr "Удалить "
+
+#: inc/lib/metabox/init.php:704
+#, php-format
+#@ dfd
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Не найдены oEmbed результаты для %s. Дополнительная информация на"
+
+#. translators: %s: title of menu item which is invalid
+#: inc/menu/edit_mega_menu_walker.php:90
+#, php-format
+#@ dfd
+msgid "%s (Invalid)"
+msgstr "%s (Недействительный)"
+
+#. translators: %s: title of menu item in draft status
+#: inc/menu/edit_mega_menu_walker.php:94
+#, php-format
+#@ dfd
+msgid "%s (Pending)"
+msgstr "%s (В ожидании)"
+
+#: inc/menu/edit_mega_menu_walker.php:107
+#@ dfd
+msgid "sub item"
+msgstr "Подэлемент"
+
+#: inc/menu/edit_mega_menu_walker.php:137
+#: inc/menu/edit_mega_menu_walker.php:139
+#@ dfd
+msgid "Edit Menu Item"
+msgstr "Редактировать пункт меню"
+
+#: inc/menu/edit_mega_menu_walker.php:148
+#@ dfd
+msgid "URL"
+msgstr "URL"
+
+#: inc/menu/edit_mega_menu_walker.php:155
+#@ dfd
+msgid "Navigation Label"
+msgstr "Метка навигации"
+
+#: inc/menu/edit_mega_menu_walker.php:161
+#@ dfd
+msgid "Title Attribute"
+msgstr "Заголовок Атрибут"
+
+#: inc/menu/edit_mega_menu_walker.php:168
+#@ dfd
+msgid "Open link in a new window/tab"
+msgstr "Открыть ссылку в новом окне"
+
+#: inc/menu/edit_mega_menu_walker.php:173
+#@ dfd
+msgid "CSS Classes (optional)"
+msgstr "CSS классы (опционально)"
+
+#: inc/menu/edit_mega_menu_walker.php:179
+#@ dfd
+msgid "Link Relationship (XFN)"
+msgstr "Ссылка взаимосвязи (XFN)"
+
+#: inc/menu/edit_mega_menu_walker.php:215
+#: inc/mvb/gears/libraries/mvb_clients.php:137
+#: inc/mvb/gears/libraries/mvb_facts.php:101
+#: inc/mvb/gears/libraries/mvb_recent_news.php:56
+#: inc/widgets/widget-audio.php:45
+#: inc/widgets/widget-login.php:28
+#: inc/widgets/widget-video.php:44
+#: templates/portfolio/inside-folio_inside_1.php:9
+#: templates/portfolio/inside-folio_inside_2.php:91
+#@ dfd
+msgid "Description"
+msgstr "Описание"
+
+#: inc/menu/edit_mega_menu_walker.php:217
+#@ dfd
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "Описание будет отображаться в меню, если данная тема поддерживает эту возможность."
+
+#: inc/menu/edit_mega_menu_walker.php:223
+#@ dfd
+msgid "Move"
+msgstr "Подвинуть"
+
+#: inc/menu/edit_mega_menu_walker.php:224
+#@ dfd
+msgid "Up one"
+msgstr "На одну позицию вверх"
+
+#: inc/menu/edit_mega_menu_walker.php:225
+#@ dfd
+msgid "Down one"
+msgstr "На одну позицию вниз"
+
+#: inc/menu/edit_mega_menu_walker.php:228
+#@ dfd
+msgid "To the top"
+msgstr "Вверх"
+
+#: inc/menu/edit_mega_menu_walker.php:235
+#, php-format
+#@ dfd
+msgid "Original: %s"
+msgstr "Исходный: %s"
+
+#: inc/menu/edit_mega_menu_walker.php:248
+#: options/options/fields/multi_text/field_multi_text.php:31
+#: options/options/fields/multi_text/field_multi_text.php:35
+#: options/options/fields/multi_text/field_multi_text.php:38
+#: options/options/fields/social/field_social.php:35
+#: options/options/fields/social/field_social.php:43
+#: options/options/fields/social/field_social.php:47
+#@ dfd
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/menu/edit_mega_menu_walker.php:249
+#@ dfd
+msgid "Cancel"
+msgstr "Отменить"
+
+#: inc/menu/mega_menu.php:16
+#: inc/mvb/gears/libraries/mvb_accordion.php:52
+#: inc/mvb/gears/libraries/mvb_facts.php:74
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:98
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:75
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:85
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:77
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:98
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:107
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:52
+#@ dfd
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/menu/mega_menu.php:22
+#: inc/mvb/gears/libraries/mvb_facts.php:90
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:67
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:67
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:67
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:61
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:67
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:67
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:67
+#@ dfd
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/menu/mega_menu.php:30
+#@ dfd
+msgid "Enable mega menu"
+msgstr "Включить мега меню"
+
+#: inc/menu/mega_menu.php:32
+#: inc/menu/mega_menu.php:53
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:99
+#: inc/mvb/gears/libraries/mvb_recent_news.php:70
+#: inc/widgets/widget-tabs.php:198
+#: inc/widgets/widget-tweets.php:227
+#@ dfd
+msgid "Yes"
+msgstr "Да"
+
+#: inc/menu/mega_menu.php:32
+#: inc/menu/mega_menu.php:53
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:99
+#: inc/mvb/gears/libraries/mvb_recent_news.php:70
+#: inc/widgets/widget-tabs.php:197
+#: inc/widgets/widget-tweets.php:222
+#: options/options.php:343
+#@ dfd
+msgid "No"
+msgstr "Нет"
+
+#: inc/menu/mega_menu.php:38
+#@ dfd
+msgid "Columns"
+msgstr "Колонки"
+
+#: inc/menu/mega_menu.php:51
+#@ dfd
+msgid "Bordered items"
+msgstr "Элементы с границей"
+
+#: inc/menu/mega_menu.php:132
+#@ dfd
+msgid "Add icon"
+msgstr "Добавить иконку"
+
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:18
+#@ dfd
+msgid "Tiny Post list"
+msgstr "Список крошечных постов"
+
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:19
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:19
+#@ dfd
+msgid "Add your blog posts"
+msgstr "Добавить Ваши сообщения в блоге"
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:41
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:43
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:43
+#: inc/mvb/gears/libraries/mvb_clients.php:43
+#: inc/mvb/gears/libraries/mvb_contact_form.php:42
+#: inc/mvb/gears/libraries/mvb_facts.php:39
+#: inc/mvb/gears/libraries/mvb_facts.php:85
+#: inc/mvb/gears/libraries/mvb_gmaps.php:39
+#: inc/mvb/gears/libraries/mvb_our_team.php:41
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:41
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:62
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:41
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:61
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:41
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:62
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:41
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:56
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:41
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:62
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:41
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:62
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:41
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:62
+#: inc/mvb/gears/libraries/mvb_recent_news.php:41
+#: inc/mvb/gears/libraries/mvb_testimonials.php:41
+#: inc/mvb/gears/libraries/mvb_testimonials.php:54
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:44
+#: inc/widgets/widget-cat-tabs.php:21
+#: inc/widgets/widget-login.php:20
+#: inc/widgets/widget-news-categories-list.php:20
+#: inc/widgets/widget-recent.php:25
+#: inc/widgets/widget-testimonials.php:21
+#: inc/widgets/widget-vcard-simple.php:19
+#@ dfd
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:48
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:48
+#: inc/mvb/gears/libraries/mvb_recent_news.php:46
+#: inc/widgets/widget-category-news.php:132
+#@ dfd
+msgid "Select category"
+msgstr "Выбрать категорию"
+
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:49
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:49
+#: inc/mvb/gears/libraries/mvb_recent_news.php:47
+#: inc/widgets/widget_categories.php:19
+#: inc/widgets/widget_categories.php:115
+#@ dfd
+msgid "Categories"
+msgstr "Все категории"
+
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:57
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:57
+#: inc/widgets/widget-category-news.php:128
+#@ dfd
+msgid "Number of posts"
+msgstr "Количество постов"
+
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:64
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:72
+#@ dfd
+msgid "Display the meta"
+msgstr "Отображать мета"
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:74
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:74
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:82
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:64
+#: inc/mvb/gears/libraries/mvb_clients.php:94
+#: inc/mvb/gears/libraries/mvb_gmaps.php:85
+#: inc/mvb/gears/libraries/mvb_our_team.php:164
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:143
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:115
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:119
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:130
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:122
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:143
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:152
+#: inc/mvb/gears/libraries/mvb_recent_news.php:79
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:52
+#: inc/mvb/gears/libraries/mvb_testimonials.php:96
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:83
+#@ dfd
+msgid "Appear effects"
+msgstr "Эффект появления"
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:75
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:75
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:83
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:65
+#: inc/mvb/gears/libraries/mvb_clients.php:95
+#: inc/mvb/gears/libraries/mvb_gmaps.php:86
+#: inc/mvb/gears/libraries/mvb_our_team.php:165
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:144
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:116
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:120
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:131
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:123
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:144
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:153
+#: inc/mvb/gears/libraries/mvb_recent_news.php:80
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:53
+#: inc/mvb/gears/libraries/mvb_testimonials.php:97
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:84
+#@ dfd
+msgid "Select one of appear effects for block"
+msgstr "Выберите эффект появления для блока"
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:83
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:83
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:91
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:73
+#: inc/mvb/gears/libraries/mvb_clients.php:103
+#: inc/mvb/gears/libraries/mvb_contact_form.php:75
+#: inc/mvb/gears/libraries/mvb_facts.php:105
+#: inc/mvb/gears/libraries/mvb_gmaps.php:93
+#: inc/mvb/gears/libraries/mvb_our_team.php:178
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:160
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:172
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:130
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:128
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:139
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:147
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:159
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:131
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:143
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:160
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:172
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:141
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:169
+#: inc/mvb/gears/libraries/mvb_recent_news.php:88
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:61
+#: inc/mvb/gears/libraries/mvb_testimonials.php:105
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:92
+#@ dfd
+msgid "Additional CSS classes"
+msgstr "Дополнительные CSS классы"
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:84
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:84
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:92
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:74
+#: inc/mvb/gears/libraries/mvb_clients.php:104
+#: inc/mvb/gears/libraries/mvb_contact_form.php:76
+#: inc/mvb/gears/libraries/mvb_facts.php:106
+#: inc/mvb/gears/libraries/mvb_gmaps.php:94
+#: inc/mvb/gears/libraries/mvb_our_team.php:179
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:161
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:173
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:131
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:129
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:140
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:148
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:160
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:132
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:144
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:161
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:173
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:142
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:170
+#: inc/mvb/gears/libraries/mvb_recent_news.php:89
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:62
+#: inc/mvb/gears/libraries/mvb_testimonials.php:106
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:93
+#@ dfd
+msgid "Separated by space"
+msgstr "Разделены пробелами"
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:89
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:89
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:97
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:80
+#: inc/mvb/gears/libraries/mvb_clients.php:109
+#: inc/mvb/gears/libraries/mvb_contact_form.php:81
+#: inc/mvb/gears/libraries/mvb_facts.php:112
+#: inc/mvb/gears/libraries/mvb_gmaps.php:99
+#: inc/mvb/gears/libraries/mvb_our_team.php:183
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:177
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:136
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:144
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:165
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:149
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:178
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:175
+#: inc/mvb/gears/libraries/mvb_recent_news.php:94
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:67
+#: inc/mvb/gears/libraries/mvb_testimonials.php:111
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:98
+#@ dfd
+msgid "Additional CSS styles"
+msgstr "Дополнительные CSS стили"
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:90
+#: inc/mvb/gears/libraries/mvb_blog_posts_2.php:90
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:98
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:81
+#: inc/mvb/gears/libraries/mvb_clients.php:110
+#: inc/mvb/gears/libraries/mvb_contact_form.php:82
+#: inc/mvb/gears/libraries/mvb_facts.php:113
+#: inc/mvb/gears/libraries/mvb_gmaps.php:100
+#: inc/mvb/gears/libraries/mvb_our_team.php:184
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:178
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:137
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:145
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:166
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:150
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:179
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:176
+#: inc/mvb/gears/libraries/mvb_recent_news.php:95
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:68
+#: inc/mvb/gears/libraries/mvb_testimonials.php:112
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:99
+#@ dfd
+msgid "Separated by <b>;</b>"
+msgstr "Разделены <b>;</b>"
+
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:18
+#@ dfd
+msgid "Post list"
+msgstr "Список постов"
+
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:64
+#@ dfd
+msgid "Length of excerpt"
+msgstr "Длина описания"
+
+#: inc/mvb/gears/libraries/mvb_blog_posts_4.php:65
+#@ dfd
+msgid "Number of words"
+msgstr "Количество слов"
+
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:16
+#@ dfd
+msgid "Boxed Content module"
+msgstr "Модуль контента с рамкой"
+
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:17
+#@ dfd
+msgid "Adds a Boxed Content block"
+msgstr "Добавить модуль контента с рамкой"
+
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:43
+#: inc/mvb/gears/libraries/mvb_our_team.php:74
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:120
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:108
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:97
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:107
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:99
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:120
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:136
+#: inc/mvb/gears/libraries/mvb_testimonials.php:66
+#@ dfd
+msgid "Content"
+msgstr "Содержание"
+
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:48
+#@ dfd
+msgid "Box style"
+msgstr "Стиль с рамкой"
+
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:49
+#@ dfd
+msgid "Select box style"
+msgstr "Выбрать стиль с рамкой"
+
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:52
+#: inc/mvb/gears/libraries/mvb_gmaps.php:62
+#: inc/mvb/gears/libraries/mvb_gmaps.php:150
+#@ dfd
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:53
+#@ dfd
+msgid "Gray"
+msgstr "Серый"
+
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:54
+#@ dfd
+msgid "Blue"
+msgstr "Синий"
+
+#: inc/mvb/gears/libraries/mvb_boxed_content.php:55
+#@ dfd
+msgid "Dark"
+msgstr "Темный"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:16
+#@ dfd
+msgid "Client Logos Carousel"
+msgstr "Карусель клиентских логотипов"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:17
+#@ dfd
+msgid "Add clients logos carousel"
+msgstr "Добавить карусель клиентских логотипов"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:50
+#: inc/mvb/gears/libraries/mvb_testimonials.php:46
+#@ dfd
+msgid "Add client"
+msgstr "Добавить клиента"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:51
+#: inc/mvb/gears/libraries/mvb_testimonials.php:47
+#@ dfd
+msgid "Client"
+msgstr "Клиент"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:52
+#: inc/mvb/gears/libraries/mvb_clients.php:63
+#@ dfd
+msgid "Client Name"
+msgstr "Имя клиента"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:56
+#: inc/mvb/gears/libraries/mvb_our_team.php:54
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:55
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:54
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:55
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:55
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:55
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:55
+#@ dfd
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:69
+#@ dfd
+msgid "Client URL"
+msgstr "URL клиента"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:78
+#@ dfd
+msgid "Autostart Slideshow"
+msgstr "Автозапуск слайд-шоу"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:85
+#@ dfd
+msgid "Slideshow Speed"
+msgstr "Скорость слайд-шоу"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:86
+#@ dfd
+msgid "Set slideshow speed in ms"
+msgstr "Указать скорость слайд-шоу в мс"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:118
+#@ dfd
+msgid "Opens in new tab"
+msgstr "Открыть ссылку в новом окне"
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:97
+#: inc/mvb/gears/libraries/mvb_clients.php:127
+#: inc/mvb/gears/libraries/mvb_facts.php:120
+#: inc/mvb/gears/libraries/mvb_gmaps.php:106
+#: inc/mvb/gears/libraries/mvb_testimonials.php:119
+#@ dfd
+msgid "Unique ID"
+msgstr "Уникальный ID"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:128
+#: inc/mvb/gears/libraries/mvb_facts.php:121
+#@ dfd
+msgid "Must be unique for every module on the page."
+msgstr "Должен быть уникальным для каждого модуля на странице."
+
+#: inc/mvb/gears/libraries/mvb_clients.php:144
+#@ dfd
+msgid "Display the \"view all\" link"
+msgstr "Отображать ссылку \"просмотреть все\""
+
+#: inc/mvb/gears/libraries/mvb_clients.php:152
+#@ dfd
+msgid "\"View all\" link text"
+msgstr "Текст ссылки \"просмотреть все\""
+
+#: inc/mvb/gears/libraries/mvb_clients.php:153
+#: inc/mvb/html/public/mvb_clients.php:76
+#@ dfd
+msgid "View all"
+msgstr "Просмотреть все"
+
+#: inc/mvb/gears/libraries/mvb_clients.php:159
+#@ dfd
+msgid "View all link URL"
+msgstr "URL ссылки \"просмотреть все\""
+
+#: inc/mvb/gears/libraries/mvb_clients.php:165
+#: inc/mvb/gears/libraries/mvb_our_team.php:87
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:112
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:89
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:99
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:91
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:112
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:81
+#: inc/mvb/gears/libraries/mvb_testimonials.php:79
+#@ dfd
+msgid "Link to page"
+msgstr "Ссылка к странице"
+
+#: inc/mvb/gears/libraries/mvb_contact_form.php:16
+#@ dfd
+msgid "The contact form module"
+msgstr "Модуль формы для контактов"
+
+#: inc/mvb/gears/libraries/mvb_contact_form.php:17
+#@ dfd
+msgid "Adds the contact form"
+msgstr "Добавить контактную форму"
+
+#: inc/mvb/gears/libraries/mvb_contact_form.php:50
+#@ dfd
+msgid "Сontacts form mail"
+msgstr "Имейл в форме для контактов"
+
+#: inc/mvb/gears/libraries/mvb_contact_form.php:61
+#@ dfd
+msgid "Submit Button Align"
+msgstr "Расположение кнопки \"Отправить\""
+
+#: inc/mvb/gears/libraries/mvb_facts.php:14
+#@ dfd
+msgid "Facts"
+msgstr "Факты"
+
+#: inc/mvb/gears/libraries/mvb_facts.php:15
+#@ dfd
+msgid "Add facts"
+msgstr "Добавить факты"
+
+#: inc/mvb/gears/libraries/mvb_facts.php:47
+#@ dfd
+msgid "Diagram Type"
+msgstr "Тип диаграм"
+
+#: inc/mvb/gears/libraries/mvb_facts.php:50
+#@ dfd
+msgid "None"
+msgstr "Никакой"
+
+#: inc/mvb/gears/libraries/mvb_facts.php:51
+#@ dfd
+msgid "Circle"
+msgstr "Круг"
+
+#: inc/mvb/gears/libraries/mvb_facts.php:59
+#@ dfd
+msgid "Animate facts"
+msgstr "Применить анимацию к фактам"
+
+#: inc/mvb/gears/libraries/mvb_facts.php:68
+#@ dfd
+msgid "Add fact"
+msgstr "Добавить факт"
+
+#: inc/mvb/gears/libraries/mvb_facts.php:69
+#@ dfd
+msgid "Fact"
+msgstr "Факт"
+
+#: inc/mvb/gears/libraries/mvb_facts.php:70
+#@ dfd
+msgid "Fact Name"
+msgstr "Название факта"
+
+#: inc/mvb/gears/libraries/mvb_facts.php:79
+#@ dfd
+msgid "Number"
+msgstr "Число"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:14
+#@ dfd
+msgid "Google Maps"
+msgstr "Google карты"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:15
+#@ dfd
+msgid "Adds a Google map"
+msgstr "Добавить Google карту"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:43
+#@ dfd
+msgid "Address to display on map"
+msgstr "Адрес для отображения на карте"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:47
+#@ dfd
+msgid "Height (in px)"
+msgstr "Высота(px):"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:52
+#@ dfd
+msgid "Map zoom (from 0 to 21+)"
+msgstr "Масштаб карты (от 0 до 21+)"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:58
+#@ dfd
+msgid "Map Style"
+msgstr "Стиль карты"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:59
+#@ dfd
+msgid "Select one of map styles"
+msgstr "Выбрать стиль карты"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:63
+#: inc/mvb/gears/libraries/mvb_gmaps.php:120
+#@ dfd
+msgid "Apple Maps-esque"
+msgstr "Apple Maps-esque"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:64
+#: inc/mvb/gears/libraries/mvb_gmaps.php:124
+#@ dfd
+msgid "Blue water"
+msgstr "Blue water"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:65
+#: inc/mvb/gears/libraries/mvb_gmaps.php:128
+#@ dfd
+msgid "Midnight Commander"
+msgstr "Midnight Commander"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:66
+#: inc/mvb/gears/libraries/mvb_gmaps.php:132
+#@ dfd
+msgid "Pale Dawn"
+msgstr "Pale Dawn"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:67
+#: inc/mvb/gears/libraries/mvb_gmaps.php:136
+#@ dfd
+msgid "Retro"
+msgstr "Retro"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:68
+#: inc/mvb/gears/libraries/mvb_gmaps.php:140
+#@ dfd
+msgid "Subtle Grayscale"
+msgstr "Subtle Grayscale"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:75
+#@ dfd
+msgid "Additional information"
+msgstr "Дополнительная информация"
+
+#: inc/mvb/gears/libraries/mvb_gmaps.php:80
+#@ dfd
+msgid "Infowindow content"
+msgstr "Информационное окно"
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:98
+#: inc/mvb/gears/libraries/mvb_gmaps.php:107
+#: inc/mvb/gears/libraries/mvb_testimonials.php:120
+#@ dfd
+msgid "Must be unique for every tab on the page."
+msgstr "Должен быть уникальным для каждого таба на странице."
+
+#: inc/mvb/gears/libraries/mvb_our_team.php:16
+#@ dfd
+msgid "Our team"
+msgstr "Наша команда"
+
+#: inc/mvb/gears/libraries/mvb_our_team.php:17
+#@ dfd
+msgid "Team members"
+msgstr "Члены команды"
+
+#: inc/mvb/gears/libraries/mvb_our_team.php:48
+#@ dfd
+msgid "Add team member"
+msgstr "Добавить члена команды"
+
+#: inc/mvb/gears/libraries/mvb_our_team.php:49
+#@ dfd
+msgid "Member"
+msgstr "Партнер"
+
+#: inc/mvb/gears/libraries/mvb_our_team.php:50
+#@ dfd
+msgid "Mamber name"
+msgstr "Имя партнера"
+
+#: inc/mvb/gears/libraries/mvb_our_team.php:63
+#@ dfd
+msgid "Member name"
+msgstr "Имя пользователя:"
+
+#: inc/mvb/gears/libraries/mvb_our_team.php:68
+#@ dfd
+msgid "Member additional"
+msgstr "Дополнительная информация об авторе"
+
+#: inc/mvb/gears/libraries/mvb_our_team.php:81
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:106
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:83
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:93
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:85
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:106
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:76
+#: inc/mvb/gears/libraries/mvb_testimonials.php:73
+#@ dfd
+msgid "Link (URL)"
+msgstr "Ссылка (URL)"
+
+#: inc/mvb/gears/libraries/mvb_our_team.php:95
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:91
+#@ dfd
+msgid "Link Title"
+msgstr "Заголовок ссылки"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:16
+#@ dfd
+msgid "Presentation Boxes"
+msgstr "Презентационные блоки"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:17
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:17
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:17
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:17
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:17
+#@ dfd
+msgid "Add a presentation box"
+msgstr "Добавить презентационные блоки "
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:48
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:48
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:48
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:48
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:48
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:48
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:48
+#@ dfd
+msgid "Add box"
+msgstr "Добавить бокс"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:49
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:49
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:49
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:49
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:49
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:49
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:49
+#@ dfd
+msgid "Box"
+msgstr "Блок"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:50
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:50
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:50
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:50
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:50
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:50
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:50
+#@ dfd
+msgid "Box Title"
+msgstr "Заголовок бокса"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:125
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:102
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:112
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:104
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:125
+#@ dfd
+msgid "Display the \"read more\" link"
+msgstr "Отображать ссылку \"читать далее\""
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes.php:133
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:110
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:120
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:112
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:133
+#@ dfd
+msgid "\"Read more\" link text"
+msgstr "\"Читать больше\" текст ссылки"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:16
+#@ dfd
+msgid "Presentation image"
+msgstr "Презентационное изображение"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:73
+#@ dfd
+msgid "Show title and subtitle in hover box"
+msgstr "Показать заголовок и подзаголовок при наведении "
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:74
+#@ dfd
+msgid "The title and subtitle will be displayed in hover-box if YES is selected and under the image if NO"
+msgstr "Заголовок и подзаголовок будет отображаться в hover-box при выборе YES и под изображением, если NO"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:16
+#@ dfd
+msgid "Presentation Boxes Left icon"
+msgstr "Презентационные блоки с иконкой слева"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:17
+#@ dfd
+msgid "Add a presentation box with left icon"
+msgstr "Добавить презентационный блок с иконкой слева"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_polygon.php:16
+#@ dfd
+msgid "Presentation Boxes with polygon"
+msgstr "Презентационные блоки "
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:16
+#@ dfd
+msgid "Presentation Boxes with tiles"
+msgstr "Презентационные блоки с плиткой сверху"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:16
+#@ dfd
+msgid "Presentation Boxes Under Title"
+msgstr "Презентационные блоки с плиткой сверху"
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_undertitle.php:17
+#@ dfd
+msgid "Add a presentation box under title"
+msgstr "Добавить презентационные блоки "
+
+#: inc/mvb/gears/libraries/mvb_recent_news.php:16
+#@ dfd
+msgid "Recent news"
+msgstr "Последние публикации"
+
+#: inc/mvb/gears/libraries/mvb_recent_news.php:17
+#@ dfd
+msgid "Add recent news list"
+msgstr "Добавить список последних публикаций"
+
+#: inc/mvb/gears/libraries/mvb_recent_news.php:63
+#@ dfd
+msgid "Link title"
+msgstr "Заголовок ссылки"
+
+#: inc/mvb/gears/libraries/mvb_recent_news.php:69
+#@ dfd
+msgid "Show link"
+msgstr "Показать ссылку"
+
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:14
+#@ dfd
+msgid "Slide Paralax"
+msgstr "Скользящий параллакс"
+
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:15
+#@ dfd
+msgid "Add two images"
+msgstr "Добавить изображения галереи"
+
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:38
+#@ dfd
+msgid "Image Left"
+msgstr "Изображение слева"
+
+#: inc/mvb/gears/libraries/mvb_slide_paralax.php:44
+#@ dfd
+msgid "Image Right"
+msgstr "Изображение  справа"
+
+#: inc/mvb/gears/libraries/mvb_testimonials.php:16
+#@ dfd
+msgid "Testimonials module"
+msgstr "Testimonials модуль"
+
+#: inc/mvb/gears/libraries/mvb_testimonials.php:17
+#@ dfd
+msgid "Add a testimonials section"
+msgstr "Добавить testimonials секцию"
+
+#: inc/mvb/gears/libraries/mvb_testimonials.php:48
+#@ dfd
+msgid "Client Title"
+msgstr "Название клиента"
+
+#: inc/mvb/gears/libraries/mvb_testimonials.php:60
+#@ dfd
+msgid "Client Job"
+msgstr "Должность клиента"
+
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:18
+#@ dfd
+msgid "Timeline Horizontal"
+msgstr "Горизонтальный Timeline"
+
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:19
+#@ dfd
+msgid "Display horizontal timeline items"
+msgstr "Отображать элементы горизонтального timeline"
+
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:61
+#@ dfd
+msgid "Dates Speed"
+msgstr "Скорость дат"
+
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:62
+#@ dfd
+msgid "Dates animation Speed"
+msgstr "Скорость прокрутки анимации дат"
+
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:65
+#@ dfd
+msgid "Slow"
+msgstr "Медленно"
+
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:66
+#@ dfd
+msgid "Normal"
+msgstr "Стандартный"
+
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:67
+#@ dfd
+msgid "Fast"
+msgstr "Быстро"
+
+#: inc/mvb/gears/libraries/mvb_timeline_horizontal.php:74
+#@ dfd
+msgid "Start at"
+msgstr "Начать с"
+
+#: inc/mvb/html/public/mvb_blog_posts_4.php:77
+#@ dfd
+msgid "Read more info"
+msgstr "Читать больше"
+
+#: inc/mvb/html/public/mvb_contact_form.php:49
+#@ dfd
+msgid "You need enter email in options panel"
+msgstr "Введите email в панели опций"
+
+#: inc/mvb/html/public/mvb_contact_form.php:67
+#@ dfd
+msgid "Thank you for your message!"
+msgstr "Спасибо за сообщение!"
+
+#: inc/mvb/html/public/mvb_contact_form.php:69
+#@ dfd
+msgid "Unknown error, during message sending."
+msgstr "Произошла неизвестная ошибка при отправке сообщения."
+
+#: inc/mvb/html/public/mvb_contact_form.php:78
+#: inc/widgets/widget-vcard-simple.php:39
+#: inc/widgets/widget-vcard-simple.php:82
+#: woocommerce/single-product-reviews.php:60
+#@ dfd
+msgid "Email"
+msgstr "Email"
+
+#: inc/mvb/html/public/mvb_contact_form.php:81
+#@ dfd
+msgid "Subject"
+msgstr "Тема"
+
+#: inc/mvb/html/public/mvb_contact_form.php:84
+#@ dfd
+msgid "Message"
+msgstr "Отправить сообщение"
+
+#: inc/mvb/html/public/mvb_contact_form.php:104
+#@ dfd
+msgid "Leave reply"
+msgstr "Оставить сообщение"
+
+#: inc/mvb/html/public/mvb_recent_news.php:105
+#: inc/widgets/widget-tabs.php:249
+#: inc/widgets/widget-tabs.php:295
+#@ dfd
+msgid "Read all news"
+msgstr "Читать все новости"
+
+#: inc/shortcodes/wishlist-shortcode.php:9
+#: inc/shortcodes/wishlist-shortcode.php:14
+#@ dfd
+msgid "Wishlist"
+msgstr "Список желаний"
+
+#: inc/widgets/widget-audio.php:13
+#@ dfd
+msgid "Include audio with oEmbed"
+msgstr "Добавить аудио, используя oEmbed"
+
+#: inc/widgets/widget-audio.php:27
+#: inc/widgets/widget-audio.php:150
+#: inc/widgets/widget-category-news.php:124
+#: inc/widgets/widget-contacts.php:53
+#: inc/widgets/widget-count.php:123
+#: inc/widgets/widget-facebook.php:79
+#: inc/widgets/widget-flickr.php:90
+#: inc/widgets/widget-gallery.php:71
+#: inc/widgets/widget-menu.php:77
+#: inc/widgets/widget-search.php:89
+#: inc/widgets/widget-styled-list.php:64
+#: inc/widgets/widget-tabs.php:156
+#: inc/widgets/widget-tags.php:76
+#: inc/widgets/widget-text.php:51
+#: inc/widgets/widget-video.php:27
+#: inc/widgets/widget-video.php:151
+#: inc/widgets/widget-wc-best-sellers.php:201
+#: inc/widgets/widget_categories.php:115
+#: inc/widgets/widget_categories.php:118
+#@ dfd
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/widgets/widget-audio.php:35
+#: inc/widgets/widget-video.php:34
+#@ dfd
+msgid "Embed URL"
+msgstr "Встроенный URL"
+
+#: inc/widgets/widget-audio.php:40
+#: inc/widgets/widget-video.php:39
+#@ dfd
+msgid "Embed width in pixels"
+msgstr "Ширина встроенного видео в пикселях"
+
+#: inc/widgets/widget-audio.php:154
+#: inc/widgets/widget-video.php:155
+#@ dfd
+msgid "Embed URL:"
+msgstr "URL встроенного видео:"
+
+#: inc/widgets/widget-audio.php:158
+#: inc/widgets/widget-video.php:159
+#@ dfd
+msgid "Embed width:"
+msgstr "Ширина встроенного видео:"
+
+#: inc/widgets/widget-audio.php:162
+#: inc/widgets/widget-video.php:163
+#@ dfd
+msgid "Embed Description:"
+msgstr "Описание встроенного видео:"
+
+#: inc/widgets/widget-cat-tabs.php:31
+#@ dfd
+msgid "First col title"
+msgstr "Заголовок первой колонки"
+
+#: inc/widgets/widget-cat-tabs.php:38
+#@ dfd
+msgid "First col categories (slugs)"
+msgstr "Категории (слэги) первой колонки"
+
+#: inc/widgets/widget-cat-tabs.php:45
+#@ dfd
+msgid "First col posts number"
+msgstr "Первая колонка количество постов"
+
+#: inc/widgets/widget-cat-tabs.php:54
+#@ dfd
+msgid "Second col title"
+msgstr "Заголовок второй колонки"
+
+#: inc/widgets/widget-cat-tabs.php:61
+#@ dfd
+msgid "Second col categories (slugs)"
+msgstr "Вторая колонка категории (слэги)"
+
+#: inc/widgets/widget-cat-tabs.php:68
+#@ dfd
+msgid "Second col posts number"
+msgstr "Вторая колонка количество постов"
+
+#: inc/widgets/widget-cat-tabs.php:77
+#@ dfd
+msgid "Third col title"
+msgstr "Заголовок третьей колонки"
+
+#: inc/widgets/widget-cat-tabs.php:84
+#@ dfd
+msgid "Third col categories (slugs)"
+msgstr "Третья колонка категории (слэги)"
+
+#: inc/widgets/widget-cat-tabs.php:91
+#@ dfd
+msgid "Third col posts number"
+msgstr "Третья колонка количество постов"
+
+#: inc/widgets/widget-category-news.php:10
+#@ dfd
+msgid "Widget: Posts"
+msgstr "Виджет: Посты"
+
+#: inc/widgets/widget-category-news.php:11
+#@ dfd
+msgid "Posts from some category"
+msgstr "Отображать посты из некоторых категорий"
+
+#: inc/widgets/widget-category-news.php:24
+#@ dfd
+msgid "Latest articles"
+msgstr "Последние публикации"
+
+#: inc/widgets/widget-category-news.php:152
+#@ dfd
+msgid "Order posts"
+msgstr "Порядок постов"
+
+#: inc/widgets/widget-category-news.php:155
+#@ dfd
+msgid "Descending"
+msgstr "По убыванию"
+
+#: inc/widgets/widget-category-news.php:156
+#@ dfd
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: inc/widgets/widget-category-news.php:161
+#@ dfd
+msgid "Order posts by"
+msgstr "Упорядочить посты по"
+
+#: inc/widgets/widget-category-news.php:164
+#@ dfd
+msgid "No order"
+msgstr "Без очередности"
+
+#: inc/widgets/widget-category-news.php:165
+#@ dfd
+msgid "Order by post id"
+msgstr "Упорядочить по id поста"
+
+#: inc/widgets/widget-category-news.php:166
+#@ dfd
+msgid "Order by title"
+msgstr "Упорядочить по заголовку"
+
+#: inc/widgets/widget-category-news.php:167
+#@ dfd
+msgid "Order by post name (post slug)"
+msgstr "Упорядочить по названию поста (по слагу поста)"
+
+#: inc/widgets/widget-category-news.php:168
+#@ dfd
+msgid "Order by date"
+msgstr "Упорядочить по дате"
+
+#: inc/widgets/widget-category-news.php:169
+#@ dfd
+msgid "Order by last modified date"
+msgstr "Упорядочить по дате последнего редактирования"
+
+#: inc/widgets/widget-category-news.php:170
+#@ dfd
+msgid "Random order"
+msgstr "Произвольный порядок"
+
+#: inc/widgets/widget-category-news.php:171
+#@ dfd
+msgid "Order by number of comments"
+msgstr "Упорядочить по количеству комментариев"
+
+#: inc/widgets/widget-contacts.php:8
+#@ dfd
+msgid "Widget: Contacts block"
+msgstr "Виджет: Блок контактов"
+
+#: inc/widgets/widget-count.php:10
+#@ dfd
+msgid "Subscribe to social and rss"
+msgstr "Подписаться по E-mail"
+
+#: inc/widgets/widget-count.php:47
+#@ dfd
+msgid "followers"
+msgstr "Читатели"
+
+#: inc/widgets/widget-count.php:59
+#@ dfd
+msgid "fans"
+msgstr "фаны"
+
+#: inc/widgets/widget-count.php:71
+#@ dfd
+msgid "subscr."
+msgstr "подписчики"
+
+#: inc/widgets/widget-count.php:91
+#@ dfd
+msgid "Add me to rss"
+msgstr "Добавить меня в RSS"
+
+#: inc/widgets/widget-count.php:127
+#@ dfd
+msgid "View:"
+msgstr "Просмотреть:"
+
+#: inc/widgets/widget-count.php:129
+#@ dfd
+msgid "Extended"
+msgstr "Расширенный"
+
+#: inc/widgets/widget-count.php:130
+#@ dfd
+msgid "Simple"
+msgstr "Простой"
+
+#: inc/widgets/widget-count.php:134
+#@ dfd
+msgid "Subscribe widget title:"
+msgstr "Заголовок виджета подписки:"
+
+#: inc/widgets/widget-count.php:138
+#@ dfd
+msgid "Subscribe widget description:"
+msgstr "Описание виджета подписки:"
+
+#: inc/widgets/widget-count.php:142
+#@ dfd
+msgid "Feedburner Feed Name:"
+msgstr "Название Feedburner ленты:"
+
+#: inc/widgets/widget-count.php:146
+#@ dfd
+msgid "Textbox Label:"
+msgstr "Лейбл в текстовом блоке"
+
+#: inc/widgets/widget-count.php:151
+#@ dfd
+msgid "Open links in a new window"
+msgstr "Открыть ссылку в новом окне"
+
+#: inc/widgets/widget-count.php:155
+#@ dfd
+msgid "Facebook Page URL"
+msgstr "Facebook"
+
+#: inc/widgets/widget-count.php:160
+#@ dfd
+msgid "Enable Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-count.php:166
+#@ dfd
+msgid "Youtube Channel URL"
+msgstr "Youtube"
+
+#: inc/widgets/widget-facebook.php:21
+#@ dfd
+msgid "Facebook widget"
+msgstr "Facebook widget"
+
+#: inc/widgets/widget-facebook.php:85
+#@ dfd
+msgid "Facebook Name: ( facebook.com/ * Type into field * )"
+msgstr "Facebook Name: ( facebook.com/ * Type into field * )"
+
+#: inc/widgets/widget-facebook.php:92
+#: inc/widgets/widget-gallery.php:77
+#@ dfd
+msgid "Width(px):"
+msgstr "Ширина(px):"
+
+#: inc/widgets/widget-facebook.php:101
+#@ dfd
+msgid "Color scheme:"
+msgstr "Цветовая схема:"
+
+#: inc/widgets/widget-facebook.php:116
+#@ dfd
+msgid "Show stream:"
+msgstr "Отображать поток:"
+
+#: inc/widgets/widget-facebook.php:130
+#@ dfd
+msgid "Show faces:"
+msgstr "Отображать лица:"
+
+#: inc/widgets/widget-facebook.php:144
+#@ dfd
+msgid "Show header:"
+msgstr "Отображать хедер:"
+
+#: inc/widgets/widget-flickr.php:7
+#@ dfd
+msgid "Displays your Flickr feed"
+msgstr "Отображать Ваш Flickr feed "
+
+#: inc/widgets/widget-flickr.php:94
+#@ dfd
+msgid "ID:"
+msgstr "ID:"
+
+#: inc/widgets/widget-flickr.php:99
+#@ dfd
+msgid "Number of photos:"
+msgstr "Количество фотографий:"
+
+#: inc/widgets/widget-gallery.php:36
+#@ dfd
+msgid "Random work"
+msgstr "Произвольный порядок"
+
+#: inc/widgets/widget-gallery.php:84
+#@ dfd
+msgid "Height(px):"
+msgstr "Высота(px):"
+
+#: inc/widgets/widget-gallery.php:93
+#@ dfd
+msgid "Images number:"
+msgstr "Количество изображений:"
+
+#: inc/widgets/widget-login.php:41
+#@ dfd
+msgid "Hide \"Lost password\""
+msgstr "Скрыть \"Напоминание пароля\""
+
+#: inc/widgets/widget-login.php:62
+#: inc/widgets/widget-login.php:91
+#@ dfd
+msgid "I lost my password"
+msgstr "Я забыл свой пароль"
+
+#: inc/widgets/widget-login.php:99
+#@ dfd
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: inc/widgets/widget-login.php:100
+#@ dfd
+msgid "Enter your login"
+msgstr "Введите Ваше имя пользователя"
+
+#: inc/widgets/widget-login.php:101
+#@ dfd
+msgid "Password"
+msgstr "Пароль"
+
+#: inc/widgets/widget-login.php:102
+#@ dfd
+msgid "Enter your password"
+msgstr "Введите пароль"
+
+#: inc/widgets/widget-login.php:104
+#@ dfd
+msgid "Lost password"
+msgstr "Забыли пароль"
+
+#: inc/widgets/widget-login.php:105
+#@ dfd
+msgid "Log In"
+msgstr "Войти"
+
+#: inc/widgets/widget-login.php:122
+#@ dfd
+msgid "Registration"
+msgstr "Регистрация"
+
+#: inc/widgets/widget-login.php:154
+#@ dfd
+msgid "Logout"
+msgstr "Выйти из системы"
+
+#: inc/widgets/widget-logo.php:13
+#@ dfd
+msgid "Display site logo."
+msgstr "Отображать логотип сайта."
+
+#: inc/widgets/widget-menu.php:6
+#@ dfd
+msgid "Use this widget to add one of your custom menu as a link list widget."
+msgstr "Используйте этот виджет для добавления одного из ваших пользовательских меню в виде ссылки на список виджетов."
+
+#: inc/widgets/widget-menu.php:9
+#: options/options.php:344
+#@ dfd
+msgid "Left"
+msgstr "Слева"
+
+#: inc/widgets/widget-menu.php:10
+#: options/options.php:345
+#@ dfd
+msgid "Right"
+msgstr "Справа"
+
+#: inc/widgets/widget-menu.php:11
+#@ dfd
+msgid "Center"
+msgstr "Посередине"
+
+#: inc/widgets/widget-menu.php:16
+#@ dfd
+msgid "Widget: Sidebar Menu"
+msgstr "Виджет: Меню сайдбара"
+
+#: inc/widgets/widget-menu.php:71
+#, php-format
+#@ dfd
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Ни одно меню не было создано. <a href=\"%s\">Create some</a>."
+
+#: inc/widgets/widget-menu.php:81
+#@ dfd
+msgid "Select Menu:"
+msgstr "Выберите меню:"
+
+#: inc/widgets/widget-menu.php:92
+#@ dfd
+msgid "Menu Direction:"
+msgstr "Направление меню:"
+
+#: inc/widgets/widget-news-categories-list.php:14
+#@ dfd
+msgid "News categories list widget"
+msgstr "Виджет списка категорий новостей"
+
+#: inc/widgets/widget-news-categories-list.php:28
+#@ dfd
+msgid "News categories IDs"
+msgstr "IDs категорий новостей"
+
+#: inc/widgets/widget-recent.php:19
+#@ dfd
+msgid "Advanced recent posts widget."
+msgstr "Виджет \"Недавние записи\" расширенный"
+
+#: inc/widgets/widget-recent.php:32
+#@ dfd
+msgid "Limit"
+msgstr "Лимит"
+
+#: inc/widgets/widget-recent.php:38
+#@ dfd
+msgid "Display date"
+msgstr "Отображать дату"
+
+#: inc/widgets/widget-recent.php:43
+#@ dfd
+msgid "Display comments"
+msgstr "Отображать комментарии"
+
+#: inc/widgets/widget-recent.php:48
+#@ dfd
+msgid "Display author"
+msgstr "Отображать автора"
+
+#: inc/widgets/widget-recent.php:53
+#@ dfd
+msgid "Display excerpt"
+msgstr "Отображать краткое описание"
+
+#: inc/widgets/widget-recent.php:58
+#@ dfd
+msgid "Excerpt length"
+msgstr "Длина краткого описания"
+
+#: inc/widgets/widget-recent.php:63
+#@ dfd
+msgid "Display thumbnail"
+msgstr "Отображать миниатюру"
+
+#: inc/widgets/widget-recent.php:68
+#@ dfd
+msgid "Limit to category"
+msgstr "Лимитировать по категории"
+
+#: inc/widgets/widget-search.php:9
+#@ dfd
+msgid "Search widget"
+msgstr "Виджет поиска"
+
+#: inc/widgets/widget-search.php:51
+#: templates/searchform-mini.php:3
+#@ dfd
+msgid "Search for:"
+msgstr "Искать:"
+
+#: inc/widgets/widget-search.php:94
+#@ dfd
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: inc/widgets/widget-styled-list.php:9
+#@ dfd
+msgid "List of "
+msgstr "Список"
+
+#: inc/widgets/widget-styled-list.php:55
+#@ dfd
+msgid "Styled list"
+msgstr "Styled list"
+
+#: inc/widgets/widget-styled-list.php:70
+#@ dfd
+msgid "Items wrapped in: li HTML tags"
+msgstr "Единицы встроенны в: li HTML теги"
+
+#: inc/widgets/widget-tabs.php:16
+#@ dfd
+msgid "Tabs: Popular posts, Recent Posts, Comments"
+msgstr "Вкладки: Популярные посты, Последние Посты, Комментарии"
+
+#: inc/widgets/widget-tabs.php:51
+#: inc/widgets/widget-tabs.php:60
+#@ dfd
+msgid "Popular"
+msgstr "Популярные"
+
+#: inc/widgets/widget-tabs.php:53
+#: inc/widgets/widget-tabs.php:58
+#@ dfd
+msgid "Recent"
+msgstr "Последние"
+
+#: inc/widgets/widget-tabs.php:55
+#: inc/widgets/widget-tabs.php:62
+#: templates/dopinfo.php:9
+#: templates/entry-meta.php:10
+#@ dfd
+msgid "Comments"
+msgstr "Комментарии"
+
+#: inc/widgets/widget-tabs.php:161
+#@ dfd
+msgid "Number of posts:"
+msgstr "Количество постов:"
+
+#: inc/widgets/widget-tabs.php:168
+#@ dfd
+msgid "Select header format:"
+msgstr "Выбрать формат хедера:"
+
+#: inc/widgets/widget-tabs.php:173
+#@ dfd
+msgid "Popular-Recent"
+msgstr "Популярные-Последние"
+
+#: inc/widgets/widget-tabs.php:175
+#@ dfd
+msgid "Recent-Popular"
+msgstr "Последние-Популярные"
+
+#: inc/widgets/widget-tabs.php:181
+#@ dfd
+msgid "Display date or thumb:"
+msgstr "Отображать дату или миниатюру:"
+
+#: inc/widgets/widget-tabs.php:185
+#@ dfd
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: inc/widgets/widget-tabs.php:186
+#@ dfd
+msgid "Post format"
+msgstr "Формат поста"
+
+#: inc/widgets/widget-tabs.php:193
+#@ dfd
+msgid "Display read all link:"
+msgstr "Отображать ссылку \"читать все\":"
+
+#: inc/widgets/widget-tags.php:10
+#@ dfd
+msgid "Displays tags list"
+msgstr "Отображает список тегов"
+
+#: inc/widgets/widget-tags.php:24
+#@ dfd
+msgid "Tags"
+msgstr "Теги"
+
+#: inc/widgets/widget-tags.php:80
+#@ dfd
+msgid "Number tags:"
+msgstr "Цифровые теги:"
+
+#: inc/widgets/widget-testimonials.php:15
+#@ dfd
+msgid "Last Testimonials"
+msgstr "Последние Testimonials"
+
+#: inc/widgets/widget-text.php:8
+#@ dfd
+msgid "Widget: Text block"
+msgstr "Виджет: Текстовый блок"
+
+#: inc/widgets/widget-tweets.php:16
+#@ dfd
+msgid "Displays your latest Tweets"
+msgstr "Отображать Ваши последние твитты"
+
+#: inc/widgets/widget-tweets.php:125
+#@ dfd
+msgid "Follow me"
+msgstr "Сделить за мной"
+
+#: inc/widgets/widget-tweets.php:150
+#@ dfd
+msgid "Read all tweets"
+msgstr "Читать все твитты"
+
+#: inc/widgets/widget-vcard-simple.php:26
+#: inc/widgets/widget-vcard-simple.php:69
+#@ dfd
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/widgets/widget-vcard-simple.php:30
+#@ dfd
+msgid "Phones"
+msgstr "Телефоны"
+
+#: inc/widgets/widget-vcard-simple.php:34
+#@ dfd
+msgid "Display Email as link"
+msgstr "Отображать имейл как ссылку"
+
+#: inc/widgets/widget-vcard-simple.php:74
+#@ dfd
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/widgets/widget-vcard.php:17
+#@ dfd
+msgid "Use this widget to add a vCard"
+msgstr "Используйте этот виджет для добавления vCard"
+
+#: inc/widgets/widget-vcard.php:19
+#@ dfd
+msgid "Widget: vCard"
+msgstr "Виджет: Визитная карточка"
+
+#: inc/widgets/widget-vcard.php:46
+#@ dfd
+msgid "vCard"
+msgstr "vCard"
+
+#: inc/widgets/widget-vcard.php:74
+#@ dfd
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: inc/widgets/widget-vcard.php:75
+#@ dfd
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-video.php:13
+#@ dfd
+msgid "Include video with oEmbed"
+msgstr "Добавить видео, используя oEmbed"
+
+#: inc/widgets/widget-wc-best-sellers.php:29
+#@ dfd
+msgid "Display a list of your best selling products on your site."
+msgstr "Отображать список ваших самых популярных товаров на сайте."
+
+#: inc/widgets/widget-wc-best-sellers.php:31
+#@ dfd
+msgid "Widget: WooCommerce Best Sellers"
+msgstr "Виджет: WooCommerce Бестселлеры"
+
+#: inc/widgets/widget-wc-best-sellers.php:69
+#@ dfd
+msgid "Best Sellers"
+msgstr "Бестселлеры"
+
+#: inc/widgets/widget-wc-best-sellers.php:204
+#@ dfd
+msgid "Number of products to show:"
+msgstr "Количество продуктов для показа:"
+
+#: inc/widgets/widget-wc-best-sellers.php:208
+#@ dfd
+msgid "Hide free products"
+msgstr "Скрыть бесплатные продукты"
+
+#: inc/widgets/widget.php:221
+#@ dfd
+msgid "All categories"
+msgstr "Все категории"
+
+#: inc/widgets/widget_categories.php:10
+#@ dfd
+msgid "In one widget"
+msgstr "В одном виджете"
+
+#: inc/widgets/widget_categories.php:11
+#@ dfd
+msgid "Widget: Categories + Archives"
+msgstr "Виджет: Категории + Архив"
+
+#: inc/widgets/widget_categories.php:21
+#: inc/widgets/widget_categories.php:118
+#@ dfd
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/widgets/widget_categories.php:40
+#@ dfd
+msgid "Select Category"
+msgstr "Выбрать категорию"
+
+#: inc/widgets/widget_categories.php:76
+#@ dfd
+msgid "Select Month"
+msgstr "Выберите месяц"
+
+#: inc/widgets/widget_categories.php:123
+#@ dfd
+msgid "Display as dropdown"
+msgstr "Отображать в выпадающем окне"
+
+#: inc/widgets/widget_categories.php:126
+#@ dfd
+msgid "Show post counts"
+msgstr "Показывать количество постов"
+
+#: inc/widgets/widget_categories.php:129
+#@ dfd
+msgid "Show hierarchy"
+msgstr "Показать иерархию"
+
+#: options/options/defaults.php:41
+#: options/options/defaults.php:43
+#: options/options.php:143
+#: options/options.php:147
+#@ dfd
+msgid "Options"
+msgstr "Опции"
+
+#: options/options.php:208
+#@ dfd
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: options/options.php:209
+#@ dfd
+msgid "<p class=\"description\">This is the description field for this section. HTML is allowed</p>"
+msgstr "<p class=\"description\">Поля для описания этой секции. HTML позволяется</p>"
+
+#: options/options.php:225
+#@ dfd
+msgid "Import demo content"
+msgstr "Импортировать демо контент"
+
+#: options/options.php:230
+#@ dfd
+msgid "Main Options"
+msgstr "Главные опции"
+
+#: options/options.php:231
+#@ dfd
+msgid "<p class=\"description\">Main options of site</p>"
+msgstr "<p class=\"description\">Главные опции сайта</p>"
+
+#: options/options.php:240
+#@ dfd
+msgid "Page scroll animation"
+msgstr "Странца прокрутки анимации"
+
+#: options/options.php:241
+#@ dfd
+msgid "Enable or disable page scroll animation"
+msgstr "Включить или выключить скольжение"
+
+#: options/options.php:248
+#@ dfd
+msgid "Favicon"
+msgstr "Фавикон"
+
+#: options/options.php:249
+#@ dfd
+msgid "Select a 16px X 16px image from the file location on your computer and upload it as a favicon of your site"
+msgstr "Выберите изображение размером 16пкс х 16пкс в Вашем компьютере и загрузите его как фавикон вашего сайта"
+
+#: options/options.php:254
+#@ dfd
+msgid "Header Logotype image"
+msgstr "Изображение логотипа хедера"
+
+#: options/options.php:255
+#: options/options.php:262
+#@ dfd
+msgid "Select an image from the file location on your computer and upload it as a header logotype"
+msgstr "Выберите изображение на Вашем компьютере и загрузите его как логотип хедера"
+
+#: options/options.php:261
+#@ dfd
+msgid "Header Logotype image for retina"
+msgstr "Изображение логотипа хедера для ретина"
+
+#: options/options.php:268
+#@ dfd
+msgid "Header Logotype second image"
+msgstr "Логотип для sticky хедера"
+
+#: options/options.php:269
+#: options/options.php:276
+#@ dfd
+msgid "Select an image from the file location on your computer and upload it as a header logotype. If this logo wasn't uploaded will be displayed first logo."
+msgstr "Выберите изображение на Вашем компьютере и загрузите его как логотип хедера. Если логотип не будет загружен, будет отображаться первый логотип."
+
+#: options/options.php:275
+#@ dfd
+msgid "Header Logotype second image for retina"
+msgstr "Второе изображение логотипа хедера для ретина"
+
+#: options/options.php:282
+#@ dfd
+msgid "Site Preloader"
+msgstr "Прелодер сайта"
+
+#: options/options.php:283
+#@ dfd
+msgid "Enable or disable site preloader counter"
+msgstr "Включить или выключить отсчитывание прелодера "
+
+#: options/options.php:290
+#@ dfd
+msgid "Site Preloader Logotype image 1"
+msgstr "Изображение 1 прелоадера"
+
+#: options/options.php:291
+#@ dfd
+msgid "Select an image from the file location on your computer and upload it as a preloader logotype 1"
+msgstr "Выберите изображение на Вашем компьютере и загрузите его как логотип прелоадера 1"
+
+#: options/options.php:297
+#@ dfd
+msgid "Site Preloader Logotype image 2"
+msgstr "Изображение 2 прелоадера"
+
+#: options/options.php:298
+#@ dfd
+msgid "Select an image from the file location on your computer and upload it as a preloader logotype 2"
+msgstr "Выберите изображение на Вашем компьютере и загрузите его как логотип прелоадера 2"
+
+#: options/options.php:304
+#@ dfd
+msgid "WPML language switcher"
+msgstr "Переключатель языков WPML "
+
+#: options/options.php:305
+#@ dfd
+msgid "WPML plugin must be installed. It is not packed with theme. You can find it here: http://wpml.org/"
+msgstr "Требуется установить WPML плагин. Он не входит в пакет с темой. Вы можете найти его здесь: http://wpml.org/"
+
+#: options/options.php:306
+#: options/options.php:314
+#: options/options.php:322
+#: options/options.php:596
+#: options/options.php:610
+#: options/options.php:618
+#: options/options.php:631
+#: options/options.php:653
+#: options/options.php:678
+#: options/options.php:708
+#: options/options.php:818
+#: options/options.php:838
+#: options/options.php:917
+#: options/options.php:1016
+#: options/options.php:1136
+#: options/options.php:1156
+#@ dfd
+msgid "On"
+msgstr "Вкл."
+
+#: options/options.php:306
+#: options/options.php:314
+#: options/options.php:322
+#: options/options.php:596
+#: options/options.php:610
+#: options/options.php:618
+#: options/options.php:631
+#: options/options.php:653
+#: options/options.php:678
+#: options/options.php:708
+#: options/options.php:818
+#: options/options.php:838
+#: options/options.php:917
+#: options/options.php:1016
+#: options/options.php:1136
+#: options/options.php:1156
+#@ dfd
+msgid "Off"
+msgstr "Выкл."
+
+#: options/options.php:312
+#@ dfd
+msgid "Show login form in header"
+msgstr "Отображать в форму логина в хедере"
+
+#: options/options.php:320
+#@ dfd
+msgid "Show search form in header"
+msgstr "Отображать в форму поиска в хедере"
+
+#: options/options.php:328
+#@ dfd
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: options/options.php:329
+#@ dfd
+msgid "Generate your tracking code at Google Analytics Service and insert it here."
+msgstr "Создайте свой код отслеживания посещаемости сайта на Google Analytics Service и вставьте его сюда."
+
+#: options/options.php:334
+#@ dfd
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: options/options.php:335
+#@ dfd
+msgid "You may add any other styles for your theme to this field."
+msgstr "В это поле Вы можете добавить любые другие стили для Вашей темы."
+
+#: options/options.php:340
+#@ dfd
+msgid "Show \"To top\" button"
+msgstr "Показать кнопку \"Вверх\""
+
+#: options/options.php:351
+#@ dfd
+msgid "Shop Title"
+msgstr "Заголовок магазина"
+
+#: options/options.php:358
+#@ dfd
+msgid "Social accounts"
+msgstr "Социальные аккаунты"
+
+#: options/options.php:359
+#@ dfd
+msgid "<p class=\"description\">Type links for social accounts</p>"
+msgstr "<p class=\"description\">Введите ссылки для социальных аккаунтов</p>"
+
+#: options/options.php:368
+#@ dfd
+msgid "Facebook link"
+msgstr "Ссылка на Facebook"
+
+#: options/options.php:369
+#: options/options.php:383
+#: options/options.php:397
+#: options/options.php:411
+#: options/options.php:425
+#: options/options.php:439
+#: options/options.php:453
+#: options/options.php:467
+#: options/options.php:481
+#: options/options.php:495
+#: options/options.php:509
+#: options/options.php:523
+#: options/options.php:537
+#: options/options.php:551
+#@ dfd
+msgid "Paste link to your account"
+msgstr "Вставьте ссылку Вашего аккаунта"
+
+#: options/options.php:375
+#: options/options.php:389
+#: options/options.php:403
+#: options/options.php:417
+#: options/options.php:431
+#: options/options.php:445
+#: options/options.php:459
+#: options/options.php:473
+#: options/options.php:487
+#: options/options.php:501
+#: options/options.php:515
+#: options/options.php:529
+#: options/options.php:543
+#: options/options.php:557
+#: options/options.php:571
+#@ dfd
+msgid "Show in header"
+msgstr "Отображать в хедере"
+
+#: options/options.php:376
+#: options/options.php:390
+#: options/options.php:404
+#: options/options.php:418
+#: options/options.php:432
+#: options/options.php:446
+#: options/options.php:460
+#: options/options.php:474
+#: options/options.php:488
+#: options/options.php:502
+#: options/options.php:516
+#: options/options.php:530
+#: options/options.php:544
+#: options/options.php:558
+#: options/options.php:572
+#@ dfd
+msgid "If checked - will be display in header of theme "
+msgstr "Если отмечено, то будет отображатся в шапке темы"
+
+#: options/options.php:382
+#@ dfd
+msgid "Twitter link"
+msgstr "Ссылка на Twitter"
+
+#: options/options.php:396
+#@ dfd
+msgid "Instagram link"
+msgstr "Ссылка на Instagram"
+
+#: options/options.php:410
+#@ dfd
+msgid "Vimeo link"
+msgstr "Ссылка на Vimeo"
+
+#: options/options.php:424
+#@ dfd
+msgid "Last FM link"
+msgstr "Ссылка на Last FM"
+
+#: options/options.php:438
+#@ dfd
+msgid "Vkontakte link"
+msgstr "Ссылка на Vkontakte"
+
+#: options/options.php:452
+#@ dfd
+msgid "YouTube link"
+msgstr "Youtube "
+
+#: options/options.php:466
+#@ dfd
+msgid "Deviantart link"
+msgstr "Ссылка Deviantart"
+
+#: options/options.php:480
+#@ dfd
+msgid "LinkedIN link"
+msgstr "LinkedIN"
+
+#: options/options.php:494
+#@ dfd
+msgid "Google + link"
+msgstr "Google +"
+
+#: options/options.php:508
+#@ dfd
+msgid "Picasa link"
+msgstr "Picasa"
+
+#: options/options.php:522
+#@ dfd
+msgid "Pinterest link"
+msgstr "Pinterest"
+
+#: options/options.php:536
+#@ dfd
+msgid "Wordpress link"
+msgstr "Wordpress"
+
+#: options/options.php:550
+#@ dfd
+msgid "Dropbox link"
+msgstr "Dropbox"
+
+#: options/options.php:564
+#@ dfd
+msgid "RSS"
+msgstr "RSS"
+
+#: options/options.php:565
+#@ dfd
+msgid "Paste alternative link to Rss"
+msgstr "Вставьте альтернативную ссылку в Rss"
+
+#: options/options.php:579
+#@ dfd
+msgid "Posts list options"
+msgstr "Настройки списка постов"
+
+#: options/options.php:580
+#@ dfd
+msgid "<p class=\"description\">Parameters for posts and archives (social share etc)</p>"
+msgstr "<p class=\"description\">Параметры для постов и архивных страниц (social share и т.д.)</p>"
+
+#: options/options.php:589
+#@ dfd
+msgid "<h3 class=\"description\">Inner post page options</h3>"
+msgstr "<p class=\"description\">Опции страницы контактов</p>"
+
+#: options/options.php:594
+#@ dfd
+msgid "Social share buttons"
+msgstr "Кнопки Поделиться в соц. сетях"
+
+#: options/options.php:595
+#@ dfd
+msgid "With this option you may activate or deactivate social share buttons. and date on inner post page"
+msgstr "С данной опцией Вы можете активировать или деактивировать социальные кнопки и дату во внутренних страницах постов"
+
+#: options/options.php:602
+#@ dfd
+msgid "Custom share code"
+msgstr "Пользовательский код социальных сетей"
+
+#: options/options.php:603
+#@ dfd
+msgid "You may add any other social share buttons to this field."
+msgstr "Вы можете добавить в это поле любые другие кнопки Поделиться в соц. сетях."
+
+#: options/options.php:608
+#@ dfd
+msgid "Author Info"
+msgstr "Информация об авторе"
+
+#: options/options.php:609
+#@ dfd
+msgid "This option enables you to insert information about the author of the post."
+msgstr "Эта опция позволяет Вам вставлять информацию об авторе поста."
+
+#: options/options.php:616
+#@ dfd
+msgid "Thumbnail on inner page"
+msgstr "Миниатюра на внутренней странице"
+
+#: options/options.php:617
+#@ dfd
+msgid "Display featured image on single post"
+msgstr "Отображать изображение поста на единичных постах"
+
+#: options/options.php:624
+#@ dfd
+msgid "<h3 class=\"description\">Archive page options</h3>"
+msgstr "<p class=\"description\">Опции страницы архива</p>"
+
+#: options/options.php:629
+#@ dfd
+msgid "Crop thumbnails"
+msgstr "Отображать миниатюры"
+
+#: options/options.php:630
+#@ dfd
+msgid "Post thumbnails image crop"
+msgstr "Разместить эскизы изображений"
+
+#: options/options.php:637
+#@ dfd
+msgid "Post thumbnail width (in px)"
+msgstr "Ширина миниатюры поста (в пкс)"
+
+#: options/options.php:644
+#@ dfd
+msgid "Post  thumbnail height (in px)"
+msgstr "Высота миниатюры поста (в пкс)"
+
+#: options/options.php:651
+#@ dfd
+msgid "Post info"
+msgstr "Информация о посте"
+
+#: options/options.php:652
+#@ dfd
+msgid "It is information about the post (time and date of creation, author, comments on the post)."
+msgstr "Это информация про пост (время и дата создания, автор, комментарии к посту)."
+
+#: options/options.php:660
+#@ dfd
+msgid "Portfolio Options"
+msgstr "Опции портфолио"
+
+#: options/options.php:669
+#@ dfd
+msgid "Portfolio page"
+msgstr "Страница портфолио"
+
+#: options/options.php:670
+#@ dfd
+msgid "Please select main portfolio page (for proper urls)"
+msgstr "Выберите главную страницу портфолио (для правильных ссылок)"
+
+#: options/options.php:676
+#@ dfd
+msgid "Panel for items sorting "
+msgstr "Панель для сортировки элементов"
+
+#: options/options.php:677
+#@ dfd
+msgid "Display panel for portfolio isotope items sorting by category"
+msgstr "Отображать панель для изотопных портфолио элементов, отсортированых по категориям"
+
+#: options/options.php:684
+#@ dfd
+msgid "Portfolio text location"
+msgstr "Размещение текста портфолио"
+
+#: options/options.php:685
+#@ dfd
+msgid "Select text layout on inner page"
+msgstr "Выберите тип макета для отдельных страниц"
+
+#: options/options.php:695
+#@ dfd
+msgid "Portfolio image display"
+msgstr "Отображение изображений в портфолио"
+
+#: options/options.php:696
+#@ dfd
+msgid "Display attached images of inner portfolio page as:"
+msgstr "Отображать прикрепленные изображения внутреней страницы портфолио как:"
+
+#: options/options.php:706
+#@ dfd
+msgid "Display block under single item"
+msgstr "Отображать блок под элементом "
+
+#: options/options.php:707
+#@ dfd
+msgid "Block with recent items"
+msgstr "Блок  с последними элементами постами"
+
+#: options/options.php:714
+#@ dfd
+msgid "Block shortcode"
+msgstr "Шорткоды блока"
+
+#: options/options.php:716
+#@ dfd
+msgid "By default here is displayed Block with recent items [mvb_recent_works  main_title=\"Recent projects\"][/mvb_recent_works]"
+msgstr "По умолчанию, здесь отображается Блок с недавними элементами [mvb_recent_works  main_title=\"Recent projects\"][/mvb_recent_works]"
+
+#: options/options.php:723
+#@ dfd
+msgid "Styling Options"
+msgstr "Опции дизайна"
+
+#: options/options.php:724
+#@ dfd
+msgid "<p class=\"description\">Style parameters of body and footer</p>"
+msgstr "<p class=\"description\">Параметры дизайна тела и футера сайта</p>"
+
+#: options/options.php:733
+#@ dfd
+msgid "<h3 class=\"description\">Main site colors setup</h3>"
+msgstr "<p class=\"description\">Главный цвет сайта</p>"
+
+#: options/options.php:738
+#@ dfd
+msgid "Main site color"
+msgstr "Основной цвет сайта"
+
+#: options/options.php:739
+#@ dfd
+msgid "Color of buttons, tabs, links, etc.  For example: #ff5f60"
+msgstr "Цвет кнопок, закладок, ссылок, границ и т.д. Например: #ff5f60"
+
+#: options/options.php:745
+#@ dfd
+msgid "Second site color"
+msgstr "Второстепенный цвет сайта"
+
+#: options/options.php:746
+#: options/options.php:753
+#@ dfd
+msgid "Color of inactive elements or borders.  For example: #e5e5e5"
+msgstr "Цвет не активных элементов и границ. Например: #e5e5e5"
+
+#: options/options.php:752
+#@ dfd
+msgid "Third site color"
+msgstr "Третий цвет сайта"
+
+#: options/options.php:759
+#@ dfd
+msgid "Color of text"
+msgstr "Цвет текста"
+
+#: options/options.php:760
+#@ dfd
+msgid "Main text color. For example: #545454"
+msgstr "Цвет основного текста. Например: #545454"
+
+#: options/options.php:766
+#@ dfd
+msgid "Header default background color"
+msgstr "Выберите цвет фона хедера"
+
+#: options/options.php:772
+#@ dfd
+msgid "Fixed Header background color"
+msgstr "Фиксированный цвет фона хедера "
+
+#: options/options.php:778
+#@ dfd
+msgid "Fixed Header background opacity "
+msgstr "Фиксированный прозрачный цвет фона хедера "
+
+#: options/options.php:780
+#: options/options.php:793
+#@ dfd
+msgid "Insert value from 0% to 100%. Default: <b>95%</b>"
+msgstr "Вставьте значение от  0% до 100%. По умолчанию: <b>95%</b>"
+
+#: options/options.php:785
+#@ dfd
+msgid "News Page Slider background on hover"
+msgstr "Фон News Page Slider  при наведении"
+
+#: options/options.php:791
+#@ dfd
+msgid "opacity "
+msgstr "прозрачность"
+
+#: options/options.php:799
+#@ dfd
+msgid "Read More text color"
+msgstr "Цвет текста Read Morе"
+
+#: options/options.php:805
+#@ dfd
+msgid "Default button color"
+msgstr "Цвет кнопки"
+
+#: options/options.php:812
+#@ dfd
+msgid "<h3 class=\"description\">Page title background options</h3>"
+msgstr "<p class=\"description\">Фон заголовка на странице</p>"
+
+#: options/options.php:817
+#@ dfd
+msgid "Page title background"
+msgstr "Фон заголовка страницы"
+
+#: options/options.php:824
+#@ dfd
+msgid "Default background color for header"
+msgstr "Цвет шапки по умолчанию."
+
+#: options/options.php:830
+#@ dfd
+msgid "Default background image for header"
+msgstr "Изображение шапки по умолчанию"
+
+#: options/options.php:831
+#: options/options.php:877
+#: options/options.php:903
+#: options/options.php:1149
+#@ dfd
+msgid "Upload your own background image or pattern."
+msgstr "Загрузите Ваше собственное изображение или образец для фона."
+
+#: options/options.php:837
+#@ dfd
+msgid "Fix image position"
+msgstr "Зафиксировать положение картинки"
+
+#: options/options.php:844
+#@ dfd
+msgid "<h3 class=\"description\">Body styling options</h3>"
+msgstr "<p class=\"description\">Опции стилизации основной  части сайта</p>"
+
+#: options/options.php:849
+#@ dfd
+msgid "Body layout"
+msgstr "Макет сайта"
+
+#: options/options.php:856
+#@ dfd
+msgid "Header Layout"
+msgstr "Макет заголовка"
+
+#: options/options.php:863
+#@ dfd
+msgid "<h4 class=\"description\">body site options</h4>"
+msgstr "<p class=\"description\">Опции основной  части сайта</p>"
+
+#: options/options.php:869
+#@ dfd
+msgid "Content background color"
+msgstr "Цвет фона контента "
+
+#: options/options.php:870
+#: options/options.php:896
+#@ dfd
+msgid "Select background color."
+msgstr "Выберите цвет фона."
+
+#: options/options.php:876
+#@ dfd
+msgid "Content background image"
+msgstr "Фоновое изображение контента"
+
+#: options/options.php:882
+#@ dfd
+msgid "Content bg image repeat"
+msgstr "Повтор фонового изображения"
+
+#: options/options.php:883
+#: options/options.php:909
+#: options/options.php:951
+#: options/options.php:990
+#@ dfd
+msgid "Select type background image repeat"
+msgstr "Выберите тип повторения фонового изображения"
+
+#: options/options.php:890
+#@ dfd
+msgid "<h4 class=\"description\">Boxed site options</h4>"
+msgstr "<p class=\"description\">Опции сайта с рамкой</p>"
+
+#: options/options.php:895
+#@ dfd
+msgid "Body background color"
+msgstr "Цвет фона сайта"
+
+#: options/options.php:902
+#@ dfd
+msgid "Custom background image"
+msgstr "Пользовательский цвет фона"
+
+#: options/options.php:916
+#@ dfd
+msgid "Fixed body background"
+msgstr "Зафиксировать фон сайта"
+
+#: options/options.php:925
+#@ dfd
+msgid "<h3 class=\"description\">Footer section options</h3>"
+msgstr "<p class=\"description\">Опции секций футера</p>"
+
+#: options/options.php:930
+#@ dfd
+msgid "Footer background color"
+msgstr "Цвет фона футера"
+
+#: options/options.php:931
+#@ dfd
+msgid "Select footer background color. "
+msgstr "Выберите цвет фона футера."
+
+#: options/options.php:937
+#@ dfd
+msgid "Footer font color"
+msgstr "Цвет шрифта футера"
+
+#: options/options.php:938
+#@ dfd
+msgid "Select footer font color."
+msgstr "Выберите цвет шрифта футера."
+
+#: options/options.php:944
+#@ dfd
+msgid "Custom footer background image"
+msgstr "Пользовательское изображение для фона футера"
+
+#: options/options.php:945
+#: options/options.php:983
+#@ dfd
+msgid "Upload your own footer background image or pattern."
+msgstr "Загрузите свое собственное изображение или образец фона футера."
+
+#: options/options.php:950
+#@ dfd
+msgid "Footer background image repeat"
+msgstr "Повтор фонового изображения в футере"
+
+#: options/options.php:960
+#@ dfd
+msgid "<h3 class=\"description\">Sub footer section options</h3>"
+msgstr "<h3 class=\"description\">Опции субфутера</h3>"
+
+#: options/options.php:966
+#@ dfd
+msgid "Sub footer background color"
+msgstr "Цвет фона субфутера"
+
+#: options/options.php:967
+#@ dfd
+msgid "Select sub footer background color. "
+msgstr "Выберите цвет фона субфутера."
+
+#: options/options.php:973
+#@ dfd
+msgid "Sub footer font color"
+msgstr "Цвет шрифта субфутера"
+
+#: options/options.php:975
+#@ dfd
+msgid "Select sub footer font color."
+msgstr "Выберите цвет шрифта субфутера."
+
+#: options/options.php:981
+#@ dfd
+msgid "Custom sub footer background image"
+msgstr "Пользовательское изображение для фона субфутера"
+
+#: options/options.php:988
+#@ dfd
+msgid "Sub footer background image repeat"
+msgstr "Повтор фонового изображения в субфутере"
+
+#: options/options.php:998
+#@ dfd
+msgid "Contact page options"
+msgstr "Опции страницы контактов"
+
+#: options/options.php:999
+#@ dfd
+msgid "<p class=\"description\">Contact page options</p>"
+msgstr "<p class=\"description\">Опции страницы контактов</p>"
+
+#: options/options.php:1008
+#@ dfd
+msgid "Custom Form Shortcode"
+msgstr "Пользовательский шоркод контактной формы"
+
+#: options/options.php:1009
+#@ dfd
+msgid "You can paste your shorcode custom form"
+msgstr "Вы можете вставить шорткод вашей контактной формы"
+
+#: options/options.php:1015
+#@ dfd
+msgid "Display map on contacts page?"
+msgstr "Отображать карту на странице контактов"
+
+#: options/options.php:1022
+#@ dfd
+msgid "Height of Google Map (in px)"
+msgstr "Высота Google карты (px):"
+
+#: options/options.php:1028
+#@ dfd
+msgid "Zoom Level"
+msgstr "увеличить уровень"
+
+#: options/options.php:1034
+#@ dfd
+msgid "Address on Google Map "
+msgstr "Адрес на Google Map"
+
+#: options/options.php:1035
+#@ dfd
+msgid "Fill in your address to be shown on Google map."
+msgstr "Вставьте сюда Ваш адрес для отображения на Google Map."
+
+#: options/options.php:1043
+#@ dfd
+msgid "Layouts Settings"
+msgstr "Настройки макета"
+
+#: options/options.php:1044
+#@ dfd
+msgid "<p class=\"description\">Configure layouts of different pages</p>"
+msgstr "<p class=\"description\">Настройте макеты для разных страниц</p>"
+
+#: options/options.php:1049
+#@ dfd
+msgid "Single pages layout"
+msgstr "Макет отдельных страниц"
+
+#: options/options.php:1050
+#@ dfd
+msgid "Select one type of layout for single pages"
+msgstr "Выберите тип макета для отдельных страниц"
+
+#: options/options.php:1057
+#@ dfd
+msgid "Single pages header"
+msgstr "Хедер одиночных страниц"
+
+#: options/options.php:1064
+#@ dfd
+msgid "Archive Pages Layout"
+msgstr "Архивные страницы"
+
+#: options/options.php:1065
+#@ dfd
+msgid "Select one type of layout for archive pages"
+msgstr "Выберите тип макета для архивных страниц"
+
+#: options/options.php:1072
+#@ dfd
+msgid "Archive Pages header"
+msgstr "Хедер архивных страниц"
+
+#: options/options.php:1079
+#@ dfd
+msgid "Single posts layout"
+msgstr "Отдельные посты"
+
+#: options/options.php:1080
+#@ dfd
+msgid "Select one type of layout for single posts"
+msgstr "Выберите тип макета для отдельных постов"
+
+#: options/options.php:1087
+#@ dfd
+msgid "Single posts header"
+msgstr "Хедер отдельных постов"
+
+#: options/options.php:1094
+#@ dfd
+msgid "Search results layout"
+msgstr "Вывод результатов поиска"
+
+#: options/options.php:1095
+#@ dfd
+msgid "Select one type of layout for search results"
+msgstr "Выберите тип макета для результатов поиска"
+
+#: options/options.php:1102
+#@ dfd
+msgid "Search results header"
+msgstr "Хедер результатов поиска"
+
+#: options/options.php:1109
+#@ dfd
+msgid "404 Page Layout"
+msgstr "Страница 404"
+
+#: options/options.php:1110
+#@ dfd
+msgid "Select one of layouts for 404 page"
+msgstr "Выберите тип макета для страницы 404"
+
+#: options/options.php:1117
+#@ dfd
+msgid "404 Page header"
+msgstr "Хедер 404-ой страницы"
+
+#: options/options.php:1125
+#@ dfd
+msgid "Twitter panel options"
+msgstr "Опции Твиттер панели"
+
+#: options/options.php:1126
+#@ dfd
+msgid "<p class=\"description\">More information about api keys and how to get it you can find in that tutorial <a href=\"http://dfd.name/twitter-settings\">http://dfd.name/twitter-settings/</a></p>"
+msgstr "<p class=\"description\">Более подробную информацию об api keys и как их получить вы можете найти в этом уроке <a href=\"http://dfd.name/twitter-settings\">http://dfd.name/twitter-settings/</a></p>"
+
+#: options/options.php:1135
+#@ dfd
+msgid "Section padding"
+msgstr "Поля секции"
+
+#: options/options.php:1142
+#@ dfd
+msgid "Background color for twitter panel"
+msgstr "Цвет фона для twitter-панели"
+
+#: options/options.php:1148
+#@ dfd
+msgid "Background image for twitter panel"
+msgstr "Изображение фона для twitter-панели"
+
+#: options/options.php:1155
+#@ dfd
+msgid "Display twitter statuses before footer"
+msgstr "Отображать статусы твиттера над футером"
+
+#: options/options.php:1162
+#@ dfd
+msgid "Cache Tweets in every:"
+msgstr "Кешировать твиты каждые:"
+
+#: options/options.php:1163
+#@ dfd
+msgid "In minutes"
+msgstr "В минутах"
+
+#: options/options.php:1169
+#@ dfd
+msgid "Number of latest tweets display:"
+msgstr "Отображать последних твитов:"
+
+#: options/options.php:1175
+#@ dfd
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+#: options/options.php:1181
+#@ dfd
+msgid "Consumer key:"
+msgstr "Consumer key:"
+
+#: options/options.php:1187
+#@ dfd
+msgid "Consumer secret:"
+msgstr "Consumer secret:"
+
+#: options/options.php:1193
+#@ dfd
+msgid "Access token:"
+msgstr "Access token:"
+
+#: options/options.php:1199
+#@ dfd
+msgid "Access token secret:"
+msgstr "Access token secret:"
+
+#: options/options.php:1206
+#@ dfd
+msgid "Footer section options"
+msgstr "Настройки секции футер"
+
+#: options/options.php:1207
+#@ dfd
+msgid "<p class=\"description\">Footer section options</p>"
+msgstr "<p class=\"description\">Опции секции футера</p>"
+
+#: options/options.php:1216
+#@ dfd
+msgid "Logotype in footer"
+msgstr "Логотип в футере"
+
+#: options/options.php:1217
+#@ dfd
+msgid "Will be displayed before copyright text"
+msgstr "Будет отображен перед копирайтом"
+
+#: options/options.php:1223
+#@ dfd
+msgid "Show copyright"
+msgstr "Показывать копирайт"
+
+#: options/options.php:1224
+#@ dfd
+msgid "Fill in the copyright text."
+msgstr "Заполнить копирайт"
+
+#: options/options.php:1231
+#@ dfd
+msgid "Social Counters code"
+msgstr "Код социальных счетчиков"
+
+#: options/options.php:1232
+#@ dfd
+msgid "This code will be displayed before &lt;/body&gt;"
+msgstr "Этот код будет отображен перед &lt;/body&gt;"
+
+#: options/options.php:1242
+#@ dfd
+msgid "Theme Update"
+msgstr "Обновление темы"
+
+#: options/options.php:1249
+#@ dfd
+msgid "ThemeForest Username"
+msgstr "Имя пользователя на ThemeForest"
+
+#: options/options.php:1255
+#@ dfd
+msgid "Secret API Key"
+msgstr "Секретный ключ API "
+
+#: options/options.php:1265
+#@ dfd
+msgid "Upgrade theme"
+msgstr "Обновить тему"
+
+#: options/options.php:1295
+#@ dfd
+msgid "<strong>Theme URL:</strong> "
+msgstr "<strong>Ссылка темы:</strong> "
+
+#: options/options.php:1296
+#@ dfd
+msgid "<strong>Author:</strong> "
+msgstr "<strong>Автор:</strong> "
+
+#: options/options.php:1297
+#@ dfd
+msgid "<strong>Version:</strong> "
+msgstr "<strong>Версия:</strong> "
+
+#: options/options.php:1299
+#@ dfd
+msgid "<strong>Tags:</strong> "
+msgstr "<strong>Теги:</strong> "
+
+#: options/options.php:1305
+#@ dfd
+msgid "Theme Information"
+msgstr "Информация о теме"
+
+#: options/options.php:1313
+#@ dfd
+msgid "Documentation"
+msgstr "Документация"
+
+#: options/options/defaults.php:54
+#, php-format
+#@ dfd
+msgid "<span id=\"footer-thankyou\">Options panel created using <a href=\"%s\" target=\"_blank\">Redux Framework</a> v%s</span>"
+msgstr "<span id=\"footer-thankyou\">Панель опций созданная используя <a href=\"%s\" target=\"_blank\">Redux Framework</a> v%s</span>"
+
+#: options/options/defaults.php:247
+#: options/options/defaults.php:248
+#: options/options/defaults.php:678
+#@ dfd
+msgid "Import / Export"
+msgstr "Импорт / Экспорт"
+
+#: options/options/defaults.php:267
+#: options/options/defaults.php:268
+#: options/options/defaults.php:709
+#: options/options/defaults.php:782
+#@ dfd
+msgid "Dev Mode Info"
+msgstr "Dev Mode Info"
+
+#: options/options/defaults.php:342
+#@ dfd
+msgid "Are you sure? You will lose all custom values."
+msgstr "Вы уверенны? Сброс может вызвать потерю всех пользовательских значений."
+
+#: options/options/defaults.php:630
+#: options/options/defaults.php:807
+#@ dfd
+msgid "Reset to Defaults"
+msgstr "Вернуться к стандартным настройкам"
+
+#: options/options/defaults.php:636
+#@ dfd
+msgid "<strong>Settings Imported!</strong>"
+msgstr "<strong>Настройки импортированны!</strong>"
+
+#: options/options/defaults.php:638
+#@ dfd
+msgid "<strong>Settings Saved!</strong>"
+msgstr "<strong>Настройки сохранены!</strong>"
+
+#: options/options/defaults.php:643
+#@ dfd
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr "<strong>Настройки изменились! Сохраните их!</strong>"
+
+#: options/options/defaults.php:644
+#@ dfd
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr "<strong><span></span> Найдены ошибки!</strong>"
+
+#: options/options/defaults.php:645
+#@ dfd
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr "<strong><span></span> Найдено предупреджение(я)!</strong>"
+
+#: options/options/defaults.php:727
+#@ dfd
+msgid "Import / Export Options"
+msgstr "Опции импорта/ экспорта"
+
+#: options/options/defaults.php:728
+#@ dfd
+msgid "Import Options"
+msgstr "Опции импорта"
+
+#: options/options/defaults.php:729
+#@ dfd
+msgid "Import from file"
+msgstr "Импорт из файла"
+
+#: options/options/defaults.php:729
+#@ dfd
+msgid "Import from URL"
+msgstr "Импорт по ссылке"
+
+#: options/options/defaults.php:734
+#@ dfd
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr "Загрузите резервную копию файлов и нажмите Импорт для восстановления опций сайта из резервной копии."
+
+#: options/options/defaults.php:744
+#@ dfd
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr "Введите ссылку к опциям другого сайта и нажмите Импорт для загрузки опций с этого сайта."
+
+#: options/options/defaults.php:751
+#@ dfd
+msgid "Import"
+msgstr "Импорт"
+
+#: options/options/defaults.php:751
+#@ dfd
+msgid "WARNING! This will overwrite any existing options, please proceed with caution!"
+msgstr "Внимание! Существующие опции будут заменены, продолжайте осторожно!"
+
+#: options/options/defaults.php:754
+#@ dfd
+msgid "Export Options"
+msgstr "Опции экспорта"
+
+#: options/options/defaults.php:756
+#@ dfd
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr "Вы можете копировать/ загружать сюда текущие настройки темы. Сохраните их для использования в качестве резервной копии в случае форсмажора. Или же Вы можете использовать их для восстановления настроек на этом сайте (или на любом другом). "
+
+#: options/options/defaults.php:759
+#@ dfd
+msgid "Copy"
+msgstr "Копировать"
+
+#: options/options/defaults.php:759
+#@ dfd
+msgid "Copy Link"
+msgstr "Копировать Ссылка"
+
+#: options/options/option_values.php:35
+#@ dfd
+msgid "Header 1"
+msgstr "Header 1"
+
+#: options/options/option_values.php:36
+#@ dfd
+msgid "Header 1a"
+msgstr "Header 1a"
+
+#: options/options/option_values.php:37
+#@ dfd
+msgid "Header 1a with 1st logo"
+msgstr "Заголовок 1a с первым лого"
+
+#: options/options/option_values.php:38
+#@ dfd
+msgid "Header 1b"
+msgstr "Header 1b"
+
+#: options/options/option_values.php:39
+#@ dfd
+msgid "Header 1b with 1st logo"
+msgstr "Заголовок 1b с первым лого"
+
+#: options/options/option_values.php:45
+#@ dfd
+msgid "Fullwidth"
+msgstr "На полную ширину"
+
+#: options/options/option_values.php:46
+#@ dfd
+msgid "Boxed"
+msgstr "C рамкой"
+
+#: options/options/fields/color_gradient/field_color_gradient.php:28
+#: options/options/fields/color_gradient/field_color_gradient.php:33
+#@ dfd
+msgid "From:"
+msgstr "С:"
+
+#: options/options/fields/color_gradient/field_color_gradient.php:29
+#@ dfd
+msgid "To:"
+msgstr "В:"
+
+#: options/options/fields/color_gradient/field_color_gradient.php:35
+#@ dfd
+msgid " To:"
+msgstr "В:"
+
+#: options/options/fields/google_webfonts/field_google_webfonts.php:25
+#@ dfd
+msgid "The fonts provided below are free to use custom fonts from the <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts directory</a>"
+msgstr "Шрифты, указанные ниже, можно свободно использовать как пользовательские шрифты с <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts directory</a> zu benutzen"
+
+#: options/options/fields/multi_text/field_multi_text.php:40
+#: options/options/fields/social/field_social.php:49
+#@ dfd
+msgid "Add More"
+msgstr "Добавить больше"
+
+#: options/options/fields/upload/field_upload.php:30
+#@ dfd
+msgid "Upload"
+msgstr "Загрузить"
+
+#: options/options/fields/upload/field_upload.php:31
+#@ dfd
+msgid "Remove Upload"
+msgstr "Удалить загруженные"
+
+#: options/options/validation/color/validation_color.php:13
+#@ dfd
+msgid "This field must be a valid color value."
+msgstr "В это поле нужно ввести цвет в правильном формате."
+
+#: options/options/validation/comma_numeric/validation_comma_numeric.php:13
+#@ dfd
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr "Введите список цифровых значений, разделенных запятой, для этой опции."
+
+#: options/options/validation/date/validation_date.php:13
+#@ dfd
+msgid "This field must be a valid date."
+msgstr "В это поле нужно ввести дату в правильном формате."
+
+#: options/options/validation/email/validation_email.php:13
+#@ dfd
+msgid "You must provide a valid email for this option."
+msgstr "Введите email в правильном формате."
+
+#: options/options/validation/no_html/validation_no_html.php:13
+#@ dfd
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "Не вводите HTML данные в это поле, все  HTML теги были удалены."
+
+#: options/options/validation/no_special_chars/validation_no_special_chars.php:13
+#@ dfd
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr "Не вводите специальные символы в данное поле, все специальные символы были удалены."
+
+#: options/options/validation/numeric/validation_numeric.php:13
+#@ dfd
+msgid "You must provide a numerical value for this option."
+msgstr "Введите цифровое значение для этой опции."
+
+#: options/options/validation/url/validation_url.php:13
+#@ dfd
+msgid "You must provide a valid URL for this option."
+msgstr "Введите ссылку для этой опции в правильном формате."
+
+#: templates/author-box.php:29
+#@ dfd
+msgid "Read all author posts"
+msgstr "Читать все посты автора"
+
+#: templates/dopinfo.php:7
+#: templates/entry-meta.php:3
+#@ dfd
+msgid "By"
+msgstr "От"
+
+#: templates/dopinfo.php:9
+#: templates/entry-meta.php:10
+#@ dfd
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: templates/entry-meta.php:5
+#@ dfd
+msgid "in"
+msgstr "в"
+
+#: templates/entry-meta.php:10
+#@ dfd
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: templates/portfolio-item.php:37
+#@ dfd
+msgid "Read details"
+msgstr "Читать детали"
+
+#: templates/searchform-mini.php:4
+#: templates/searchform.php:4
+#@ dfd
+msgid "Search"
+msgstr "Искать"
+
+#: templates/searchform.php:3
+#@ dfd
+msgid "Search on site..."
+msgstr "Искать на сайте..."
+
+#: templates/top-page.php:16
+#@ dfd
+msgid "Latest Posts"
+msgstr "Последние публикации"
+
+#: templates/top-page.php:26
+#, php-format
+#@ dfd
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы %s"
+
+#: templates/top-page.php:28
+#, php-format
+#@ dfd
+msgid "Monthly Archives: %s"
+msgstr "Ежемесячные архивы: %s"
+
+#: templates/top-page.php:30
+#, php-format
+#@ dfd
+msgid "Yearly Archives: %s"
+msgstr "Ежегодные архивы: %s"
+
+#: templates/top-page.php:39
+#@ dfd
+msgid "Author Archives:"
+msgstr "Архивы автора:"
+
+#: templates/top-page.php:43
+#, php-format
+#@ dfd
+msgid "Author Archives: %s"
+msgstr "Архивы автора: %s"
+
+#: templates/top-page.php:50
+#, php-format
+#@ dfd
+msgid "Search Results for %s"
+msgstr "Результаты поиска для %s"
+
+#: templates/top-page.php:52
+#@ dfd
+msgid "File Not Found"
+msgstr "Файл не найден"
+
+#: templates/entry-meta/mini-share.php:5
+#: woocommerce/loop/share.php:21
+#: woocommerce/single-product/share.php:12
+#@ dfd
+msgid "Share"
+msgstr "Поделиться"
+
+#: templates/header/block-responsive-menu.php:2
+#@ dfd
+msgid "Menu"
+msgstr "Меню"
+
+#: woocommerce/best_selling_products.php:33
+#@ dfd
+msgid "The best offers"
+msgstr "Лучшие предложения"
+
+#: woocommerce/loop-shop.php:40
+#@ dfd
+msgid "No products found which match your selection."
+msgstr "В корзине никаких товаров не найдено."
+
+#: woocommerce/single-product-reviews.php:18
+#@ dfd
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: woocommerce/single-product-reviews.php:32
+#@ dfd
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span>Предыдущий"
+
+#: woocommerce/single-product-reviews.php:33
+#@ dfd
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующий<span class=\"meta-nav\">&rarr;</span>"
+
+#: woocommerce/single-product-reviews.php:37
+#@ dfd
+msgid "Add Your Review"
+msgstr "Добавить отзыв"
+
+#: woocommerce/single-product-reviews.php:37
+#@ dfd
+msgid "Add Review"
+msgstr "Добавить отзыв"
+
+#: woocommerce/single-product-reviews.php:39
+#@ dfd
+msgid "Add a review"
+msgstr "Добавить отзыв"
+
+#: woocommerce/single-product-reviews.php:43
+#@ dfd
+msgid "Be the first to review"
+msgstr "Оставьте отзыв первым"
+
+#: woocommerce/single-product-reviews.php:45
+#@ dfd
+msgid "There are no reviews yet, would you like to <a href=\"#review_form\" class=\"inline show_review_form\">submit yours</a>?"
+msgstr "Там пока еще нет ни одного отзыва, вы бы хотели <a href=\"#review_form\" class=\"inline show_review_form\">оставить свой</a>?"
+
+#: woocommerce/single-product-reviews.php:63
+#@ dfd
+msgid "Submit Review"
+msgstr "Добавить отзыв"
+
+#: woocommerce/single-product-reviews.php:70
+#@ dfd
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: woocommerce/single-product-reviews.php:71
+#@ dfd
+msgid "Rate&hellip;"
+msgstr "Оценить&hellip;"
+
+#: woocommerce/single-product-reviews.php:72
+#@ dfd
+msgid "Perfect"
+msgstr "Идеально"
+
+#: woocommerce/single-product-reviews.php:73
+#@ dfd
+msgid "Good"
+msgstr "Хорошо"
+
+#: woocommerce/single-product-reviews.php:74
+#@ dfd
+msgid "Average"
+msgstr "Обычно"
+
+#: woocommerce/single-product-reviews.php:75
+#@ dfd
+msgid "Not that bad"
+msgstr "Не плохо"
+
+#: woocommerce/single-product-reviews.php:76
+#@ dfd
+msgid "Very Poor"
+msgstr "Очень плохо"
+
+#: woocommerce/single-product-reviews.php:81
+#@ dfd
+msgid "Your Review"
+msgstr "Ваш отзыв"
+
+#: woocommerce/cart/cart.php:31
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:21
+#@ dfd
+msgid "Product"
+msgstr "Товар"
+
+#: woocommerce/cart/cart.php:32
+#@ dfd
+msgid "Price"
+msgstr "Цена"
+
+#: woocommerce/cart/cart.php:33
+#@ dfd
+msgid "Quantity"
+msgstr "Количество"
+
+#: woocommerce/cart/cart.php:34
+#: woocommerce/checkout/review-order.php:22
+#@ dfd
+msgid "Total"
+msgstr "Итог"
+
+#: woocommerce/cart/cart.php:50
+#@ dfd
+msgid "Remove this item"
+msgstr "Удалить эту позицию"
+
+#: woocommerce/cart/cart.php:79
+#@ dfd
+msgid "Available on backorder"
+msgstr "Доступно в обратном порядке"
+
+#: woocommerce/checkout/form-pay.php:20
+#@ dfd
+msgid "Qty"
+msgstr "Количество"
+
+#: woocommerce/cart/cart.php:130
+#@ dfd
+msgid "Coupon"
+msgstr "Скидка"
+
+#: woocommerce/cart/cart.php:130
+#@ dfd
+msgid "Apply Coupon"
+msgstr "Использоваьт скидку"
+
+#: woocommerce/cart/cart.php:137
+#@ dfd
+msgid "Update Cart"
+msgstr "Обновить корзину"
+
+#: woocommerce/cart/cart.php:137
+#@ dfd
+msgid "Proceed to Checkout &rarr;"
+msgstr "Выполнить заказ &rarr;"
+
+#: woocommerce/cart/shipping-methods.php:32
+#@ dfd
+msgid "Free"
+msgstr "Бесплатно"
+
+#: woocommerce/cart/shipping-methods.php:67
+#@ dfd
+msgid "Please fill in your details to see available shipping methods."
+msgstr "Пожалуйста, введите свои данные, чтобы увидеть доступные методы доставки."
+
+#: woocommerce/cart/shipping-methods.php:69
+#@ dfd
+msgid "Sorry, it seems that there are no available shipping methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "К сожалению, нет доступных методов перевозки груза для Вашего государства. Пожалуйста, свяжитесь с нами, если Вам требуется помощь или вы хотите принять дополнительные меры."
+
+#: woocommerce/checkout/cart-errors.php:16
+#@ dfd
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr "Есть некоторые проблемы с товаром в Вашей корзине (см. выше). Пожалуйста, вернитесь к странице заказа и решите эти вопросы перед оформлением заказа."
+
+#: woocommerce/checkout/cart-errors.php:20
+#@ dfd
+msgid "&larr; Return To Cart"
+msgstr "&larr; Вернуться в корзину"
+
+#: woocommerce/checkout/form-pay.php:21
+#@ dfd
+msgid "Totals"
+msgstr "Итоги"
+
+#: woocommerce/checkout/form-pay.php:78
+#@ dfd
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "К сожалению, нет доступных методов оплаты для Вашего местоположения. Пожалуйста, свяжитесь с нами, если Вам требуется помощь или Вы хотите принять дополнительные меры."
+
+#: woocommerce/checkout/form-pay.php:87
+#@ dfd
+msgid "Pay for order"
+msgstr "Оплатить заказ"
+
+#: woocommerce/checkout/form-shipping.php:32
+#@ dfd
+msgid "Ship to billing address?"
+msgstr "Отправить по платежному адресу?"
+
+#: woocommerce/checkout/form-shipping.php:35
+#@ dfd
+msgid "Shipping Address"
+msgstr "Адрес доставки"
+
+#: woocommerce/checkout/form-shipping.php:59
+#@ dfd
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+#: woocommerce/checkout/review-order.php:27
+#@ dfd
+msgid "Cart Subtotal"
+msgstr "Корзина: промежуточный итог"
+
+#: woocommerce/checkout/review-order.php:34
+#@ dfd
+msgid "Cart Discount"
+msgstr "Корзина: со скидкой"
+
+#: woocommerce/checkout/review-order.php:45
+#@ dfd
+msgid "Shipping"
+msgstr "Доставка"
+
+#: woocommerce/checkout/review-order.php:93
+#@ dfd
+msgid "Subtotal"
+msgstr "Промежуточный итог"
+
+#: woocommerce/checkout/review-order.php:113
+#@ dfd
+msgid "Tax"
+msgstr "Налог"
+
+#: woocommerce/checkout/review-order.php:124
+#@ dfd
+msgid "Order Discount"
+msgstr "Скидка заказа"
+
+#: woocommerce/checkout/review-order.php:133
+#@ dfd
+msgid "Order Total"
+msgstr "Сумма всего заказа"
+
+#: woocommerce/checkout/review-order.php:151
+#, php-format
+#@ dfd
+msgid "(Includes %s)"
+msgstr "(Включает %s)"
+
+#: woocommerce/checkout/review-order.php:217
+#@ dfd
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Пожалуйста, введите свои данные выше, чтобы увидеть доступные способы оплаты."
+
+#: woocommerce/checkout/review-order.php:219
+#@ dfd
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "К сожалению, нет доступных методов оплаты для Вашего государства. Пожалуйста, свяжитесь с нами, если Вам требуется помощь или Вы хотите принять дополнительные меры."
+
+#: woocommerce/checkout/review-order.php:228
+#@ dfd
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Так как ваш браузер не поддерживает JavaScript, или он отключен, пожалуйста, убедитесь, что вы нажмете  кнопку <em> Обновить Итоги  </ EM>  перед оформлением заказа."
+
+#: woocommerce/checkout/review-order.php:228
+#@ dfd
+msgid "Update totals"
+msgstr "Обновить итоговую сумму"
+
+#: woocommerce/checkout/review-order.php:234
+#@ dfd
+msgid "Place order"
+msgstr "Сделать заказ"
+
+#: woocommerce/checkout/review-order.php:238
+#@ dfd
+msgid "I have read and accept the"
+msgstr "Я прочитал и принимаю"
+
+#: woocommerce/checkout/review-order.php:238
+#@ dfd
+msgid "terms &amp; conditions"
+msgstr "Сроки &amp; Условия"
+
+#: woocommerce/checkout/thankyou.php:18
+#@ dfd
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr "К сожалению, ваш заказ не может быть обработан, потому что главный банк отказал в транзакции."
+
+#: woocommerce/checkout/thankyou.php:22
+#@ dfd
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Пожалуйста, повторите запрос еще раз, или перейдите на страницу аккаунта."
+
+#: woocommerce/checkout/thankyou.php:24
+#@ dfd
+msgid "Please attempt your purchase again."
+msgstr "Повторите Вашу попытку снова."
+
+#: woocommerce/checkout/thankyou.php:28
+#@ dfd
+msgid "Pay"
+msgstr "Платить"
+
+#: woocommerce/checkout/thankyou.php:30
+#@ dfd
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: woocommerce/checkout/thankyou.php:36
+#: woocommerce/checkout/thankyou.php:67
+#@ dfd
+msgid "Thank you. Your order has been received."
+msgstr "Спасибо. Ваш заказ был получен."
+
+#: woocommerce/checkout/thankyou.php:40
+#@ dfd
+msgid "Order:"
+msgstr "Заказ:"
+
+#: woocommerce/checkout/thankyou.php:44
+#@ dfd
+msgid "Date:"
+msgstr "Дата:"
+
+#: woocommerce/checkout/thankyou.php:48
+#@ dfd
+msgid "Total:"
+msgstr "Итог:"
+
+#: woocommerce/checkout/thankyou.php:53
+#@ dfd
+msgid "Payment method:"
+msgstr "Способ оплаты:"
+
+#: woocommerce/loop/add-to-cart.php:18
+#: woocommerce/loop/add-to-cart.php:43
+#: woocommerce/loop/add-to-cart.php:52
+#@ dfd
+msgid "Read More"
+msgstr "Читать больше"
+
+#: woocommerce/loop/add-to-cart.php:35
+#@ dfd
+msgid "Select options"
+msgstr "Выберите опции"
+
+#: woocommerce/loop/add-to-cart.php:39
+#@ dfd
+msgid "View options"
+msgstr "Просмотреть опции"
+
+#: woocommerce/loop/add-to-cart.php:48
+#@ dfd
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: woocommerce/loop/orderby.php:27
+#: woocommerce/loop/orderby.php:52
+#@ dfd
+msgid "Sort by popularity"
+msgstr "Сортировать по популярности:"
+
+#: woocommerce/loop/orderby.php:30
+#: woocommerce/loop/orderby.php:55
+#@ dfd
+msgid "Sort by newness"
+msgstr "Сортировать по новизне:"
+
+#: woocommerce/loop/orderby.php:33
+#: woocommerce/loop/orderby.php:58
+#@ dfd
+msgid "Sort by price: low to high"
+msgstr "Сортировать по цене: от низкой к высокой"
+
+#: woocommerce/loop/orderby.php:36
+#: woocommerce/loop/orderby.php:61
+#@ dfd
+msgid "Sort by price: high to low"
+msgstr "Сортировать по цене: от высокой к низкой"
+
+#: woocommerce/loop/orderby.php:39
+#: woocommerce/loop/orderby.php:48
+#@ dfd
+msgid "Default sorting"
+msgstr "Сортировка по умолчанию"
+
+#: woocommerce/loop/rating.php:21
+#, php-format
+#@ dfd
+msgid "Rated %s out of 5"
+msgstr "Рейтинг %s из 5"
+
+#: woocommerce/loop/rating.php:22
+#: woocommerce/single-product/review.php:27
+#@ dfd
+msgid "out of 5"
+msgstr "из 5"
+
+#: woocommerce/loop/share.php:10
+#@ dfd
+msgid "Details"
+msgstr "Отображать детали"
+
+#: woocommerce/shop/breadcrumb.php:72
+#@ dfd
+msgid "Products tagged &ldquo;"
+msgstr "Помеченные товары &ldquo;"
+
+#: woocommerce/shop/breadcrumb.php:100
+#: woocommerce/shop/breadcrumb.php:202
+#@ dfd
+msgid "Search results for &ldquo;"
+msgstr "Результаты поиска для &ldquo;"
+
+#: woocommerce/shop/breadcrumb.php:206
+#@ dfd
+msgid "Posts tagged &ldquo;"
+msgstr "Посты с метками &ldquo;"
+
+#: woocommerce/shop/breadcrumb.php:211
+#@ dfd
+msgid "Author:"
+msgstr "Автор:"
+
+#: woocommerce/single-product/meta.php:19
+#@ dfd
+msgid "SKU:"
+msgstr "Артикул:"
+
+#: woocommerce/single-product/product-attributes.php:28
+#@ dfd
+msgid "Weight"
+msgstr "Вес"
+
+#: woocommerce/single-product/product-attributes.php:37
+#@ dfd
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: woocommerce/single-product/related.php:38
+#@ dfd
+msgid "Related products"
+msgstr "Похожие товары"
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+#@ dfd
+msgid "Rated %d out of 5"
+msgstr "Рейтинг %d из 5"
+
+#: woocommerce/single-product/review.php:33
+#@ dfd
+msgid "Your comment is awaiting approval"
+msgstr "Ваш комментарий ожидает проверки."
+
+#: woocommerce/single-product/review.php:40
+#@ dfd
+msgid "verified owner"
+msgstr "подтвержденный владелец"
+
+#: comments.php:64
+#, php-format
+#@ dfd
+msgid "There are 1 comment on this post"
+msgid_plural "There are %1$s comments on this post"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: footer.php:65
+#@ dfd
+msgid "Share us"
+msgstr ""
+
+#: inc/lib/plugin-activation.php:159
+#: inc/lib/plugins.php:211
+#, php-format
+#@ dfd
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/plugin-activation.php:160
+#: inc/lib/plugins.php:212
+#, php-format
+#@ dfd
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/plugin-activation.php:161
+#: inc/lib/plugins.php:213
+#, php-format
+#@ dfd
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/plugin-activation.php:162
+#: inc/lib/plugins.php:214
+#, php-format
+#@ dfd
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/plugin-activation.php:163
+#: inc/lib/plugins.php:215
+#, php-format
+#@ dfd
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/plugin-activation.php:164
+#: inc/lib/plugins.php:216
+#, php-format
+#@ dfd
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/plugin-activation.php:165
+#: inc/lib/plugins.php:217
+#, php-format
+#@ dfd
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/plugin-activation.php:166
+#: inc/lib/plugins.php:218
+#, php-format
+#@ dfd
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/plugin-activation.php:167
+#: inc/lib/plugins.php:219
+#@ dfd
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/plugin-activation.php:168
+#: inc/lib/plugins.php:220
+#@ dfd
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/lib/plugin-activation.php:1538
+#: inc/lib/plugin-activation.php:172
+#@ dfd
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/menu/edit_mega_menu_walker.php:122
+#@ dfd
+msgid "Move up"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:135
+#@ dfd
+msgid "Move down"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:16
+#@ dfd
+msgid "Accordion module"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:17
+#@ dfd
+msgid "Add an accordion"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:46
+#@ dfd
+msgid "Add section"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:47
+#@ dfd
+msgid "Section"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:48
+#: inc/mvb/gears/libraries/mvb_accordion.php:59
+#@ dfd
+msgid "Section Title"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_accordion.php:65
+#@ dfd
+msgid "Section content"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_contact_form.php:54
+#@ dfd
+msgid "Captcha"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_contact_form.php:68
+#@ dfd
+msgid "Show half-size form"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:16
+#@ dfd
+msgid "Presentation Vertical"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:97
+#@ dfd
+msgid "Link In Main Title"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:128
+#@ dfd
+msgid "Icon size (in px)"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:161
+#@ dfd
+msgid "Icon or image align"
+msgstr ""
+
+#: inc/mvb/gears/libraries/mvb_presentation_boxes_vertical.php:162
+#@ dfd
+msgid "The image or cion will appear to the left or to the right from content"
+msgstr ""
+
+#: inc/mvb/html/public/mvb_contact_form.php:97
+#@ dfd
+msgid "The CAPTCHA wasn't entered correctly."
+msgstr ""
+
+#: inc/widgets/widget-cat-tabs.php:15
+#@ dfd
+msgid "Add tabs widget with the posts of chosen category"
+msgstr ""
+
+#: inc/widgets/widget-contacts.php:9
+#@ dfd
+msgid "Displays the author&apos;s contact information&#44; such as address&#44; phone etc&#46;"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:10
+#@ dfd
+msgid "Facebook Social Network widget"
+msgstr ""
+
+#: inc/widgets/widget-gallery.php:20
+#@ dfd
+msgid "Displays random work from your portfolio"
+msgstr ""
+
+#: inc/widgets/widget-login.php:14
+#@ dfd
+msgid "Displays login form"
+msgstr ""
+
+#: inc/widgets/widget-recent.php:134
+#, php-format
+#@ dfd
+msgid "Permalink to %s"
+msgstr ""
+
+#: inc/widgets/widget-vcard-simple.php:13
+#@ dfd
+msgid "Use this widget to add a simple vCard"
+msgstr ""
+
+#: woocommerce/cart/cart.php:103
+#@ dfd
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:22
+#@ product_cat
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/single-product/meta.php:24
+#@ product_tag
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+

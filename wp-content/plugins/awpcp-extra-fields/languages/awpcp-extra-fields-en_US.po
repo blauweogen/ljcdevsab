@@ -1,0 +1,456 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AWPCP\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/awpcp-extra-fields\n"
+"POT-Creation-Date: 2015-06-18 21:47:21+00:00\n"
+"PO-Revision-Date: 2014-03-07 20:36-0500\n"
+"Last-Translator: Willington Vega <wvega@wvega.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: awpcp_extra_fields_module.php:926
+msgid " for drop down lists, radio buttons, checkboxes "
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1335
+msgid "%s is badly formatted. Valid Email format required."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1329
+msgid "%s is badly formatted. Valid URL format required. Include http://"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1316 awpcp_extra_fields_module.php:1324
+msgid "%s is required."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1341
+msgid "%s must be a number."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1347
+msgid "%s must be a number. Decimal values not allowed."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:832
+msgid "A short name for the form field. This is not visible to user"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:626 awpcp_extra_fields_module.php:661
+msgid "Action"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1011
+msgid "Ad Listing Display"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:573 awpcp_extra_fields_module.php:1037
+msgid "Add New Field"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:705
+msgid "All"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:990
+msgctxt "all categories"
+msgid "All"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:215
+msgid "Allow HTML in Extra Fields Labels"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:30
+msgid ""
+"An old version of Extra Fields Module is already loaded. Please remove "
+"awpcp_extra_fields_module.php from your AWPCP plugin directory."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1017
+msgid "Both"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:623 awpcp_extra_fields_module.php:989
+msgid "Categories"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:658
+msgid "Category"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:886
+msgid "Checkbox"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:955
+msgid "Currency"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:611 awpcp_extra_fields_module.php:646
+msgid "Data Type"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:892
+msgid "DatePicker"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:915
+msgid "Decimal (Money and other floating values. Uses FLOAT)"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:714
+msgid "Delete"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1029
+msgid "Do not show this field on the search form."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:132
+msgid ""
+"Duplicate field name. You cannot use the same field name more than once."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:712
+msgid "Edit"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:949
+msgid "Email"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:152
+msgid "Error"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:529
+msgid "Extra Field Settings"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:208 awpcp_extra_fields_module.php:517
+msgid "Extra Fields"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:210
+msgid "Extra Fields will be shown in the selected number of columns."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:854
+msgid "Field Input Element Type"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:896
+msgid "Field MYSQL Data Type"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:830
+msgid "Field Name"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:925
+msgid "Field Options"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:838
+msgid "Field Post Label"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:846
+msgid "Field View Label"
+msgstr ""
+
+#: templates/date-range-search-form-field.tpl.php:3
+msgid "From"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:985
+msgid ""
+"If you want to collect information from users but don't want it to be "
+"displayed publicly, choose Private. Choose Restricted if you want to show "
+"the information to logged in users only."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:589
+msgid ""
+"If you want to order the fields in a particular way, go <order-fields-"
+"link>here</a> to <order-fields-link>customize the order of all AWPCP fields</"
+"a>."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:874
+msgid "Input Text Box"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:608 awpcp_extra_fields_module.php:643
+msgid "Input Type"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:748
+msgid ""
+"It appears you have not added any extra fields yet. Start adding extra "
+"fields using the link below"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:921
+msgid "Long Text"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1146
+#: templates/number-range-search-form-field.tpl.php:4
+msgid "Max"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1144
+#: templates/number-range-search-form-field.tpl.php:2
+msgid "Min"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:958
+msgid "Missing Value"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:880
+msgid "Multiple Select List"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:599 awpcp_extra_fields_module.php:634
+msgid "Name"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:991
+msgctxt "no categories"
+msgid "None"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:210
+msgid "Number of columns of Extra Fields to show."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:961
+msgid "Numeric decimal allowed"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:964
+msgid "Numeric no decimal allowed"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:614 awpcp_extra_fields_module.php:649
+msgid "Options"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:602 awpcp_extra_fields_module.php:637
+msgid "Post Label"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:620 awpcp_extra_fields_module.php:655
+#: awpcp_extra_fields_module.php:979
+msgid "Privacy"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:983
+msgid "Private"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:981
+msgid "Public"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:883
+msgid "Radio Button"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:975
+msgid "Required (Check if this field should always have a value)."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:982
+msgid "Restricted"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:539
+msgid "Save Changes"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:861
+msgid "Select Field Input Type"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:903
+msgid "Select Field MYSQL Data Type"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:877
+msgid "Select List"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:898
+msgid ""
+"Select Number for values that must save as numbers, money for money values, "
+"short text for string values under 300 characters and long text for string "
+"values over 300 characters"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1163 templates/dropdown-form-field.tpl.php:2
+msgid "Select One"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:938
+msgid "Select Option"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:918
+msgid "Short Text"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:209
+msgid "Show empty Extra Fields in Ads?"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1008
+msgid "Show this field to the user on"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1014
+msgid "Single Ad Display"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:840
+msgid "Text that tells the user what they need to enter or select in the form."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:848
+msgid "Text to use when displaying the field data on the ad view page."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:889
+msgid "Textarea"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:150
+msgid "The AWPCP Extra Fields module requires AWPCP version %s or newer!"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:479
+msgid "The field has been successfully deleted"
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:152
+msgid "The field has been updated successfully."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:239
+msgid "The new field has been added successfully."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:249
+msgid ""
+"There was an error trying to create the associated column in the Ads table "
+"for your Extra Field."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:182
+msgid ""
+"There was an error trying to update the associated column in the Ads table "
+"for your Extra Field."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:465
+msgid "There was no ID supplied for the field you would like to delete"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:433
+msgid "There was no ID supplied for the field you would like to edit"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1001
+msgid "This field will appear only in the selected categories."
+msgstr ""
+
+#: templates/date-range-search-form-field.tpl.php:8
+msgid "To"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:952
+msgid "URL"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:1037
+msgid "Update Field"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:935
+msgid "Validate Against"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:617 awpcp_extra_fields_module.php:652
+msgid "Validation"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:825
+msgid "View Current Fields"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:605 awpcp_extra_fields_module.php:640
+msgid "View Label"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:856
+msgid "What input element type should be used to collect the data from user?"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:912
+msgid "Whole Number"
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:104
+msgid ""
+"You can't use <strong>%s</strong> as the name for the field. It is a "
+"WordPress Reserved Term."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:128
+msgid "You did not indicate the field MYSQL data type."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:118
+msgid "You did not indicate the input element type for the field."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:100
+msgid "You did not provide a name for the field."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:110
+msgid "You did not provide a post form label for the field."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:114
+msgid "You did not provide an ad view label for the field."
+msgstr ""
+
+#: includes/views/admin/class-save-extra-field-data-step.php:123
+msgid ""
+"You have indicated the field input type is either a checkbox, radio button "
+"or drop down element, however you did not provide any options for the field. "
+"You either need to change the input type to input box or textarea input or "
+"provide some options."
+msgstr ""
+
+#: awpcp_extra_fields_module.php:690
+msgid "required"
+msgstr ""
+
+#: awpcp_extra_fields_module.php:928
+msgid "type an option in each line"
+msgstr ""

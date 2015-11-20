@@ -1,0 +1,53 @@
+/* -----------------------------------------
+   Clients list
+----------------------------------------- */
+.clients-list-slider {
+	.jcarousel-base();
+	
+	li {
+		width: 220px;
+		min-height: 150px;
+		text-align: center;
+	}
+	
+	li > * {
+		display: block;
+		.vertical-align();
+		text-align: center;
+	}
+}
+
+.clients-list-item {
+	
+	> a {
+		.opacity(1);
+		.transition(opacity .2s linear);
+		height: 100%;
+		img {
+			.vertical-align();
+		}
+	}
+	
+	.clients-tooltip {
+		.rel();
+		top: 50px;
+		.inline-block();
+		font-size: 12px;
+		opacity: 0;
+		background: #3d3d3d;
+		color: @white-dark;
+		padding: 5px 10px;
+		.transition(~"opacity .3s ease-in-out, background-color .3s ease-out, top .3s ease-out");
+	}
+	
+	&:hover {
+		> a {
+			.opacity(.6);
+		}
+		.clients-tooltip {
+			top: -20px;
+			z-index: 3;
+			opacity: 1;
+		}
+	}
+}

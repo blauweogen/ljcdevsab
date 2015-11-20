@@ -1,0 +1,87 @@
+.my_skills_widget {
+	@h:30px;
+	
+	label {
+		line-height: @h;
+		margin: 0 0 5px 10px;
+		color: @main-site-dark-color;
+		font-size: 15px;
+		font-weight: 300;
+	}
+    
+	.skill-percent {
+		.abs();
+		right: 10px;
+		top: 0;
+		line-height: @h;
+		color: @main-site-dark-color;
+		font-size: 15px;
+		font-weight: 300;
+
+		> span {
+			font-weight: 300;
+		}
+	}
+	
+	.wrap {
+		
+		.progress-wrap {
+			
+			.icon-wrap {
+				float: left;
+				width: 18px;
+				text-align: center;
+				line-height: @h;
+				text-align: center;
+				margin-left: 10px;
+				
+				i {
+					font-size: 18px;
+					color: #ffffff;
+				}
+			}
+			
+			.progress-with-icon {
+				//margin-left: 47px;
+				width: auto;
+			}
+			
+			.progress {
+				width: 100%;
+				height: @h;
+				background: #f4f4f4;
+				margin-bottom: 20px; 
+				border-radius: 3px;
+				
+				.meter {
+					color: inherit; 
+					height: @h;
+					display: block;
+					background: @main-site-light-color;
+					position: relative; 
+					border-radius: 2px;
+				}
+			}
+		}
+	}
+	
+	.me-wrap {
+		.dopinfo {
+			padding-top: 0;
+			color: @subtitle-color;
+			text-transform: uppercase;
+			opacity: .7;
+		}
+		
+		.avatar {
+			float: left;
+			margin-right: 20px;
+			padding-top: 5px; 
+		}
+		
+		.text {
+			padding-top: 13px;
+			overflow: hidden; 
+		}
+	}
+}

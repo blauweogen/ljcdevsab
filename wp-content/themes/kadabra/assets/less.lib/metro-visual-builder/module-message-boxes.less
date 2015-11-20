@@ -1,0 +1,34 @@
+.module-message-boxes {
+	.boxed-content {
+		padding: 10px;
+		margin-bottom: 1.5em;
+		.rounded(2px);
+		
+		color: @font-site-light-color;
+		
+		&.boxed-content-style-info {
+			background: #f0f0f0;
+		}
+		&.boxed-content-style-success {
+			background: #7cc8a9;
+		}
+		&.boxed-content-style-warning {
+			background: #ffda7f;
+		}
+		&.boxed-content-style-error {
+			background: @main-site-light-color;
+			color: @font-site-dark-color;
+		}
+		
+		p {
+			margin-bottom: 0;
+			padding-bottom: .5em;
+		}
+		
+		.boxed-content-icon {
+			float: left;
+			line-height: 1.6;
+			padding-right: 10px;
+		}
+	}
+}

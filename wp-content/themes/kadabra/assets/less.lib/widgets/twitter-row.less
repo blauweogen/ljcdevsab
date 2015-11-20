@@ -1,0 +1,51 @@
+/* -----------------------------------------
+	Twitter row
+----------------------------------------- */
+.twitter-row {
+	padding-bottom: 20px;
+	
+	.twitter-row-icon-container {
+		padding: 20px 0;
+		text-align: center;
+		
+		> i {
+			@size: 40px;
+			
+			.inline-block();
+			width: @size;
+			height: @size;
+			
+			.rounded(50%);
+			background: @main-site-light-color;
+			
+			color: #ffffff;
+			text-align: center;
+			
+			font-size: @size / 2;
+			line-height: @size;
+		}
+	}
+
+	.twitter-slider {
+		.jcarousel-base();
+		
+		li {
+			width: 100%;
+			
+			color: #4f4f4f;
+			font-size: 19px;
+			text-align: center;
+		}
+		
+		.date {
+			color: #cbcbcb;
+			font-size: 16px;
+			font-style: italic;
+		}
+	}
+}
+
+
+.background--dark .twitter-row .twitter-slider li {
+	color: inherit;
+}

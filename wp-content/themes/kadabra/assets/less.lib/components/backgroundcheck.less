@@ -1,0 +1,129 @@
+.row {
+
+	.background--dark {
+		@base-color: @font-site-dark-color;
+		
+		.module-contact-form .input-wrap input, textarea{
+		    background: rgba(255,255,255,0.05) !important;
+		    border: solid 1px rgba(234, 234, 234, 0.2) !important;
+		}
+		
+		&,
+		blockquote,
+		.sort-panel .filter a,
+		.entry-meta,
+		.cite,
+		.block-title,
+		.fact-title,
+		.facts-items .number,
+		.team_member_box .dopinfo,
+		.products >li h3 {
+			color: @base-color !important;
+		}
+		
+		h1, h2, h3, h4, h5, h6, h7, h8 {
+			color: @base-color;
+		}
+		
+		.sort-panel .filter a {
+			&:hover {
+				color: @link-color;
+			}
+		}
+		
+		.twitter-row .twitter-slider .date {
+			color: fade(@font-site-dark-color, 60%) !important;
+		}
+		
+		.subtitle,
+		.fact-subtitle {
+			color: fade(@font-site-dark-color, 60%) !important;
+		}
+		
+		.testimonials_item {
+			blockquote:before,
+			blockquote:after {
+				opacity: 0.6;
+			}
+		}
+		
+		.my_skills_widget .wrap .progress-wrap .progress {
+			background: fade(#f4f4f4, 10%);
+		}
+		
+		.recent-block-isotope > .row .sort-panel .filter li {
+			border-color: fade(#f4f4f4, 30%);
+			&:active {
+				border-color: fade(@addition-color, 30%);
+			}
+		}
+		
+		.product-subtitle {
+		    color: @white-dark;
+		}
+		
+		ul.products li.product.open .prod-wrap {
+		    background: @forth-site-dark-color;
+		    background-color: fade(@forth-site-dark-color, 70%);
+		    border: none;
+		}
+		
+		a {
+			// .link-lite-colors();
+		}
+		
+		.soc-icons a {
+		    opacity: 0.5;
+		    &:hover {
+			color: @base-color;
+			opacity: 1;
+		    }
+		}
+		
+		.module-soc-icons a{
+			opacity: 1;
+			background: fade(@base-color, 30%);
+			&:before {
+				border-color: transparent;
+			}
+			span {
+				color: @base-color;
+			}
+		}
+		
+		.testimonials-control-paging li a {
+			.link-lite-colors();
+		}
+		
+		.read-more {
+			color: fade(@base-color, 51%);
+			border-color: fade(@border-color, 30%);
+			
+			&:hover {
+				color: fade(@main-site-dark-color, 70%);
+			}
+		}
+		
+		.delim,
+		.entry-meta {
+			border-color: fade(@third-site-light-color, 27%);
+		}
+		
+		.box-name {
+			color: inherit;
+		}
+		
+		.testimonials-pagination a.testimonials-nav-item {
+			.opacity(.2);
+		}
+		
+		.textwidget {
+			color: fade(@base-color, 80%);
+		}
+		
+		.jcarousel-control {
+			color: @main-site-light-color !important;
+			background-color: fade(#ffffff, 20%);
+		}
+	}
+}

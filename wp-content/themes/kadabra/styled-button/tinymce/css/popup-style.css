@@ -1,0 +1,28 @@
+body.styled-button-body {
+	height: auto;
+}
+
+body.styled-button-body .mceContentBody p {
+	    margin: 1.8em 0;
+}
+
+body.styled-button-body .mceContentBody p label {
+	display: block;
+}
+
+body.styled-button-body .mceContentBody input[type='text'] {
+	width: 100%;
+}
+
+body.styled-button-body .mceContentBody select {
+	width: 40%;
+	min-width: 80px;
+}
+
+body.styled-button-body #apply {
+	float: right;
+	margin-right: 10px;
+}
+body.styled-button-body .mceActionPanel {
+	//margin-top: 70px;
+}

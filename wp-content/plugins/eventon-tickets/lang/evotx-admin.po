@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: evotx\n"
+"POT-Creation-Date: 2015-03-30 16:13-0800\n"
+"PO-Revision-Date: 2015-03-30 16:13-0800\n"
+"Last-Translator: Ashan Perera <ashanster@gmail.com>\n"
+"Language-Team: AJDE\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../eventon-tickets.php:190 ../includes/admin/evo-tx_meta_boxes.php:17
+msgid "Event Ticket"
+msgstr ""
+
+#: ../eventon-tickets.php:237
+msgid ""
+"Eventon Tickets need woocommerce plugin to function properly. Please install "
+"woocommerce"
+msgstr ""
+
+#: ../includes/class-frontend.php:243
+msgid "Your event Tickets"
+msgstr ""
+
+#: ../includes/admin/admin-init.php:100
+msgid "Tickets"
+msgstr ""
+
+#: ../includes/admin/admin-init.php:408
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/admin/admin-init.php:473
+msgid "Edit Event"
+msgstr ""
+
+#: ../includes/admin/class-admin_check.php:79
+#, php-format
+msgid "EventON %s is enabled but not effective. "
+msgstr ""
+
+#: ../includes/admin/evo-tix.php:86
+msgid "Ticket"
+msgstr ""
+
+#: ../includes/admin/evo-tix.php:87
+msgid "Status"
+msgstr ""
+
+#: ../includes/admin/evo-tix.php:89
+msgid "Date"
+msgstr ""
+
+#: ../includes/admin/evo-tix.php:90 ../includes/admin/evo-tx_meta_boxes.php:98
+msgid "Event"
+msgstr ""
+
+#: ../includes/admin/evo-tix.php:91 ../includes/admin/evo-tx_meta_boxes.php:89
+msgid "Ticket Type"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:16
+msgid "Event Tickets"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:25
+msgid "Event Ticket Confirmation"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:45
+#: ../includes/admin/evo-tx_meta_boxes.php:173
+msgid "Resend Ticket Email"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:88
+msgid "Woocommerce Order ID"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:94
+msgid "Ticket Holder"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:95
+msgid "Email Address"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:96
+msgid "Quantity"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:97
+msgid "Cost for ticket(s)"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:117
+msgid "Ticket Status"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:118
+msgid "Ticket Time"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:119
+msgid "Ticket(s)"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:153
+msgid ""
+"You can re-send the Event Ticket confirmation email to customer if they have "
+"not received it. Make sure to check spam folder."
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:154
+msgid "Re-send Confirmation Email"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:155
+msgid "Email resend action performed!"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:209
+msgid "Activate tickets for this Event"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:216
+msgid "Ticket Info for this event"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:228
+msgid "Ticket Pricing Type"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:235
+#: ../includes/admin/evo-tx_meta_boxes.php:240
+#, php-format
+msgid "Ticket price (%s)"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:236
+msgid "Edit Price Variations"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:243
+#, php-format
+msgid "Sale price (%s)"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:250
+msgid "Ticket SKU"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:253
+msgid "Short Ticket Detail"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:264
+msgid "Manage Capacity"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:269
+msgid "CAPACITY"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:281
+msgid "Make ticket out of stock"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:298
+msgid "Manage capacity seperate for each repeating event"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:305
+msgid ""
+"NOTE: The capacity above should match the total number of capacity for each "
+"repeat occurance below for this event."
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:348
+msgid "Show remaining tickets"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:351
+msgid "Show remaining count at"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:362
+msgid "Sold Individually"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:367
+msgid "Ticket Field description"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:380
+#: ../includes/admin/evo-tx_meta_boxes.php:381
+msgid "Remove Image"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:380
+#: ../includes/admin/evo-tx_meta_boxes.php:381
+msgid "Choose Image"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:387
+msgid "Ticket Image"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:395
+msgid "Ticket Image Caption"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:412
+msgid "Allow customers to submit inquiries."
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:415
+msgid "Override Default Email Address to receive Inquiries"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:417
+msgid "Override Default Subject for Inquiries Email"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:419
+msgid "NOTE: Front-end fields for Inquiries form can be customized from"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:432
+msgid "Further Edit"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:442
+msgid "Attendees for event"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:444
+msgid "View Attendees"
+msgstr ""
+
+#: ../includes/admin/evo-tx_meta_boxes.php:444
+msgid "Download (CSV)"
+msgstr ""
+
+#: ../templates/template-add-to-cart-variable.php:34
+msgid "Choose an option"
+msgstr ""
+
+#: ../templates/template-add-to-cart-variable.php:81
+msgid "Clear selection"
+msgstr ""

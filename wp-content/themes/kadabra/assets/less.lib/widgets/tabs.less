@@ -1,0 +1,91 @@
+.widget_crum_widget_tabs {
+	padding-top: 1px; 
+	
+	.tabs {
+		
+		&.horisontal {
+			dd {
+				width: 33%;
+				margin-bottom: 0;
+			}
+		}
+	}
+	
+	.tabs-content {
+		li {
+			padding-top: 0 !important;
+		}
+	}
+	
+	article.mini-news {
+		background: none;
+		padding: 0 0 34px; 
+		margin: 0;
+		
+		.entry-thumb {
+			margin: 0;
+		}
+		
+		.box-name {
+			margin-top: -5px;
+			margin-left: 100px;
+		}
+		/*
+		.entry-meta {
+			border-bottom: 1px solid @third-site-light-color;
+			margin-left: 100px;
+			height: 30px;
+			line-height: 30px;
+			
+			& > * {
+				line-height: 30px;
+				height: 30px;
+			}
+			
+			.author {
+				font-style: italic;
+			}
+			
+			.delim {
+				height: 30px;
+				padding-right: 5px;
+				margin-right: 5px;
+				border-color: @third-site-light-color;
+			}
+			
+			.entry-comments {
+				float: right;
+				padding: 0;
+			}
+		}
+		*/
+		&:first-child {
+			padding-top: 15px;
+		}
+		
+		&:last-child {
+			padding-bottom: 30px;
+		}
+	}
+	
+	#popular-p-tabTab {
+		
+	}
+	
+	#recent-p-tabTab {
+	}
+	
+	#comments-p-tabTab {
+		article.mini-news {
+			padding: 16px 0 0 19px; 
+			
+			.box-name {
+				margin-left: 50px;
+			}
+			
+			.entry-summary {
+				margin-left: 50px;
+			}
+		}
+	}
+}

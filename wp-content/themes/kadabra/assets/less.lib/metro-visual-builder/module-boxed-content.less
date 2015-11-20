@@ -1,0 +1,25 @@
+.module-boxed-content {
+	.boxed-content {
+		padding: 30px;
+		.rounded(2px);
+		
+		
+		&.boxed-content-style-default {
+			border: 1px solid @border-color;
+			color: @font-site-light-color;
+		}
+		&.boxed-content-style-gray {
+			border: 1px solid @border-color;
+			background: @forth-site-light-color - #0f0f0f;
+			color: @font-site-light-color;
+		}
+		&.boxed-content-style-blue {
+			background: @main-site-light-color;
+			color: @font-site-dark-color;
+		}
+		&.boxed-content-style-dark {
+			background: @forth-site-dark-color;
+			color: @font-site-dark-color;
+		}
+	}
+}

@@ -1,0 +1,6131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sidious\n"
+"POT-Creation-Date: 2014-02-10 16:31+0300\n"
+"PO-Revision-Date: 2014-03-11 10:25+0300\n"
+"Last-Translator: DFDevelopment <dynamicframeworks@gmail.com>\n"
+"Language-Team: DFDevelopment <dynamicframeworks@gmail.com>\n"
+"Language: DE_de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext_noop;_e;_x;__;gettext\n"
+"X-Poedit-Basepath: /home/dfd/Рабочий стол/black_sea\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /home/dfd/Рабочий стол/black_sea\n"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/tmp-posts-masonry-3-right-sidebar.php:64
+#: стол/black_sea/tmp-posts-masonry-2-left-side.php:69
+#: стол/black_sea/taxonomy.php:12
+#: стол/black_sea/tmp-posts-masonry-3.php:64
+#: стол/black_sea/tmp-posts-masonry-2-side.php:68
+#: стол/black_sea/tmp-posts-masonry-2.php:68
+#: стол/black_sea/tmp-posts-masonry-3-left-sidebar.php:66
+#: стол/black_sea/tmp-posts-left-img.php:70
+#: стол/black_sea/tmp-posts-right-img.php:70
+msgid "Sorry, no results were found."
+msgstr "Sorry, keine Ergebnisse gefunden."
+
+#: /home/dfd/Рабочий стол/black_sea/taxonomy.php:27
+#: стол/black_sea/comments.php:69
+msgid "Older"
+msgstr "Ältere"
+
+#: /home/dfd/Рабочий стол/black_sea/taxonomy.php:30
+#: стол/black_sea/comments.php:70
+msgid "Newer"
+msgstr "Neure"
+
+#: /home/dfd/Рабочий стол/black_sea/functions.php:43
+msgid "Primary Navigation"
+msgstr "Hauptnavigation"
+
+#: /home/dfd/Рабочий стол/black_sea/functions.php:44
+msgid "Footer navigation"
+msgstr "Fußzeilennavigation"
+
+#: /home/dfd/Рабочий стол/black_sea/single.php:65
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: /home/dfd/Рабочий стол/black_sea/404.php:12
+msgid "<strong>404 Error </strong>- no page here"
+msgstr "<strong>404 Fehler </strong>- keine Seite hier"
+
+#: /home/dfd/Рабочий стол/black_sea/404.php:16
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+"Wir können nicht finden, was Sie suchen. Vielleicht kann Suchen oder ein der "
+"Links unten Ihnen helfen."
+
+#: /home/dfd/Рабочий стол/black_sea/404.php:20
+msgid "Look it in archives"
+msgstr "Suchen Sie es in den Archiven"
+
+#: /home/dfd/Рабочий стол/black_sea/404.php:29
+msgid "Search can be used"
+msgstr "Suchen kann eingesetzt werden"
+
+#: /home/dfd/Рабочий стол/black_sea/404.php:35
+msgid "Most Used Categoriesd"
+msgstr "Höchstbenutzte Kategorien"
+
+#: /home/dfd/Рабочий стол/black_sea/404.php:44
+#: стол/black_sea/posts-sidebar-sel.php:147
+#: стол/black_sea/templates/content.php:17
+msgid "Tags also can be used"
+msgstr "Tags können auch benutzt werden"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/tmp-portfolio-masonry_excerpt.php:105
+#: стол/black_sea/tmp-portfolio-masonry-sidebar_excerpt.php:104
+#: стол/black_sea/tmp-portfolio-masonry-4excerpt.php:106
+#: стол/black_sea/templates/loop-portfolio-4excerpt.php:34
+#: стол/black_sea/templates/loop-portfolio-3excerpt.php:34
+#: стол/black_sea/templates/loop-portfolio-2excerpt.php:34
+#: стол/black_sea/inc/mvb/html/public/mvb_presentation_boxes_vertical.php:74
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:127
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:284
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:134
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:111
+msgid "Read more"
+msgstr "Mehr lesen"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:13
+#, php-format
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:16
+msgid "(Edit)"
+msgstr "(Redigieren)"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:31
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Moderierung."
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:50
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dieses Beitrag ist von dem Passwort gesichert. Tippen Sie Passwort ein die "
+"Kommentare anzusehen."
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:91
+msgid "Leave a comment to this post"
+msgstr "Kommentar hinterlassen"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:91
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Antwort hinterlassen auf %s"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:93
+msgid "Required fields are marked *"
+msgstr "Erforderliche Felder sind mit * gekennzeichnet"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:100
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Sie müssen<a href=\"%s\">angemeldet sein</a> Kommentar zu hinterlassen."
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:107
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Angemeldet als <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:108
+msgid "Log out of this account"
+msgstr "Von diesem Account abmelden"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:108
+msgid "Log out &raquo;"
+msgstr "Abmelden &raquo;"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:112
+#: стол/black_sea/inc/mvb/html/public/mvb_contact_form.php:49
+#: стол/black_sea/woocommerce/single-product-reviews.php:58
+msgid "Name"
+msgstr "Name"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:112
+#: стол/black_sea/comments.php:114
+msgid "*"
+msgstr "*"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:114
+msgid "Email (will not be published)"
+msgstr "E-Mail (wird nicht publiziert)"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:116
+msgid "Website"
+msgstr "Website"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:120
+msgid "Comment"
+msgstr "Kommentar"
+
+#: /home/dfd/Рабочий стол/black_sea/comments.php:125
+msgid "Submit Comment"
+msgstr "Kommentar hinterlassen"
+
+#: /home/dfd/Рабочий стол/black_sea/posts-sidebar-sel.php:135
+#: стол/black_sea/templates/content.php:7
+#: стол/black_sea/templates/content-search.php:7
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: /home/dfd/Рабочий стол/black_sea/posts-sidebar-sel.php:140
+#: стол/black_sea/templates/content.php:11
+#: стол/black_sea/templates/content-search.php:11
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, aber nichts passt Ihren Suchkriterien. Bitte, versuchen Sie nochmals "
+"mit anderen Schlüsselwörter."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:146
+#: стол/black_sea/options/options.php:150
+#: стол/black_sea/options/options/defaults.php:45
+#: стол/black_sea/options/options/defaults.php:47
+msgid "Options"
+msgstr "Optionen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:217
+msgid "Getting Started"
+msgstr "Geht's los"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:218
+msgid ""
+"<p class=\"description\">This is the description field for this section. "
+"HTML is allowed</p>"
+msgstr ""
+"<p class=\"description\">Das ist Beschreibungsfeld für diese Sektion. HTML "
+"ist ermöglicht</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:235
+msgid "Import demo content"
+msgstr "Demo-Inhalt importieren"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:241
+msgid "Main Options"
+msgstr "Hauptoptionen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:242
+msgid "<p class=\"description\">Main options of site</p>"
+msgstr "<p class=\"description\">Hauptoptionen der Website</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:252
+msgid "Page scroll animation"
+msgstr "Seite scrollen Animation"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:253
+msgid "Enable or disable page scroll animation"
+msgstr "Topsliding aktivieren oder deaktivieren"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:260
+msgid "Favicon"
+msgstr "Favicon"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:261
+msgid ""
+"Select a 16px X 16px image from the file location on your computer and "
+"upload it as a favicon of your site"
+msgstr ""
+"Wählen Sie ein 16px X 16px Bild aus dem Speicherort in Ihrem Computer aus "
+"und laden Sie es als Favicon Ihrer Website hinauf"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:266
+msgid "Header Logotype image"
+msgstr "Kopfzeilenlogobild"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:267
+msgid ""
+"Select an image from the file location on your computer and upload it as a "
+"header logotype"
+msgstr ""
+"Wählen Sie ein Bild aus dem Speicherort in Ihrem Computer aus und laden Sie "
+"es als Kopfzeilenlogo hinauf"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:273
+msgid "Header Logotype second image"
+msgstr "Kopfzeilenlogobild"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:274
+msgid ""
+"Select an image from the file location on your computer and upload it as a "
+"header logotype. If this logo wasn't uploaded will be displayed first logo."
+msgstr ""
+"Wählen Sie ein Bild aus dem Speicherort in Ihrem Computer aus und laden Sie "
+"es als Kopfzeilenlogo hinauf."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:281
+msgid "Site Preloader"
+msgstr "Site Preloader"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:283
+msgid "Enable or disable site preloader counter"
+msgstr "Site Preloader Zähler aktivieren oder deaktivieren"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:291
+msgid "Top block with address"
+msgstr "Adressenblock"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:293
+msgid "Enable or disable address block"
+msgstr "Den Adressenblock aktivieren oder deaktivieren"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:300
+#, fuzzy
+msgid "Top text panel"
+msgstr "Topadressenpanel"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:301
+msgid "Please do not use single qoute here"
+msgstr "Bitte, benutzen Sie hier einzelne Anführungszeichen nicht"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:302
+#, fuzzy
+msgid "This is top info block."
+msgstr "Das ist der Topadresse Infoblock. "
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:310
+msgid "Language selection shortcode"
+msgstr "Sprachauswahlkurzcode"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:312
+msgid ""
+"You can type shortcode of language select tht your translating plugin provide"
+msgstr ""
+"Sie können einen Sprachshortcode hier tippen, der von Ihrem "
+"Übersetzungsplugin beigestellt ist"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:319
+msgid "WPML language switcher"
+msgstr "WPML Sprachschalter"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:321
+msgid ""
+"WPML plugin must be installed. It is not packed with theme. You can find it "
+"here: http://wpml.org/"
+msgstr ""
+"WPML Plugin muss installiert werden. Es ist nicht im Theme eingepacked. Sie "
+"können es here finden http://wpml.org/"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:322
+#: стол/black_sea/options/options.php:331
+#: стол/black_sea/options/options.php:340
+#: стол/black_sea/options/options.php:648
+#: стол/black_sea/options/options.php:664
+#: стол/black_sea/options/options.php:672
+#: стол/black_sea/options/options.php:687
+#: стол/black_sea/options/options.php:710
+#: стол/black_sea/options/options.php:739
+#: стол/black_sea/options/options.php:772
+#: стол/black_sea/options/options.php:832
+#: стол/black_sea/options/options.php:853
+#: стол/black_sea/options/options.php:942
+#: стол/black_sea/options/options.php:1007
+#: стол/black_sea/options/options.php:1134
+#: стол/black_sea/options/options.php:1156
+msgid "On"
+msgstr "Ein"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:322
+#: стол/black_sea/options/options.php:331
+#: стол/black_sea/options/options.php:340
+#: стол/black_sea/options/options.php:648
+#: стол/black_sea/options/options.php:664
+#: стол/black_sea/options/options.php:672
+#: стол/black_sea/options/options.php:687
+#: стол/black_sea/options/options.php:710
+#: стол/black_sea/options/options.php:739
+#: стол/black_sea/options/options.php:772
+#: стол/black_sea/options/options.php:832
+#: стол/black_sea/options/options.php:853
+#: стол/black_sea/options/options.php:942
+#: стол/black_sea/options/options.php:1007
+#: стол/black_sea/options/options.php:1134
+#: стол/black_sea/options/options.php:1156
+msgid "Off"
+msgstr "Aus"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:328
+#, fuzzy
+msgid "Show login form in header"
+msgstr "In der Kopfzeile anzeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:337
+#, fuzzy
+msgid "Show search form in header"
+msgstr "In der Kopfzeile anzeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:346
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:348
+msgid ""
+"Generate your tracking code at Google Analytics Service and insert it here."
+msgstr ""
+"Generieren Sie Ihren Spurcode an Google Analytics Service und fügen Sie ihn "
+"hier ein."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:353
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:355
+msgid "You may add any other styles for your theme to this field."
+msgstr "Sie können die anderen Stile für Ihr Theme zu diesem Feld hinzufügen."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:360
+msgid "Show \"To top\" button"
+msgstr "Button \"Nach oben\" Anzeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:363
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:70
+#: стол/black_sea/inc/menu/mega_menu.php:32
+#: стол/black_sea/inc/menu/mega_menu.php:53
+#: стол/black_sea/inc/widgets/widget-tweets.php:222
+#: стол/black_sea/inc/widgets/widget-tabs.php:197
+msgid "No"
+msgstr "Nein"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:364
+#: стол/black_sea/inc/widgets/widget-menu.php:9
+msgid "Left"
+msgstr "Links"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:365
+#: стол/black_sea/inc/widgets/widget-menu.php:10
+msgid "Right"
+msgstr "Rechts"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:371
+#, fuzzy
+msgid "Shop Title"
+msgstr "Titelsektion:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:379
+msgid "Social accounts"
+msgstr "Social accounts"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:380
+msgid "<p class=\"description\">Type links for social accounts</p>"
+msgstr "<p class=\"description\">Tippen Sie Links für Social Accounts</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:389
+msgid "Facebook link"
+msgstr "Facebook link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:390
+#: стол/black_sea/options/options.php:405
+#: стол/black_sea/options/options.php:421
+#: стол/black_sea/options/options.php:437
+#: стол/black_sea/options/options.php:453
+#: стол/black_sea/options/options.php:469
+#: стол/black_sea/options/options.php:485
+#: стол/black_sea/options/options.php:501
+#: стол/black_sea/options/options.php:517
+#: стол/black_sea/options/options.php:533
+#: стол/black_sea/options/options.php:549
+#: стол/black_sea/options/options.php:565
+#: стол/black_sea/options/options.php:581
+#: стол/black_sea/options/options.php:597
+msgid "Paste link to your account"
+msgstr "Fugen Sie einen Link von Ihrem Account ein"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:396
+#: стол/black_sea/options/options.php:411
+#: стол/black_sea/options/options.php:427
+#: стол/black_sea/options/options.php:443
+#: стол/black_sea/options/options.php:459
+#: стол/black_sea/options/options.php:475
+#: стол/black_sea/options/options.php:491
+#: стол/black_sea/options/options.php:507
+#: стол/black_sea/options/options.php:523
+#: стол/black_sea/options/options.php:539
+#: стол/black_sea/options/options.php:555
+#: стол/black_sea/options/options.php:571
+#: стол/black_sea/options/options.php:587
+#: стол/black_sea/options/options.php:604
+#: стол/black_sea/options/options.php:620
+msgid "Show in header"
+msgstr "In der Kopfzeile anzeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:397
+#: стол/black_sea/options/options.php:412
+#: стол/black_sea/options/options.php:428
+#: стол/black_sea/options/options.php:444
+#: стол/black_sea/options/options.php:460
+#: стол/black_sea/options/options.php:476
+#: стол/black_sea/options/options.php:492
+#: стол/black_sea/options/options.php:508
+#: стол/black_sea/options/options.php:524
+#: стол/black_sea/options/options.php:540
+#: стол/black_sea/options/options.php:556
+#: стол/black_sea/options/options.php:572
+#: стол/black_sea/options/options.php:588
+#: стол/black_sea/options/options.php:605
+#: стол/black_sea/options/options.php:621
+msgid "If checked - will be display in header of theme "
+msgstr "Wenn kenngezeichnet, wird in der Kopfzeile des Theme angezeigt"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:404
+msgid "Twitter link"
+msgstr "Twitter link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:419
+msgid "Instagram link"
+msgstr "Instagram Link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:435
+msgid "Vimeo link"
+msgstr "Vimeo link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:451
+msgid "Last FM link"
+msgstr "Last FM link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:467
+msgid "Vkontakte link"
+msgstr "Vkontakte link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:483
+msgid "YouTube link"
+msgstr "Youtube Link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:499
+msgid "Deviantart link"
+msgstr "Deviantart Link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:515
+msgid "LinkedIN link"
+msgstr "LinkedIN Link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:531
+msgid "Google + link"
+msgstr "Google + Link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:547
+msgid "Picasa link"
+msgstr "Picasa Link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:563
+msgid "Pinterest link"
+msgstr "Pinterest Link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:579
+msgid "Wordpress link"
+msgstr "Wordpress Link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:595
+msgid "Dropbox link"
+msgstr "Dropbox Link"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:612
+msgid "RSS"
+msgstr "RSS"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:614
+msgid "Paste alternative link to Rss"
+msgstr "Fugen Sie einen alternativen RSS Link ein"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:629
+msgid "Posts list options"
+msgstr "Beitragsptionen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:630
+msgid ""
+"<p class=\"description\">Parameters for posts and archives (social share etc)"
+"</p>"
+msgstr ""
+"<p class=\"description\">Parameter für Beiträge und Archive (social share "
+"usw)</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:640
+#, fuzzy
+msgid "<h3 class=\"description\">Inner post page options</h3>"
+msgstr "<p class=\"description\">Kontaktseite-Optionen</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:646
+msgid "Social share buttons"
+msgstr "Social Share-Buttons"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:647
+#, fuzzy
+msgid ""
+"With this option you may activate or deactivate social share buttons. and "
+"date on inner post page"
+msgstr ""
+"Mit dieser Option können Sie die Social Share-Buttons aktivieren oder "
+"deaktivieren."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:654
+msgid "Custom share code"
+msgstr "Custom share-Code"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:655
+msgid "You may add any other social share buttons to this field."
+msgstr "Sie können auch andere Social Share-Buttons zu diesem Feld hinzufugen."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:661
+msgid "Author Info"
+msgstr "Autorinformation"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:663
+msgid ""
+"This option enables you to insert information about the author of the post."
+msgstr ""
+"Diese Option ermöglicht Sie die Information über den Beitragsautor "
+"einzufügen."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:670
+msgid "Thumbnail on inner page"
+msgstr "Miniatürbild auf der inneren Seite"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:671
+msgid "Display featured image on single post"
+msgstr "Beitragsbild auf der inneren Seite anzeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:679
+#, fuzzy
+msgid "<h3 class=\"description\">Archive page options</h3>"
+msgstr "<p class=\"description\">Kontaktseite-Optionen</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:685
+#, fuzzy
+msgid "Crop thumbnails"
+msgstr "Miniatürbild anzeigen?"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:686
+#, fuzzy
+msgid "Post thumbnails image crop"
+msgstr "Beitragsminiatürbildshöhe (in Px)"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:694
+msgid "Post thumbnail width (in px)"
+msgstr "Beitragsminiatürbildbreite (in Px)"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:701
+msgid "Post  thumbnail height (in px)"
+msgstr "Beitragsminiatürbildshöhe (in Px)"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:708
+msgid "Post info"
+msgstr "Beitragsinformation"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:709
+msgid ""
+"It is information about the post (time and date of creation, author, "
+"comments on the post)."
+msgstr ""
+"Das ist Information über dem Beitrag (Erstellungszeit und Datum, Autor, "
+"Beitragskommentare)."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:719
+msgid "Portfolio Options"
+msgstr "Portfolio-Optionen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:729
+msgid "Portfolio page"
+msgstr "Portfolioseite"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:731
+msgid "Please select main portfolio page (for proper urls)"
+msgstr "Bitte, wählen Sie eine Hauptportfolioseite (für korrekte urls) aus"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:737
+msgid "Panel for items sorting "
+msgstr "Panel für Elemente Sortierung"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:738
+msgid "Display panel for portfolio isotope items sorting by category"
+msgstr ""
+"Panel für Portfolio Isotope Elemente nach Kategorie zu sortieren anzeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:745
+msgid "Portfolio text location"
+msgstr "Portfoliotextposition"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:746
+msgid "Select text layout on inner page"
+msgstr "Wählen Sie einen Text Layout fur Innerseite"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:757
+msgid "Portfolio image display"
+msgstr "Portfoliobilddarstellung"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:758
+msgid "Display attached images of inner portfolio page as:"
+msgstr "Anhangsbilder auf der inneren Portfolio Seite anzeigen als:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:770
+#, fuzzy
+msgid "Display block under single item"
+msgstr "Datum in Portfolio anzeigen?"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:771
+#, fuzzy
+msgid "Block with recent items"
+msgstr "Block mit Featured Elementen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:778
+#, fuzzy
+msgid "Block shortcode"
+msgstr "Einige Kurzcodes"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:779
+msgid ""
+"By default here is displayed Block with recent items [mvb_recent_works  "
+"main_title=\"Recent projects\"][/mvb_recent_works]"
+msgstr ""
+"Standardmäßig, Block mit kürzlich Artikel [mvb_recent_works  main_title="
+"\"Recent projects\"][/mvb_recent_works] hier angezeigt"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:787
+msgid "Styling Options"
+msgstr "Styling-Optionen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:788
+msgid "<p class=\"description\">Style parameters of body and footer</p>"
+msgstr "<p class=\"description\">Stilparameter der Body und Fusszeile</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:798
+#, fuzzy
+msgid "<h3 class=\"description\">Main site colors setup</h3>"
+msgstr "<p class=\"description\">Website-Hauptfarbe Konfiguration</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:804
+msgid "Main site color"
+msgstr "Hauptfarbe der Site"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:805
+#, fuzzy
+msgid "Color of buttons, tabs, links, etc.  For example: #ff5f60"
+msgstr "Farbe der Buttons, Tabs, Links, Ränder usw."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:811
+msgid "Secondary site color"
+msgstr "Secundärfarbe der Site"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:812
+msgid "Color of inactive elements or borders.  For example: #e5e5e5"
+msgstr "Die Farbe von inaktive Elemente oder Grenzen. Zum Beispiel: #e5e5e5"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:818
+msgid "Color of text"
+msgstr "Textfarbe"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:819
+msgid "Main text color. For example: #545454"
+msgstr "Haupt Textfarbe. Zum Beispiel: #545454"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:826
+#, fuzzy
+msgid "<h3 class=\"description\">Page title background options</h3>"
+msgstr "<p class=\"description\">Boxed-Website Optionen</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:831
+#, fuzzy
+msgid "Page title background"
+msgstr "Fixierter Hintergrund"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:838
+#, fuzzy
+msgid "Default background color for header"
+msgstr "Wahlen Sie eine Hintergrundfarbe aus."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:844
+#, fuzzy
+msgid "Default background image for header"
+msgstr "Wahlen Sie Wiederholungsart des Hintergrundbildes."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:845
+#: стол/black_sea/options/options.php:898
+#: стол/black_sea/options/options.php:928
+#: стол/black_sea/options/options.php:1147
+msgid "Upload your own background image or pattern."
+msgstr "Laden Sie Ihr Hintergrundbild oder Muster hinauf."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:852
+#, fuzzy
+msgid "Fix image position"
+msgstr "Kleine Beschreibung"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:860
+#, fuzzy
+msgid "<h3 class=\"description\">Body styling options</h3>"
+msgstr "<p class=\"description\">Boxed-Website Optionen</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:866
+msgid "Body layout"
+msgstr "Body-Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:874
+#, fuzzy
+msgid "Header Layout"
+msgstr "Kopfzeilevariante"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:882
+#, fuzzy
+msgid "<h4 class=\"description\">body site options</h4>"
+msgstr "<p class=\"description\">Boxed-Website Optionen</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:890
+msgid "Content background color"
+msgstr "Content Hintergrundfarbe"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:891
+#: стол/black_sea/options/options.php:920
+msgid "Select background color."
+msgstr "Wahlen Sie eine Hintergrundfarbe aus."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:897
+msgid "Content background image"
+msgstr "Content Hintergrundsbild"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:903
+msgid "Content bg image repeat"
+msgstr "Content Hintergrundbild Wiederholung"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:904
+#: стол/black_sea/options/options.php:934
+#: стол/black_sea/options/options.php:980
+msgid "Select type background image repeat"
+msgstr "Wahlen Sie Wiederholungsart des Hintergrundbildes."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:913
+#, fuzzy
+msgid "<h4 class=\"description\">Boxed site options</h4>"
+msgstr "<p class=\"description\">Boxed-Website Optionen</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:919
+msgid "Body background color"
+msgstr "Body-Hindergrundfarbe"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:926
+msgid "Custom background image"
+msgstr "Custom Hintergrundbild"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:933
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:128
+msgid "Background image repeat"
+msgstr "Hintergrundbildswiederholung"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:941
+msgid "Fixed body background"
+msgstr "Fixierter Body-Hintergrund"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:949
+#, fuzzy
+msgid "<h3 class=\"description\">Footer section options</h3>"
+msgstr "<p class=\"description\">Fußzeilenoptionen</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:955
+msgid "Footer background color"
+msgstr "Fusszeilenhintergrundfarbe"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:957
+msgid "Select footer background color. "
+msgstr "Wählen Sie eine Fusszeilenhintergrundfarbe aus."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:963
+msgid "Footer font color"
+msgstr "Fusszeilen Schriftfarbe "
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:965
+msgid "Select footer font color."
+msgstr "Wählen Sie eine Schriftfarbe der Fusszeile aus."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:971
+msgid "Custom footer background image"
+msgstr "Custom Hintergrundfarbe der Fusszeile."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:973
+msgid "Upload your own footer background image or pattern."
+msgstr "Laden Sie Ihr Hintergrundbild oder Muster der Fusszeile."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:978
+msgid "Footer background image repeat"
+msgstr "Fusszeilenhintergrundbildswiederholung."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:988
+msgid "Contact page options"
+msgstr "Kontaktseite-Optionen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:989
+msgid "<p class=\"description\">Contact page options</p>"
+msgstr "<p class=\"description\">Kontaktseite-Optionen</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:998
+msgid "Custom Form Shortcode"
+msgstr "Custom Form Shortcode"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1000
+msgid "You can paste your shorcode custom form"
+msgstr "Sie können Ihren Kundenform Shortcode  hineinfügen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1006
+msgid "Display map on contacts page?"
+msgstr "Karte auf der Kontaktenseite anzeigen?"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1013
+msgid "Height of Google Map (in px)"
+msgstr "Google Map Höhe (px)"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1020
+msgid "Zoom Level"
+msgstr "Zoomstufe"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1026
+msgid "Address on Google Map "
+msgstr "Adresse an Google Map"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1027
+msgid "Fill in your address to be shown on Google map."
+msgstr "Fugen Sie Ihre Adresse ein, die an Google Map angezeigt wird."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1035
+msgid "Layouts Settings"
+msgstr "Layouts Settings"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1036
+msgid "<p class=\"description\">Configure layouts of different pages</p>"
+msgstr ""
+"<p class=\"description\">Konfigurieren Sie Layouts von unterschiedlichen "
+"Seiten</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1041
+msgid "Single pages layout"
+msgstr "Einzelseiten-Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1042
+msgid "Select one type of layout for single pages"
+msgstr "Wählen Sie einen Layouttyp fur Einzelseiten"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1050
+#, fuzzy
+msgid "Single pages header"
+msgstr "Einzelseiten-Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1057
+msgid "Archive Pages Layout"
+msgstr "Archivseiten-Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1058
+msgid "Select one type of layout for archive pages"
+msgstr "Wählen Sie einen Layouttyp fur Archivseiten"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1066
+#, fuzzy
+msgid "Archive Pages header"
+msgstr "Archivseiten-Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1073
+msgid "Single posts layout"
+msgstr "Einzelbeiträge-Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1074
+msgid "Select one type of layout for single posts"
+msgstr "Wählen Sie einen Layouttyp fur Einzelbeiträge"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1082
+#, fuzzy
+msgid "Single posts header"
+msgstr "Einzelbeiträge-Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1089
+msgid "Search results layout"
+msgstr "Suchergebnisse-Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1090
+msgid "Select one type of layout for search results"
+msgstr "Wahlen Sie einen Layouttyp fur Suchergebnisse"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1098
+#, fuzzy
+msgid "Search results header"
+msgstr "Suchergebnisse-Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1105
+msgid "404 Page Layout"
+msgstr "404 Seite Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1106
+msgid "Select one of layouts for 404 page"
+msgstr "Wahlen Sie einen Layouttyp fur Suchergebnisse"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1114
+#, fuzzy
+msgid "404 Page header"
+msgstr "404 Seite Layout"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1122
+msgid "Twitter panel options"
+msgstr "Twitter Panel Optionen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1123
+#, fuzzy
+msgid ""
+"<p class=\"description\">More information about api keys and how to get it "
+"you can find in that tutorial <a href=\"http://dfd.name/twitter-settings"
+"\">http://dfd.name/twitter-settings/</a></p>"
+msgstr ""
+"<p class=\"Beschreibung\">Weitere Informationen über die api Schlüssel und "
+"wie man sie bekommt, können Sie in diesem Tutorenkurs finden<a href=\"http://"
+"crumina.net/how-do-i-get-consumer-key-for-sign-in-with-twitter/\">http://"
+"crumina.net/how-do-i-get-consumer-key-for-sign-in-with-twitter/</a></a></p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1133
+#, fuzzy
+msgid "Section padding"
+msgstr "Icon Sektion:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1140
+#, fuzzy
+msgid "Background color for twitter panel"
+msgstr "Hindergrundfarbe"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1146
+#, fuzzy
+msgid "Background image for twitter panel"
+msgstr "Hintergrundbildswiederholung"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1155
+msgid "Display twitter statuses before footer"
+msgstr "Twitter-Meldungen vor Fußzeile anzeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1163
+msgid "Cache Tweets in every:"
+msgstr "Cache Twieets jede:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1164
+msgid "In minutes"
+msgstr "In Minuten"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1170
+msgid "Number of latest tweets display:"
+msgstr "Tweets-Anzahl zum Anzeigen:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1177
+msgid "Username:"
+msgstr "Benutzername:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1184
+msgid "Consumer key:"
+msgstr "Consumer key:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1191
+msgid "Consumer secret:"
+msgstr "Consumer secret:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1197
+msgid "Access token:"
+msgstr "Access token:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1204
+msgid "Access token secret:"
+msgstr "Access token secret:"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1211
+msgid "Footer section options"
+msgstr "Fußzeilenoptionen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1212
+msgid "<p class=\"description\">Footer section options</p>"
+msgstr "<p class=\"description\">Fußzeilenoptionen</p>"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1222
+msgid "Logotype in footer"
+msgstr "Logo in Fusszeile"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1223
+msgid "Will be displayed before copyright text"
+msgstr "Wird vor dem Copyright Text gezeigt"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1230
+msgid "Show copyright"
+msgstr "Copyright zeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1232
+msgid "Fill in the copyright text."
+msgstr "Tragen Sie einen Copyright Text ein."
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1239
+#, fuzzy
+msgid "Social Counters code"
+msgstr "Social accounts"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1240
+#, fuzzy
+msgid "This code will be displayed before &lt;/body&gt;"
+msgstr "Wird vor dem Copyright Text gezeigt"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1250
+#, fuzzy
+msgid "Theme Update"
+msgstr "Theme-Optionen"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1258
+msgid "ThemeForest Username"
+msgstr "ThemeForest Username"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1264
+msgid "Secret API Key"
+msgstr "Secret API Key"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1275
+msgid "Upgrade theme"
+msgstr "Upgrade Theme"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1302
+msgid "<strong>Theme URL:</strong> "
+msgstr "<strong>Theme URL:</strong> "
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1303
+msgid "<strong>Author:</strong> "
+msgstr "<strong>Autor:</strong> "
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1304
+msgid "<strong>Version:</strong> "
+msgstr "<strong>Version:</strong> "
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1306
+msgid "<strong>Tags:</strong> "
+msgstr "<strong>Tags:</strong> "
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1312
+msgid "Theme Information"
+msgstr "Theme-Information"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options.php:1320
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/option_values.php:35
+#, fuzzy
+msgid "Header 1"
+msgstr "Kopfzeilevariante"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/option_values.php:36
+#, fuzzy
+msgid "Header 1a"
+msgstr "Kopfzeilevariante"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/option_values.php:37
+#, fuzzy
+msgid "Header 1b"
+msgstr "Kopfzeilevariante"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/option_values.php:38
+#, fuzzy
+msgid "Header 2"
+msgstr "Kopfzeilevariante"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/option_values.php:39
+#, fuzzy
+msgid "Header 2a"
+msgstr "Kopfzeilevariante"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/option_values.php:40
+#, fuzzy
+msgid "Header 2b"
+msgstr "Kopfzeilevariante"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/option_values.php:41
+#, fuzzy
+msgid "Header 3"
+msgstr "Kopfzeilevariante"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/option_values.php:47
+msgid "Boxed"
+msgstr "Boxte"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/option_values.php:48
+#, fuzzy
+msgid "Fullwidth"
+msgstr "Voll Breite?"
+
+#: /home/dfd/Рабочий стол/black_sea/options/options/defaults.php:58
+#, fuzzy, php-format
+msgid ""
+"<span id=\"footer-thankyou\">Options panel created using <a href=\"%s\" "
+"target=\"_blank\">Redux Framework</a> v%s</span>"
+msgstr "<span id=\"footer-thankyou\">Optionenpanel erstellt mit <a href=\""
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:251
+#: стол/black_sea/options/options/defaults.php:252
+#: стол/black_sea/options/options/defaults.php:682
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:271
+#: стол/black_sea/options/options/defaults.php:272
+#: стол/black_sea/options/options/defaults.php:713
+#: стол/black_sea/options/options/defaults.php:786
+msgid "Dev Mode Info"
+msgstr "Dev Mode Info"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:346
+#, fuzzy
+msgid "Are you sure? You will lose all custom values."
+msgstr ""
+"Sind Sie sicher? Alle Kundenwerte werden bei Rüchstellung verloren werden. "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:633
+#: стол/black_sea/options/options/defaults.php:811
+msgid "Reset to Defaults"
+msgstr "Standarteinstellungen zurücksetzen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:639
+msgid "<strong>Settings Imported!</strong>"
+msgstr "<strong>Einstellungen importiert!</strong>"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:641
+msgid "<strong>Settings Saved!</strong>"
+msgstr "<strong>Einstellungen gespeichert!</strong>"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:647
+#, fuzzy
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr ""
+"<strong>Einstellungen sind geändert!, Sie müssen sie speichern!</strong>"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:648
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr "<strong><span></span> Fehler wurden gefunden!</strong>"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:649
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr "<strong><span></span> Warnungen wurden gefunden!</strong>"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:731
+msgid "Import / Export Options"
+msgstr "Import / Export-Optionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:732
+msgid "Import Options"
+msgstr "Import-Optionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:733
+msgid "Import from file"
+msgstr "Import aus Datei"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:733
+msgid "Import from URL"
+msgstr "Import aus URL "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:738
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Geben Sie Ihr Backup-File unten ein und klicken Sie Import Ihre Optionen aus "
+"dem Backup wiederzuherstellen."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:748
+#, fuzzy
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Geben Sie ein URL zu dem anderen Websiteoptionenset ein und klicken Sie "
+"Import, die Optionen aus dieser Website zu laden."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:755
+msgid "Import"
+msgstr "Import"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:755
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+"Warnung! Das wird alle bestehenden Optionen überschreiben, bitte setzen Sie "
+"vorsichtig fort!"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:758
+msgid "Export Options"
+msgstr "Export-Optionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:760
+#, fuzzy
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Hier können Sie die aktuellen Theme-Optioneneinstellungen kopieren/"
+"herunterladen. Behalten Sie sie, denn Sie können sie als Backup benutzen, "
+"falls etwas passiert. Oder Sie können sie benutzen um die Einstellungen auf "
+"dieser Website (oder einer anderen) wiederzuherstellen. Es gibt auch "
+"manuelle Option die Links zu Ihren Websiteseinstellungen zu kopieren und "
+"dann auf einer anderen Website zu benutzen."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:763
+msgid "Copy"
+msgstr "Kopie"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/defaults.php:763
+#, fuzzy
+msgid "Copy Link"
+msgstr "Link"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/validation/no_special_chars/validation_no_special_chars.php:13
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Sie müssen keine spezielle Kennzeichen in diesem Feld einbringen. Alle "
+"spezielle Kennzeichen wurden entfernt."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/validation/comma_numeric/validation_comma_numeric.php:13
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+"Stellen Sie die Liste der durch Komma getrennten Zahlenwerte für diese "
+"Option bei."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/validation/email/validation_email.php:13
+msgid "You must provide a valid email for this option."
+msgstr "Geben Sie eine richtige E-Mailadresse für diese Option ein."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/validation/numeric/validation_numeric.php:13
+msgid "You must provide a numerical value for this option."
+msgstr "Sie müssen einen Zahlenwert für diese Option einbringen."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/validation/color/validation_color.php:13
+msgid "This field must be a valid color value."
+msgstr "Dieses Feld ist für den richtigen Farbenwert"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/validation/date/validation_date.php:13
+msgid "This field must be a valid date."
+msgstr "Dieses Feld ist für Datum."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/validation/url/validation_url.php:13
+msgid "You must provide a valid URL for this option."
+msgstr "Sie müssen ein richtiges URL für diese Option einbringen."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/validation/no_html/validation_no_html.php:13
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"Sie müssen kein HTML in diesen Feld einbringen, alle HTML-Tags wurden "
+"entfernt."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/fields/multi_text/field_multi_text.php:31
+#: стол/black_sea/options/options/fields/multi_text/field_multi_text.php:35
+#: стол/black_sea/options/options/fields/multi_text/field_multi_text.php:38
+#: стол/black_sea/options/options/fields/social/field_social.php:35
+#: стол/black_sea/options/options/fields/social/field_social.php:43
+#: стол/black_sea/options/options/fields/social/field_social.php:47
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:248
+msgid "Remove"
+msgstr "Entfernen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/fields/multi_text/field_multi_text.php:40
+#: стол/black_sea/options/options/fields/social/field_social.php:49
+msgid "Add More"
+msgstr "Mehr geben"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr "Hinaufladen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr "Hinaufgeladene entfernen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/fields/google_webfonts/field_google_webfonts.php:25
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>"
+msgstr ""
+"Die unten angegebenen Schriften sind frei die Kundenschriften von <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a> zu benutzen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/fields/color_gradient/field_color_gradient.php:28
+#: стол/black_sea/options/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr "Von:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr "Zu:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr "Zu:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/options/options/fields/icon/field_icon.php:28
+#: стол/black_sea/inc/lib/metabox/init.php:210
+msgid "Add Icon"
+msgstr "Icon addieren"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/top-folio.php:38
+#: стол/black_sea/templates/top-forum.php:67
+#: стол/black_sea/inc/actions.php:170
+msgid "Home"
+msgstr "Home"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/dopinfo.php:7
+#: стол/black_sea/templates/entry-meta.php:3
+msgid "By"
+msgstr "Von"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/dopinfo.php:9
+#: стол/black_sea/templates/entry-meta.php:10
+#: стол/black_sea/inc/widgets/widget-tabs.php:55
+#: стол/black_sea/inc/widgets/widget-tabs.php:62
+msgid "Comments"
+msgstr "Kommentare"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/dopinfo.php:9
+#: стол/black_sea/templates/entry-meta.php:10
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/author-box.php:30
+msgid "Read all author posts"
+msgstr "Auslesen aller Autor Beiträge"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/searchform.php:3
+#, fuzzy
+msgid "Search on site..."
+msgstr "Beitragsart suchen"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/searchform.php:4
+#: стол/black_sea/templates/searchform-mini.php:4
+msgid "Search"
+msgstr "Suchen"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/entry-meta.php:5
+msgid "in"
+msgstr "in"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/entry-meta.php:10
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/searchform-mini.php:3
+#: стол/black_sea/inc/widgets/widget-search.php:51
+msgid "Search for:"
+msgstr "Suchen nach:"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/portfolio-item.php:37
+msgid "Read details"
+msgstr "Details lesen"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/top-page.php:16
+msgid "Latest Posts"
+msgstr "Die neuesten Beiträge"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/top-page.php:26
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Tägliche  Archive: %s"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/top-page.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Monatsarchive: %s"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/top-page.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jährliche Archive: %s"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/top-page.php:39
+msgid "Author Archives:"
+msgstr "Autorarchive:"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/top-page.php:43
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Autorarchive: %s"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/top-page.php:50
+#, php-format
+msgid "Search Results for %s"
+msgstr "Suchergebnisse für %s"
+
+#: /home/dfd/Рабочий стол/black_sea/templates/top-page.php:52
+msgid "File Not Found"
+msgstr "File nicht gefunden"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/templates/portfolio/inside-folio_inside_1.php:10
+#: стол/black_sea/templates/portfolio/inside-folio_inside_2.php:93
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:96
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:56
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:137
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:215
+#: стол/black_sea/inc/widgets/widget-audio.php:45
+#: стол/black_sea/inc/widgets/widget-login.php:28
+#: стол/black_sea/inc/widgets/widget-video.php:44
+msgid "Description"
+msgstr "Beschreibung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/templates/header/block-responsive-menu.php:2
+msgid "Menu"
+msgstr "Menü"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/templates/entry-meta/mini-share.php:5
+#: стол/black_sea/woocommerce/single-product/share.php:12
+#: стол/black_sea/woocommerce/loop/share.php:21
+msgid "Share"
+msgstr "Freigeben"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets.php:8
+msgid "Left Sidebar"
+msgstr "Linke Seitenleiste"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets.php:16
+msgid "Right Sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets.php:26
+msgid "Footer column 1"
+msgstr "Fußzeilenspalte 1"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets.php:34
+msgid "Footer column 2"
+msgstr "Fußzeilenspalte 2"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets.php:42
+msgid "Footer column 3"
+msgstr "Fußzeilenspalte 3"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets.php:51
+#, fuzzy
+msgid "Sidebar for shop. Product page"
+msgstr "Seitenleiste für Shop"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets.php:60
+#, fuzzy
+msgid "Sidebar for shop. Product list"
+msgstr "Seitenleiste für Shop"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets.php:69
+msgid "BBPress right"
+msgstr "BBPress rechts"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets.php:185
+#, fuzzy
+msgid "Title allocate"
+msgstr "Toppaneltitel"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/woocommerce.php:64
+msgid "View your shopping cart"
+msgstr "Warenkorb anzeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:8
+msgid "Portfolios"
+msgstr "Portfolios"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:9
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:10
+msgid "Add New"
+msgstr "Neu addieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:11
+msgid "Add New Portfolio item"
+msgstr "Neues Portfolio addieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:12
+msgid "Edit Portfolio item"
+msgstr "Portfolio redigieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:13
+msgid "New Portfolio item"
+msgstr "Neues Portfolio"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:14
+msgid "All Portfolio items"
+msgstr "Alle Portfolios"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:15
+msgid "View Portfolio item"
+msgstr "Portfolio ansehen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:16
+msgid "Search Portfolios item"
+msgstr "Portfolio suchen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:17
+msgid "No products found"
+msgstr "Keine Portfolio gefunden"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:18
+msgid "No products found in the Trash"
+msgstr "Keine Portfolio im Papierkorb gefunden"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:39
+#, php-format
+msgid "Portfolio updated. <a href=\"%s\">View product</a>"
+msgstr "Portfolio aktualiziert. <a href=\"%s\">Portfolio ansehen</a>"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:40
+msgid "Custom field updated."
+msgstr "Custom Feld aktualiziert."
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:41
+msgid "Custom field deleted."
+msgstr "Custom Feld entfernt."
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:42
+msgid "Portfolio updated."
+msgstr "Portfolio aktualiziert."
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:43
+#, php-format
+msgid "Portfolio restored to revision from %s"
+msgstr "Portfolio zum Redigieren wiederhergestellt  aus %s"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:44
+#, php-format
+msgid "Portfolio published. <a href=\"%s\">View product</a>"
+msgstr "Portfolio publiziert. <a href=\"%s\">Portfolio ansehen</a>"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:45
+msgid "Portfolio saved."
+msgstr "Portfolio gespeichert."
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:46
+#, php-format
+msgid ""
+"Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr ""
+"Portfolio zugestellt. <a target=\"_blank\" href=\"%s\">Portfolio ansehen</a>"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:47
+#, php-format
+msgid ""
+"Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview product</a>"
+msgstr ""
+"Portfolio erstellt für: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Portfoliio ansehen</a>"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:47
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:48
+#, php-format
+msgid ""
+"Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr ""
+"Portfolioentwurf aktualiziert. <a target=\"_blank\" href=\"%s\">Portfolio "
+"ansehen</a>"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:73
+#: стол/black_sea/inc/post-type.php:83
+msgid "Portfolio Categories"
+msgstr "Portfolio Kategorien"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:74
+msgid "Portfolio Category"
+msgstr "Portfoliokategorie"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:75
+msgid "Search Portfolio Categories"
+msgstr "Portfolio Kategorien suchen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:76
+msgid "All Portfolio Categories"
+msgstr "Alle Portfolio Kategorien"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:77
+msgid "Parent Portfolio Category"
+msgstr "Eltern Portfolio Kategorie"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:78
+msgid "Parent Portfolio Category:"
+msgstr "Eltern Portfolio Kategorie:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:79
+msgid "Edit Portfolio Category"
+msgstr "Portfolio Kategorie redigieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:80
+msgid "Update Portfolio Category"
+msgstr "Portfolio Kategorie aktualizieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:81
+msgid "Add New Portfolio Category"
+msgstr "Neue Portfolio Kategorie addieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:82
+msgid "New Portfolio Category"
+msgstr "Neue Portfolio Kategorie"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:97
+#: стол/black_sea/inc/post-type.php:98
+msgid "Time Line"
+msgstr "Zeitachse"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:99
+#, fuzzy
+msgid "Add New Time Line Item"
+msgstr "Neuen Menupunkt addieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:100
+#, fuzzy
+msgid "Edit Time Line Item"
+msgstr "Menupunkt redigieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:101
+#, fuzzy
+msgid "Search Time Line Items"
+msgstr "Menupunkte suchen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:102
+#, fuzzy
+msgid "Sorry: Time Line Item Not Found"
+msgstr "Sorry: Menupunkt nicht gefunden"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:103
+#, fuzzy
+msgid "Sorry: Time Line Item Not Found In Trash"
+msgstr "Sorry: Menupunkt im Papierkorb nicht gefunden"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:127
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:128
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:129
+#, fuzzy
+msgid "Add New Testimonial Item"
+msgstr "Neues  Testimonial addieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:130
+#, fuzzy
+msgid "Edit Testimonial Item"
+msgstr "Testimonial redigieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:131
+#, fuzzy
+msgid "Search Testimonial Items"
+msgstr "Testimonial suchen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:132
+#, fuzzy
+msgid "Sorry: Testimonial Item Not Found"
+msgstr "Sorry: Menupunkt nicht gefunden"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/post-type.php:133
+#, fuzzy
+msgid "Sorry: Testimonial Item Not Found In Trash"
+msgstr "Sorry: Menupunkt im Papierkorb nicht gefunden"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/actions.php:148
+msgid "Prev"
+msgstr "Vorhergehende"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/actions.php:149
+#: стол/black_sea/inc/components.php:49
+msgid "Next"
+msgstr "Nächste"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/actions.php:171
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Archive nach Kategorien \"%s\""
+
+#: /home/dfd/Рабочий стол/black_sea/inc/actions.php:172
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Suchergebnisse für \"%s\" Query"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/actions.php:173
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Beiträge Tagged \"%s\""
+
+#: /home/dfd/Рабочий стол/black_sea/inc/actions.php:174
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Artikel publiziert von %s"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/actions.php:175
+#: стол/black_sea/woocommerce/shop/breadcrumb.php:160
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/actions.php:305
+#: стол/black_sea/woocommerce/shop/breadcrumb.php:216
+msgid "Page"
+msgstr "Seite"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/menu.php:6
+#, fuzzy, php-format
+msgid "Please assign a menu to the primary menu location under %1$s."
+msgstr ""
+"Bitte weisen Sie ein Menü zur die primäre Menüposition unter %1$s oder %2$s "
+"das Design."
+
+#: /home/dfd/Рабочий стол/black_sea/inc/menu.php:7
+#, php-format
+msgid "<a href=\"%s\">Menus</a>"
+msgstr "<a href=\"%s\">Menüs</a>"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/components.php:48
+#, fuzzy
+msgid "Previous"
+msgstr "Vorhergehende"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/components.php:117
+#: стол/black_sea/inc/widgets/widget-login.php:61
+#, fuzzy
+msgid "Login on site"
+msgstr "An der Website anmelden"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/components.php:354
+#: стол/black_sea/inc/components.php:358
+msgid "I like this article"
+msgstr "Ich mag dieser Artikel"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/components.php:486
+#: стол/black_sea/inc/mvb/html/public/mvb_recent_works.php:40
+#: стол/black_sea/inc/widgets/widget-category-news.php:147
+msgid "All"
+msgstr "Alle"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:155
+#: стол/black_sea/inc/lib/plugins.php:217
+msgid "Install Required Plugins"
+msgstr "Erforderliche Plugins installieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:156
+#: стол/black_sea/inc/lib/plugins.php:218
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:157
+#: стол/black_sea/inc/lib/plugins.php:219
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin wird installiert: %s"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Etwas ging schief."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:169
+#: стол/black_sea/inc/lib/plugins.php:231
+msgid "Return to Required Plugins Installer"
+msgstr "Zurüch zum Erforderliche Plugins Installer "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:170
+#, fuzzy
+msgid "Return to the dashboard"
+msgstr "Zurück zu Dashboard"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:171
+#: стол/black_sea/inc/lib/plugin-activation.php:1840
+#: стол/black_sea/inc/lib/plugins.php:232
+msgid "Plugin activated successfully."
+msgstr "Plugin wurde erfolgreich aktiviert."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:172
+#, fuzzy
+msgid "The following plugin was activated successfully:"
+msgstr "Plugin wurde erfolgreich aktiviert: %s."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins wurden erfolgreich installiert und aktiviert. %1$s"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Diese Benachrichtigung entlassen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1085
+msgid "External Link"
+msgstr "Aussenlink"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Privatrepository"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Vorherinstalliert"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1100
+msgid "Required"
+msgstr "Erforderlich"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Installiert aber nich aktiviert"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Keine Plugins zum Installieren oder Aktivieren. <a href=\"%1$s\" title="
+"\"Return to the Dashboard\">Zurück zu Dashboard</a>"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1292
+msgid "Source"
+msgstr "Source"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1293
+msgid "Type"
+msgstr "Type"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1294
+msgid "Status"
+msgstr "Status"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1312
+msgid "Install"
+msgstr "Installieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1313
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Installpackage nicht verfügbar."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Install package herunterladen aus <span class=\"code\">%s</span>&#8230;"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Package auspacken&#8230;"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Plugin Installation&#8230;"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Plugin Installation fehlgeschlagen."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Plugin installiert erfolgreich."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Plugin Aktivierung fehlgeschlagen."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Installation und Aktivierung gestartet. Dieses Verfahren kann an einigen "
+"Hosts eine Weile dauern. Bitte, warten Sie."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s wurde erfolgreich installiert und aktiviert."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1950
+#: стол/black_sea/inc/lib/plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Details zeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1950
+#: стол/black_sea/inc/lib/plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Details verstecken"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen wurden beendet."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation und Aktivierung des Plugin %1$s (%2$d/%3$d)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Installation angefangen. Dieses Verfahren kann an einigen Hosts eine Weile "
+"dauern. Bitte, warten Sie."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Fehler ist vorgekommen während Installierung %1$s: <strong>%2$s</strong>."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Installierung von %1$s fehlgeschlagen."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installiert erfolgreich."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Alle Installationen wurden beendet."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) wird installiert"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/lib/plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Zurück zu Dashboard"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/lib/plugins.php:220
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas ist mit dem plugin API schief gegangen."
+
+#: /home/dfd/Рабочий стол/black_sea/inc/lib/plugins.php:233
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle Plugins sind erfolgreich installiert und aktiviert. %s"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/lib/metabox/init.php:217
+#, fuzzy
+msgid "-- Select a sidebar --"
+msgstr "Kundenseitenleiste wählen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/lib/metabox/init.php:230
+msgid ""
+"Please install SMK Sidebar Generator plugin in Apperance -> Install plugins"
+msgstr ""
+"Bitte installieren Sie SMK Sidebar Generator Plugin auf Aussehen -> Plugins "
+"installieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/lib/metabox/init.php:238
+#, fuzzy
+msgid "-- Select a header --"
+msgstr "Kopfzeilenformat wählen:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/lib/metabox/init.php:681
+msgid "Please Try Again"
+msgstr "Bitte, versuchen sie nochmals"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/lib/metabox/init.php:698
+msgid "Remove Embed"
+msgstr "Embed entfernen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/lib/metabox/init.php:704
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Keine oEmbed Ergebnisse für %s gefunden. Finden Sie mehr Info auf"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_contact_form.php:38
+msgid "You need enter email in options panel"
+msgstr "Tippen Sie eine E-Mail im Optionspanel"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_contact_form.php:42
+#, fuzzy
+msgid "Thank you for your message!"
+msgstr "Danke für Ihre Nachricht!</h2>"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_contact_form.php:44
+#, fuzzy
+msgid "Unknown error, during message sending."
+msgstr "Unbekannter Fehler während Nachrichtsenden</h2>"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_contact_form.php:52
+#: стол/black_sea/inc/widgets/widget-vcard-simple.php:39
+#: стол/black_sea/inc/widgets/widget-vcard-simple.php:82
+#: стол/black_sea/woocommerce/single-product-reviews.php:60
+msgid "Email"
+msgstr "E-Mail"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_contact_form.php:55
+#, fuzzy
+msgid "Subject"
+msgstr "Thema"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_contact_form.php:58
+#, fuzzy
+msgid "Message"
+msgstr "Mitteilung senden"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_contact_form.php:63
+msgid "Leave reply"
+msgstr "Antwort hinterlassen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_blog_posts_4.php:77
+#, fuzzy
+msgid "Read more info"
+msgstr "Mehr lesen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_timeline_horizontal.php:49
+#, fuzzy
+msgid "Next date"
+msgstr "Nächste"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_timeline_horizontal.php:50
+#, fuzzy
+msgid "Prev date"
+msgstr "Nach Datum ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_recent_news.php:106
+#: стол/black_sea/inc/widgets/widget-tabs.php:249
+#: стол/black_sea/inc/widgets/widget-tabs.php:295
+#, fuzzy
+msgid "Read all news"
+msgstr "Details lesen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/html/public/mvb_clients.php:74
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:153
+#, fuzzy
+msgid "View all"
+msgstr "Galerie ansehen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:16
+msgid "The contact form module"
+msgstr "Ein Kontaktformular-Modul"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:17
+#, fuzzy
+msgid "Adds the contact form"
+msgstr "E-Mailadresse für die Kontaktform"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:42
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:41
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:60
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:43
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:39
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:80
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:43
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:44
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:41
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:41
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:62
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:41
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:62
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:43
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:39
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:41
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:61
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:41
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:41
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:62
+#: стол/black_sea/inc/widgets/widget-news-categories-list.php:20
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:21
+#: стол/black_sea/inc/widgets/widget-testimonials.php:21
+#: стол/black_sea/inc/widgets/widget-recent.php:25
+#: стол/black_sea/inc/widgets/widget-vcard-simple.php:19
+#: стол/black_sea/inc/widgets/widget-login.php:20
+#, fuzzy
+msgid "Title"
+msgstr "Titel:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:46
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:43
+#: стол/black_sea/inc/custom_metabox/timeline-boxes.php:25
+#, fuzzy
+msgid "Sub Title"
+msgstr "Untertitel"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:50
+msgid "Сontacts form mail"
+msgstr "Ein Kontaktformular E-mail"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:54
+msgid "Submit Button Align"
+msgstr "Versenden Schaltfläche Ausrichten"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:61
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:111
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:83
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:100
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:91
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:73
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:92
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:88
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:145
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:157
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:160
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:172
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:103
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:87
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:121
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:191
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:128
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:139
+#, fuzzy
+msgid "Additional CSS classes"
+msgstr "Zusätzlicher Link"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:62
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:112
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:84
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:101
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:92
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:74
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:93
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:89
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:146
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:158
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:161
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:173
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:104
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:88
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:122
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:192
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:129
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:140
+msgid "Separated by space"
+msgstr "Mit Leerzeichen getrennt"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:67
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:117
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:89
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:107
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:97
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:80
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:98
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:94
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:163
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:177
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:109
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:93
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:127
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:196
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:144
+#, fuzzy
+msgid "Additional CSS styles"
+msgstr "Zusätzlicher Link"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_contact_form.php:68
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:118
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:90
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:108
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:98
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:81
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:99
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:95
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:164
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:178
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:110
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:94
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:128
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:197
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:145
+msgid "Separated by <b>;</b>"
+msgstr "Mit <b>;</b> getrennt"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:16
+#, fuzzy
+msgid "Testimonials module"
+msgstr "Testimonials"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:17
+#, fuzzy
+msgid "Add a testimonials section"
+msgstr "Neues  Testimonial addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:46
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:50
+#, fuzzy
+msgid "Add client"
+msgstr "Icon addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:47
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:51
+msgid "Client"
+msgstr "Kunde"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:48
+#, fuzzy
+msgid "Client Title"
+msgstr "Kunde/ Partner"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:53
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:55
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:55
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:56
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:54
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:54
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:55
+msgid "Image"
+msgstr "Bild"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:66
+msgid "Client Job"
+msgstr "Client-Job"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:72
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:43
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:113
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:120
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:99
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:79
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:97
+#, fuzzy
+msgid "Content"
+msgstr "Inhalt:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:79
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:99
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:106
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:86
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:83
+msgid "Link (URL)"
+msgstr "Link (URL)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:85
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:105
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:112
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:165
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:92
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:89
+#, fuzzy
+msgid "Link to page"
+msgstr "Link zur ganzen Seite"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:102
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:74
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:82
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:64
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:83
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:79
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:136
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:143
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:94
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:79
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:106
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:169
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:119
+msgid "Appear effects"
+msgstr "Auftauchend Effekte"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:103
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:75
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:83
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:65
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:84
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:80
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:137
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:144
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:95
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:80
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:107
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:170
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:120
+#, fuzzy
+msgid "Select one of appear effects for block"
+msgstr "Wahlen Sie einen Layouttyp fur Suchergebnisse"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:125
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:115
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:127
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:100
+msgid "Unique ID"
+msgstr "Eindeutige ID"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_testimonials.php:126
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:101
+msgid "Must be unique for every tab on the page."
+msgstr "Muss eindeutig sein für jeder Tab auf der Seite."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:18
+#, fuzzy
+msgid "Tiny Post list"
+msgstr "Beitragsptionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:19
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:19
+msgid "Add your blog posts"
+msgstr "Geben Sie Ihre Blog-Nachrichten"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:48
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:48
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:46
+#: стол/black_sea/inc/widgets/widget-category-news.php:143
+msgid "Select category"
+msgstr "Kategorie wählen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:49
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:49
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:47
+#: стол/black_sea/inc/widgets/widget_categories.php:19
+#: стол/black_sea/inc/widgets/widget_categories.php:115
+#, fuzzy
+msgid "Categories"
+msgstr "Alle Kategorien"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:57
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:57
+#: стол/black_sea/inc/widgets/widget-category-news.php:136
+msgid "Number of posts"
+msgstr "Beiträgezahl"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_2.php:64
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:72
+#, fuzzy
+msgid "Display the meta"
+msgstr "Miniatürbild anzeigen?"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:14
+msgid "Facts"
+msgstr "Fakten"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:15
+#, fuzzy
+msgid "Add facts"
+msgstr "Mehr geben"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:47
+msgid "Diagram Type"
+msgstr "Diagramm Typ"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:50
+msgid "None"
+msgstr "Keine"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:51
+msgid "Circle"
+msgstr "Kreis"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:59
+msgid "Animate facts"
+msgstr "Fakten belebt "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:68
+#, fuzzy
+msgid "Add fact"
+msgstr "Mehr geben"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:69
+msgid "Fact"
+msgstr "Fakt"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:70
+#, fuzzy
+msgid "Fact Name"
+msgstr "Name"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:74
+#, fuzzy
+msgid "Number"
+msgstr "Tagsanzahl:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:85
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:67
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:67
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:67
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:67
+#: стол/black_sea/inc/menu/mega_menu.php:22
+#, fuzzy
+msgid "Subtitle"
+msgstr "Untertitel:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_facts.php:116
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:128
+msgid "Must be unique for every module on the page."
+msgstr "Muss eindeutig sein für jedes Modul auf der Seite."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:18
+#, fuzzy
+msgid "Post list"
+msgstr "Beitragsptionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:64
+msgid "Length of excerpt"
+msgstr "Auszugslänge"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_blog_posts_4.php:65
+#, fuzzy
+msgid "Number of words"
+msgstr "Beiträgezahl"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:16
+msgid "Boxed Content module"
+msgstr "Boxte Inhalt Modul"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:17
+msgid "Adds a Boxed Content block"
+msgstr "Boxte Inhalt Block hinzufügen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:48
+#, fuzzy
+msgid "Box style"
+msgstr "Logostil"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:49
+#, fuzzy
+msgid "Select box style"
+msgstr "Wählen Sie eine Schriftgröße aus."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:52
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:61
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:144
+#, fuzzy
+msgid "Default"
+msgstr "Standarduntertitel"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:53
+msgid "Gray"
+msgstr "Grau"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:54
+msgid "Yellow"
+msgstr "Gelb"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_boxed_content.php:55
+msgid "Dark"
+msgstr "Dunkel"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:18
+#, fuzzy
+msgid "Timeline Horizontal"
+msgstr "Horizontal"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:19
+#, fuzzy
+msgid "Display horizontal timeline items"
+msgstr "Datum in Portfolio anzeigen?"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:52
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:91
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:98
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:75
+#: стол/black_sea/inc/menu/mega_menu.php:16
+#, fuzzy
+msgid "Icon"
+msgstr "Icon addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:61
+msgid "Dates Speed"
+msgstr "Daten Drehzahl"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:62
+#, fuzzy
+msgid "Dates animation Speed"
+msgstr "Seite scrollen Animation"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:65
+msgid "Slow"
+msgstr "Langsam"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:66
+msgid "Normal"
+msgstr "Normal"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:67
+msgid "Fast"
+msgstr "Schnell"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_timeline_horizontal.php:74
+msgid "Start at"
+msgstr "Ab"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:16
+#, fuzzy
+msgid "Recent news"
+msgstr "Frische Beiträge"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:17
+#, fuzzy
+msgid "Add recent news list"
+msgstr "Frische Beiträge"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:63
+#, fuzzy
+msgid "Link title"
+msgstr "Linklabel"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:69
+#, fuzzy
+msgid "Show link"
+msgstr "Vimeo link"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_recent_news.php:70
+#: стол/black_sea/inc/menu/mega_menu.php:32
+#: стол/black_sea/inc/menu/mega_menu.php:53
+#: стол/black_sea/inc/widgets/widget-tweets.php:227
+#: стол/black_sea/inc/widgets/widget-tabs.php:198
+msgid "Yes"
+msgstr "Ja"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:16
+msgid "Presentation Boxes with tiles"
+msgstr "Präsentationsboxen mit Fliesen "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:17
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:17
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:17
+msgid "Add a presentation box"
+msgstr "Fügen Präsentationsboxen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:48
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:48
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:48
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:48
+#, fuzzy
+msgid "Add box"
+msgstr "Icon addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:49
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:49
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:49
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:49
+msgid "Box"
+msgstr "Box"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:50
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:50
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:50
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:50
+#, fuzzy
+msgid "Box Title"
+msgstr "Titel:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:75
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:75
+#, fuzzy
+msgid "Background Color"
+msgstr "Hindergrundfarbe"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:82
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:82
+#, fuzzy
+msgid "Icon text color"
+msgstr "Secundärfarbe der Site"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:118
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:125
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:102
+msgid "Display the \"read more\" link"
+msgstr "\"mehr dazu\" link anzeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_tiles.php:126
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:133
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:110
+#, fuzzy
+msgid "\"Read more\" link text"
+msgstr "Mehr lesen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:16
+msgid "Presentation Boxes"
+msgstr "Präsentationsboxen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes.php:89
+#, fuzzy
+msgid "Icon shadow color"
+msgstr "Hindergrundfarbe"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:16
+msgid "Client Logos Carousel"
+msgstr "Logos von Kunden Karussell"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:17
+msgid "Add clients logos carousel"
+msgstr "Logos von Kunden Karussell addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:52
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:63
+#, fuzzy
+msgid "Client Name"
+msgstr "Kunde/ Partner"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:69
+msgid "Client URL"
+msgstr "Kunde URL"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:78
+msgid "Autostart Slideshow"
+msgstr "Auto-boot Diashow"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:85
+msgid "Slideshow Speed"
+msgstr "Diashow Speed"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:86
+msgid "Set slideshow speed in ms"
+msgstr "Legen Sie die Diashow Speed in ms"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:118
+#, fuzzy
+msgid "Opens in new tab"
+msgstr "Link in neuem Fenster öffnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:144
+msgid "Display the \"view all\" link"
+msgstr "\"alle sichten\" link anzeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:152
+msgid "\"View all\" link text"
+msgstr "\"Alle sichten\" Textlink"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_clients.php:159
+msgid "View all link URL"
+msgstr "Alle sichten Link URL"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:14
+#, fuzzy
+msgid "Google Maps"
+msgstr "Box: Google map"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:15
+#, fuzzy
+msgid "Adds a Google map"
+msgstr "Adresse an Google Map"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:43
+msgid "Address to display on map"
+msgstr "Adresse an die auf der Karte angezeigt"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:47
+msgid "Height (in px)"
+msgstr "Höhe (px)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:52
+msgid "Map zoom (from 0 to 21+)"
+msgstr "Karten-Zoom (von 0 bis 21+)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:57
+msgid "Map Style"
+msgstr "Kartenstil"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:58
+#, fuzzy
+msgid "Select one of map styles"
+msgstr "Taxonomie wählen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:62
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:114
+msgid "Apple Maps-esque"
+msgstr "Apple Stadtpläne-esken"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:63
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:118
+msgid "Blue water"
+msgstr "Blauen Wasser "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:64
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:122
+msgid "Midnight Commander"
+msgstr "Midnight Commander"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:65
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:126
+msgid "Pale Dawn"
+msgstr "Pale Dawn"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:66
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:130
+msgid "Retro"
+msgstr "Retro"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:67
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:134
+msgid "Subtle Grayscale"
+msgstr "Subtle Grayscale"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_gmaps.php:74
+#, fuzzy
+msgid "Additional information"
+msgstr "Theme-Information"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_img.php:16
+#, fuzzy
+msgid "Presentation image"
+msgstr "Bild löschen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:16
+msgid "Our team"
+msgstr "Unser Team"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:17
+msgid "Team members"
+msgstr "Teammitglieder"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:48
+msgid "Add team member"
+msgstr "Teammitglied addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:49
+#, fuzzy
+msgid "Member"
+msgstr "Benutzername:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:50
+#, fuzzy
+msgid "Mamber name"
+msgstr "Benutzername:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:59
+#, fuzzy
+msgid "Flip Image"
+msgstr "Bild"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:68
+#, fuzzy
+msgid "Member name"
+msgstr "Benutzername:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:73
+#, fuzzy
+msgid "Member additional"
+msgstr "Zusätzliche Autorinformation"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_our_team.php:100
+#, fuzzy
+msgid "Link Title"
+msgstr "Linklabel"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:16
+msgid "Presentation Boxes Left icon"
+msgstr "Präsentationsboxen linke Symbol"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/mvb/gears/libraries/mvb_presentation_boxes_left_icon.php:17
+msgid "Add a presentation box with left icon"
+msgstr "Präsentationsboxen mit linke Symbol addieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/menu/mega_menu.php:30
+#, fuzzy
+msgid "Enable mega menu"
+msgstr "Megamenu"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/menu/mega_menu.php:38
+#, fuzzy
+msgid "Columns"
+msgstr "2 Spalte"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/menu/mega_menu.php:51
+#, fuzzy
+msgid "Bordered items"
+msgstr "Frische Beiträge"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:90
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Ungültig)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:94
+#, fuzzy, php-format
+msgid "%s (Pending)"
+msgstr "Aufsteigend"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:107
+msgid "sub item"
+msgstr "Unterposten"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:139
+#, fuzzy
+msgid "Edit Menu Item"
+msgstr "Menupunkt redigieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:148
+msgid "URL"
+msgstr "URL"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:155
+#, fuzzy
+msgid "Navigation Label"
+msgstr "Button-Label:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:161
+#, fuzzy
+msgid "Title Attribute"
+msgstr "Titel:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:168
+#, fuzzy
+msgid "Open link in a new window/tab"
+msgstr "Link in neuem Fenster öffnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:173
+msgid "CSS Classes (optional)"
+msgstr "CSS Klassen (wahlweise)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:179
+msgid "Link Relationship (XFN)"
+msgstr "Link-Beziehung (XFN)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:217
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"Der Beschreibung wirdIm Menüpunk gezeigt, wenn ein aktuelles Thema "
+"unterstützt es."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:223
+msgid "Move"
+msgstr "Bewegen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:224
+msgid "Up one"
+msgstr "Eine Ebene nach oben"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:225
+msgid "Down one"
+msgstr "Einen Ebene tiefer"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:228
+msgid "To the top"
+msgstr "Nach oben"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:235
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/menu/edit_mega_menu_walker.php:249
+msgid "Cancel"
+msgstr "Stornieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Tragen Sie bitte Ihren Envato Marketplace Benutzernamen."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Tragen Sie bitte Ihren Envato Marketplace API Key."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"set\" ist erforderlich Parameter."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envato Marketplace \"Item ID\" ist erforderlich Parameter."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:291
+#, fuzzy
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+"Install package herunterladen aus <span class=\"code\">%s</span>&#8230;"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:302
+#, fuzzy
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+"Install package herunterladen aus <span class=\"code\">%s</span>&#8230;"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:483
+msgid "Undefined update error"
+msgstr "Unbekannter Update Fehler"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:495
+msgid "Has no updates"
+msgstr "Keine Aktualisierung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:509
+#, php-format
+msgid ""
+"To enable theme update notifications, please enter your Envato Marketplace "
+"credentials in the %s"
+msgstr ""
+"Um die Thema Aktualisierung zu aktivieren, Tragen Sie bitte Ihren Envato "
+"Marketplace Berechtigungsnachweis im %s"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:523
+#, php-format
+msgid "An update to the theme is available! Head over to %s to update it now."
+msgstr ""
+"Ein Thema Update ist verfügbar! Begeben Sie sich zu %s zur jetzt "
+"aktualisieren. "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:544
+#, php-format
+msgid "Theme '%s' was updated"
+msgstr "Thema '%s aktualisiert wurde"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:25
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:71
+#, fuzzy
+msgid "Select Blog parameters"
+msgstr "Galerie wählen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:102
+msgid "Boxed Page background options"
+msgstr "Boxed Seite Hindergrundfarbe Optionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:109
+msgid "Background color"
+msgstr "Hindergrundfarbe"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:110
+msgid "Color of body of page (page will be set to boxed)"
+msgstr "Body-Farbe der Seite (Seite wird zu Boxed Layout gesetzt)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:116
+msgid "Fixed backrgound"
+msgstr "Fixierter Hintergrund"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:117
+msgid "Check if you want to bg will be fixed on page scroll"
+msgstr ""
+"Hacken Sie ab, wenn Sie wollen Ihren Hindergrund auf der Seite fixiert zu "
+"sein "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:122
+msgid "Background image"
+msgstr "Hintergrundbild"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:123
+msgid "Upload an image or enter an URL."
+msgstr "Laden Sie ein Bild hinauf oder geben Sie ein URL ein."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:145
+#, fuzzy
+msgid "Block before content"
+msgstr "Vor Fußzeile"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:153
+#, fuzzy
+msgid "Text block ( shortcodes will work here )"
+msgstr "Textbaustein ( Kurzcode wird hier arbeiten )"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:171
+msgid "Additional Text fields"
+msgstr "Zusätzliche Textfelder"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:179
+#: стол/black_sea/inc/widgets/widget-text.php:9
+msgid "Text block"
+msgstr "Textblock"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/page-boxes.php:193
+#, fuzzy
+msgid "QR Code address"
+msgstr "Adressenform"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:28
+#, fuzzy
+msgid "Select portfolio parameters"
+msgstr "Portfolio Kategorien suchen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:79
+#, fuzzy
+msgid "Number of items"
+msgstr "Beiträgezahl"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:80
+msgid "Number of portfolio items that will be show on page"
+msgstr "Anzahl an Portfolio Elementen erscheinen auf Seite sein wird"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:89
+msgid "Portfolio Video"
+msgstr "PortfolioVideo"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:102
+#: стол/black_sea/inc/custom_metabox/post-boxes.php:43
+msgid "Self hosted video file in mp4 format"
+msgstr "Self hosted video file in mp4 format"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:108
+#: стол/black_sea/inc/custom_metabox/post-boxes.php:49
+msgid "Self hosted video file in webM format"
+msgstr "Self hosted video file in webM format"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:118
+#, fuzzy
+msgid "Portfolio Template"
+msgstr "Portfolioseite"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:133
+#, fuzzy
+msgid "Portfolio inside 1 variant"
+msgstr "PortfolioVideo"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:137
+#, fuzzy
+msgid "Portfolio inside 2 variant"
+msgstr "PortfolioVideo"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:161
+#, fuzzy
+msgid "Images gallery"
+msgstr "Bilderreihenfolge"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:202
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:262
+#, fuzzy
+msgid "Delete image"
+msgstr "Bild löschen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:202
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:262
+msgid "Delete"
+msgstr "Löschen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:213
+msgid "Add gallery images"
+msgstr " Alle Galerien"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:239
+msgid "Add Images to Product Gallery"
+msgstr "Addieren Sie Bilder in Produktgalerie"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/portfolio-boxes.php:241
+#, fuzzy
+msgid "Add to gallery"
+msgstr "Neue Galerie addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/post-boxes.php:23
+#, fuzzy
+msgid "Post Video"
+msgstr "Beitragsinformation"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/post-boxes.php:31
+msgid "YouTube video ID"
+msgstr "YouTube video ID"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/post-boxes.php:37
+msgid "Vimeo video ID"
+msgstr "Vimeo video ID"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/post-boxes.php:61
+#, fuzzy
+msgid "Post Audio"
+msgstr "Beitragsinformation"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/post-boxes.php:69
+msgid "Use audio embed code"
+msgstr "Audio Einbett-Code einfügen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/post-boxes.php:75
+#, fuzzy
+msgid "Self hosted audio file in mp3 format"
+msgstr "Self hosted video file in mp4 format"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/product-boxes.php:26
+#, fuzzy
+msgid "Product subtitle"
+msgstr "Untertitel des Toppanels"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/product-boxes.php:34
+#, fuzzy
+msgid "Set product subtitle"
+msgstr "Textblock mit Untertitel"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/features-boxes.php:26
+msgid "Feature box options"
+msgstr "Eigenschaftsbox Optionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/features-boxes.php:34
+msgid "Icon for features box"
+msgstr "Icon für Eigenschaftsbox"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/testimonial-boxes.php:26
+msgid "Testimonial info"
+msgstr " Gutachten Info"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/testimonial-boxes.php:33
+msgid "Author of testimonial"
+msgstr "Gutachtenautor"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/testimonial-boxes.php:39
+msgid "Author additional"
+msgstr "Zusätzliche Autorinformation"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/headers-boxes.php:26
+#, fuzzy
+msgid "Page header background"
+msgstr "Fixierter Body-Hintergrund"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/headers-boxes.php:34
+msgid "Select image pattern for header background"
+msgstr "Wählen Sie das Bild Muster für Kopfball-Hintergrund"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/headers-boxes.php:42
+#, fuzzy
+msgid "Select color for header background"
+msgstr "Wählen Sie eine Fusszeilenhintergrundfarbe aus."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/headers-boxes.php:49
+#, fuzzy
+msgid "Page subtitle"
+msgstr "Untertitel des Toppanels"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/custom-sidebar.php:25
+msgid "Select custom sidebar"
+msgstr "Kundenseitenleiste wählen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/custom_metabox/custom-headers.php:25
+#, fuzzy
+msgid "Select header type"
+msgstr "Kopfzeilenformat wählen:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tags.php:10
+msgid "Displays tags list"
+msgstr "Tags Liste zeigen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tags.php:24
+msgid "Tags"
+msgstr "Tags"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tags.php:76
+#: стол/black_sea/inc/widgets/widget-wc-best-sellers.php:201
+#: стол/black_sea/inc/widgets/widget-contacts.php:53
+#: стол/black_sea/inc/widgets/widget_categories.php:115
+#: стол/black_sea/inc/widgets/widget_categories.php:118
+#: стол/black_sea/inc/widgets/widget-audio.php:27
+#: стол/black_sea/inc/widgets/widget-audio.php:150
+#: стол/black_sea/inc/widgets/widget-gallery.php:71
+#: стол/black_sea/inc/widgets/widget-count.php:123
+#: стол/black_sea/inc/widgets/widget-search.php:89
+#: стол/black_sea/inc/widgets/widget-menu.php:77
+#: стол/black_sea/inc/widgets/widget-tabs.php:156
+#: стол/black_sea/inc/widgets/widget-category-news.php:132
+#: стол/black_sea/inc/widgets/widget-flickr.php:90
+#: стол/black_sea/inc/widgets/widget-text.php:51
+#: стол/black_sea/inc/widgets/widget-video.php:27
+#: стол/black_sea/inc/widgets/widget-video.php:151
+#: стол/black_sea/inc/widgets/widget-facebook.php:94
+#: стол/black_sea/inc/widgets/widget-styled-list.php:64
+msgid "Title:"
+msgstr "Titel:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tags.php:80
+msgid "Number tags:"
+msgstr "Tagsanzahl:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-wc-best-sellers.php:29
+msgid "Display a list of your best selling products on your site."
+msgstr "Liste Ihrer best-verkäuflichen Produkte auf Ihrer Website anzeigen. "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-wc-best-sellers.php:31
+msgid "Widget: WooCommerce Best Sellers"
+msgstr "Widget: WooCommerce Bestseller"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-wc-best-sellers.php:69
+msgid "Best Sellers"
+msgstr "Bestseller"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-wc-best-sellers.php:204
+#, fuzzy
+msgid "Number of products to show:"
+msgstr "Beiträgeanzahl:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-wc-best-sellers.php:208
+msgid "Hide free products"
+msgstr "Verstecken freie Produkte"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-contacts.php:8
+#, fuzzy
+msgid "Widget: Contacts block"
+msgstr "Cr: Textblock"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-contacts.php:9
+#, fuzzy
+msgid "Contacts block"
+msgstr "Kontaktseite-Optionen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-vcard.php:17
+msgid "Use this widget to add a vCard"
+msgstr "Benutzen Sie dieses Widget vCard zu addieren"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-vcard.php:19
+#, fuzzy
+msgid "Widget: vCard"
+msgstr "Theme: vCard"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-vcard.php:46
+msgid "vCard"
+msgstr "vCard"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-vcard.php:74
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-vcard.php:75
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget_categories.php:10
+#, fuzzy
+msgid "In one widget"
+msgstr "Login widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget_categories.php:11
+msgid "Widget: Categories + Archives"
+msgstr "Widget: Kategorien + Archiven"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget_categories.php:21
+#: стол/black_sea/inc/widgets/widget_categories.php:118
+#, fuzzy
+msgid "Archives"
+msgstr "Autorarchive:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget_categories.php:40
+#, fuzzy
+msgid "Select Category"
+msgstr "Kategorie wählen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget_categories.php:76
+#, fuzzy
+msgid "Select Month"
+msgstr "Theme-Optionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget_categories.php:123
+#, fuzzy
+msgid "Display as dropdown"
+msgstr "Adresse an der Karte anzeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget_categories.php:126
+msgid "Show post counts"
+msgstr "Beitraganzahl zeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget_categories.php:129
+#, fuzzy
+msgid "Show hierarchy"
+msgstr "Kopfzeile zeigen:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-audio.php:13
+msgid "Include audio with oEmbed"
+msgstr "Fügen Sie Audio mit oEmbed ein"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-audio.php:35
+#: стол/black_sea/inc/widgets/widget-video.php:34
+msgid "Embed URL"
+msgstr "Embed URL"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-audio.php:40
+#: стол/black_sea/inc/widgets/widget-video.php:39
+msgid "Embed width in pixels"
+msgstr "Embed-Breite in Pixel"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-audio.php:154
+#: стол/black_sea/inc/widgets/widget-video.php:155
+msgid "Embed URL:"
+msgstr "Embed URL:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-audio.php:158
+#: стол/black_sea/inc/widgets/widget-video.php:159
+msgid "Embed width:"
+msgstr "Embed-Breite:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-audio.php:162
+#: стол/black_sea/inc/widgets/widget-video.php:163
+msgid "Embed Description:"
+msgstr "Embed-Beschreibung:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-gallery.php:20
+msgid "Random work from portfolio"
+msgstr "Zufallsdarstellung der Portfolios"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-gallery.php:36
+msgid "Random work"
+msgstr "Zufallsdarstellung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-gallery.php:77
+#: стол/black_sea/inc/widgets/widget-facebook.php:107
+msgid "Width(px):"
+msgstr "Breite(px):"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-gallery.php:84
+msgid "Height(px):"
+msgstr "Höhe(px):"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-gallery.php:93
+msgid "Images number:"
+msgstr "Bilderanzahl:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-count.php:10
+#, fuzzy
+msgid "Subscribe to social and rss"
+msgstr "Zeichnen per E-Mail"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-count.php:47
+msgid "followers"
+msgstr "Leser"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-count.php:59
+msgid "fans"
+msgstr "Fans"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-count.php:71
+#, fuzzy
+msgid "subscr."
+msgstr "Zeichner"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-count.php:91
+#, fuzzy
+msgid "Add me to rss"
+msgstr "Mehr geben"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:127
+msgid "View:"
+msgstr "Anzeigen:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:129
+msgid "Extended"
+msgstr "Verlängert"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:130
+msgid "Simple"
+msgstr "Einfache"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:134
+#, fuzzy
+msgid "Subscribe widget title:"
+msgstr "RSS Feed subscribe widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:138
+#, fuzzy
+msgid "Subscribe widget description:"
+msgstr "Embed-Beschreibung:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:142
+msgid "Feedburner Feed Name:"
+msgstr "Feedburner Feed Name:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:146
+msgid "Textbox Label:"
+msgstr "Textbox Label:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:151
+msgid "Open links in a new window"
+msgstr "Link in neuem Fenster öffnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:155
+#, fuzzy
+msgid "Facebook Page URL"
+msgstr "Facebook widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:160
+#, fuzzy
+msgid "Enable Twitter"
+msgstr "Twitter"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-count.php:166
+msgid "Youtube Channel URL"
+msgstr "Youtube Kanal URL"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-tweets.php:16
+msgid "Displays your latest Tweets"
+msgstr "Ihre letzte Tweets anzeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-tweets.php:125
+msgid "Follow me"
+msgstr "folge mich"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-tweets.php:150
+msgid "Read all tweets"
+msgstr "Lesen Sie alle Tweets"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-search.php:9
+msgid "Search widget"
+msgstr "Search Widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-search.php:94
+msgid "Placeholder"
+msgstr "Platzhalter"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-menu.php:6
+msgid "Use this widget to add one of your custom menu as a link list widget."
+msgstr ""
+"Verwenden Sie diese Widget eines Ihrer Custom-Menü als Link Listen Widget "
+"addieren."
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-menu.php:11
+msgid "Center"
+msgstr "Center"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-menu.php:16
+#, fuzzy
+msgid "Widget: Sidebar Menu"
+msgstr "Rechte Seitenleiste"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-menu.php:71
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Keine Menüs wurden erstellt. <a href=\"%s\">Create some</a>."
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-menu.php:81
+#, fuzzy
+msgid "Select Menu:"
+msgstr "Theme-Optionen"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-menu.php:92
+#, fuzzy
+msgid "Menu Direction:"
+msgstr "Embed-Beschreibung:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-news-categories-list.php:14
+#, fuzzy
+msgid "News categories list widget"
+msgstr "Theme: Kategorienliste mit Icons"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-news-categories-list.php:28
+#, fuzzy
+msgid "News categories IDs"
+msgstr "Alle Kategorien"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:16
+#, fuzzy
+msgid "Tabs: Popular posts, Recent Posts, Comments"
+msgstr "Tabbed widget enthaltend Populärbeiträge, und frische Beiträge"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:51
+#: стол/black_sea/inc/widgets/widget-tabs.php:60
+msgid "Popular"
+msgstr "Populär"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:53
+#: стол/black_sea/inc/widgets/widget-tabs.php:58
+msgid "Recent"
+msgstr "Frische"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:161
+msgid "Number of posts:"
+msgstr "Beiträgeanzahl:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:168
+msgid "Select header format:"
+msgstr "Kopfzeilenformat wählen:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:173
+msgid "Popular-Recent"
+msgstr "Populär-Frische"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:175
+msgid "Recent-Popular"
+msgstr "Frische-Populär"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:181
+msgid "Display date or thumb:"
+msgstr "Datum oder Miniatürbild anzeigen:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:185
+msgid "Thumbnail"
+msgstr "Miniatürbild"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:186
+#, fuzzy
+msgid "Post format"
+msgstr "Beitragsinformation"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-tabs.php:193
+#, fuzzy
+msgid "Display read all link:"
+msgstr "Tags Liste zeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:15
+msgid "Cat tabs"
+msgstr "Cat Tabs"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:31
+#, fuzzy
+msgid "First col title"
+msgstr "Titel:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:38
+#, fuzzy
+msgid "First col categories (slugs)"
+msgstr "Kategorienliste"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:45
+msgid "First col posts number"
+msgstr "Erste Spalte Zahl der Planstellen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:54
+#, fuzzy
+msgid "Second col title"
+msgstr "Titelsektion:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:61
+msgid "Second col categories (slugs)"
+msgstr "Zweite Spalte Kategorien (Slugs)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:68
+msgid "Second col posts number"
+msgstr "Zweite Spalte Zahl der Planstellen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:77
+#, fuzzy
+msgid "Third col title"
+msgstr "Titel:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:84
+msgid "Third col categories (slugs)"
+msgstr "Dritten Spalte Kategorien (Slugs)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-cat-tabs.php:91
+msgid "Third col posts number"
+msgstr "Dritten Spalte Zahl der Planstellen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-testimonials.php:15
+#, fuzzy
+msgid "Last Testimonials"
+msgstr "Testimonials"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget.php:225
+msgid "All categories"
+msgstr "Alle Kategorien"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:10
+#, fuzzy
+msgid "Widget: Posts"
+msgstr "Die neuesten Beiträge"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:11
+msgid "Posts from some category"
+msgstr "Beiträge aus einigen Kategorien"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:24
+msgid "Latest articles"
+msgstr "Neueste Beiträge"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:163
+msgid "Order posts"
+msgstr "Beiträge ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:166
+msgid "Descending"
+msgstr "Absteigend"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:167
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:172
+msgid "Order posts by"
+msgstr "Beiträge ordnen nach"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:175
+msgid "No order"
+msgstr "Keine Ordnung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:176
+msgid "Order by post id"
+msgstr "Nach Beitrag id ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:177
+msgid "Order by title"
+msgstr "Nach Titel ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:178
+msgid "Order by post name (post slug)"
+msgstr "Nach Beitragstitel (Beitragsslug) ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:179
+msgid "Order by date"
+msgstr "Nach Datum ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:180
+msgid "Order by last modified date"
+msgstr "Nach zuletzt modifiziertem Datum"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:181
+msgid "Random order"
+msgstr "Zufallsordnung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-category-news.php:182
+msgid "Order by number of comments"
+msgstr "Nach Kommentarzahl ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-recent.php:19
+msgid "Advanced recent posts widget."
+msgstr "Recent Posts Widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-recent.php:32
+#, fuzzy
+msgid "Limit"
+msgstr "Limit:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-recent.php:38
+#, fuzzy
+msgid "Display date"
+msgstr "Datum anzeigen?"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-recent.php:43
+#, fuzzy
+msgid "Display comments"
+msgstr "Exzerpt zeigen?"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-recent.php:48
+#, fuzzy
+msgid "Display author"
+msgstr "Datum anzeigen?"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-recent.php:53
+#, fuzzy
+msgid "Display excerpt"
+msgstr "Exzerpt zeigen?"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-recent.php:58
+#, fuzzy
+msgid "Excerpt length"
+msgstr "Exzerpt-Länge:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-recent.php:63
+#, fuzzy
+msgid "Display thumbnail"
+msgstr "Miniatürbild anzeigen?"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-recent.php:68
+#, fuzzy
+msgid "Limit to category"
+msgstr "Begrenzen zur Kategorie:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-vcard-simple.php:13
+#, fuzzy
+msgid "Simple vCard widget."
+msgstr "VCard widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-vcard-simple.php:26
+#: стол/black_sea/inc/widgets/widget-vcard-simple.php:69
+msgid "Address"
+msgstr "Adresse"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-vcard-simple.php:30
+msgid "Phones"
+msgstr "Handys"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-vcard-simple.php:34
+#, fuzzy
+msgid "Display Email as link"
+msgstr "Tags Liste zeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-vcard-simple.php:74
+msgid "Phone"
+msgstr "Handy"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-login.php:14
+#, fuzzy
+msgid "Login form"
+msgstr "Logo in Fusszeile"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-login.php:41
+#, fuzzy
+msgid "Hide \"Lost password\""
+msgstr "Passwort verloren?"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-login.php:62
+#: стол/black_sea/inc/widgets/widget-login.php:91
+#, fuzzy
+msgid "I lost my password"
+msgstr "Passwort verloren?"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-login.php:99
+#, fuzzy
+msgid "Username"
+msgstr "Benutzername:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-login.php:100
+msgid "Enter your login"
+msgstr "Tippen Sie Ihren Benutzernamen ein "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-login.php:101
+#, fuzzy
+msgid "Password"
+msgstr "Passwort"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-login.php:102
+msgid "Enter your password"
+msgstr "Tippen Sie Ihr Passwort"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-login.php:104
+#, fuzzy
+msgid "Lost password"
+msgstr "Passwort verloren?"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-login.php:105
+msgid "Log In"
+msgstr "Anmelden"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-login.php:122
+msgid "Registration"
+msgstr "Anmeldung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-login.php:154
+msgid "Logout"
+msgstr "Abmelden"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-flickr.php:7
+msgid "Displays your Flickr feed"
+msgstr "Ihr Flickr feed zeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-flickr.php:94
+msgid "ID:"
+msgstr "ID:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-flickr.php:99
+msgid "Number of photos:"
+msgstr "Fotosanzahl:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-text.php:8
+#, fuzzy
+msgid "Widget: Text block"
+msgstr "Cr: Textblock"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-video.php:13
+msgid "Include video with oEmbed"
+msgstr "Fügen Sie Video mit oEmbed ein"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-facebook.php:12
+msgid "Facebook Social widget"
+msgstr "Facebook Social Widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-facebook.php:27
+msgid "Facebook widget"
+msgstr "Facebook widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-facebook.php:100
+msgid "Facebook Name: ( facebook.com/ * Type into field * )"
+msgstr "Facebook Titel: ( facebook.com/ * Type into field * ) "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-facebook.php:116
+msgid "Color scheme:"
+msgstr "Farbenschema:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-facebook.php:131
+msgid "Show stream:"
+msgstr "Strom zeigen:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-facebook.php:145
+msgid "Show faces:"
+msgstr "Gesichter zeigen:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-facebook.php:159
+msgid "Show header:"
+msgstr "Kopfzeile zeigen:"
+
+#: /home/dfd/Рабочий стол/black_sea/inc/widgets/widget-logo.php:13
+#, fuzzy
+msgid "Display site logo."
+msgstr "Adresse an der Karte anzeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-styled-list.php:9
+msgid "List of "
+msgstr "Liste von"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-styled-list.php:55
+msgid "Styled list"
+msgstr "Styled list"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/widgets/widget-styled-list.php:70
+msgid "Items wrapped in: li HTML tags"
+msgstr "Elemente umgewickelt in: li HTML tags"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/inc/shortcodes/wishlist-shortcode.php:9
+#: стол/black_sea/inc/shortcodes/wishlist-shortcode.php:14
+msgid "Wishlist"
+msgstr "Wunschliste"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/best_selling_products.php:33
+msgid "The best offers"
+msgstr "Besten Angebote"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/loop-shop.php:40
+#, fuzzy
+msgid "No products found which match your selection."
+msgstr "Keine Portfolio im Papierkorb gefunden"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:18
+#, fuzzy
+msgid "Reviews"
+msgstr "Neu addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Previous"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:33
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nächste <span class=\"meta-nav\">&rarr;</span>"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:37
+#, fuzzy
+msgid "Add Your Review"
+msgstr "Mehr Files addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:37
+#, fuzzy
+msgid "Add Review"
+msgstr "Neu addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:39
+#, fuzzy
+msgid "Add a review"
+msgstr "Neu addieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:43
+msgid "Be the first to review"
+msgstr "Sei der Erste für die Überprüfung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:45
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+"Bisher gibt es noch keine Bewertung, möchten Ihrer Bewertung <a href="
+"\"#review_form\" class=\"inline show_review_form\">einreichen</a>?"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:63
+#, fuzzy
+msgid "Submit Review"
+msgstr "Ihre E-Mail"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:70
+msgid "Rating"
+msgstr "Wertung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:71
+msgid "Rate&hellip;"
+msgstr "Satz&hellip;"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:72
+msgid "Perfect"
+msgstr "Perfekt"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:73
+msgid "Good"
+msgstr "Gut"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:74
+msgid "Average"
+msgstr "Mittelwert"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:75
+msgid "Not that bad"
+msgstr "Nicht so schlecht"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:76
+msgid "Very Poor"
+msgstr "Sehr schlecht"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product-reviews.php:81
+#, fuzzy
+msgid "Your Review"
+msgstr "Ihre E-Mail"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Leider Auftrag kann nicht bearbeitet werden, als die originierende Bank/"
+"Händler Ihre Bezahlung abgewiesen. "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Bitte versuchen Kauf wieder oder gehen Sie zu Ihrer Kontoseite."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr "Bitte versuchen Kauf wieder."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:28
+msgid "Pay"
+msgstr "Bezahlung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:30
+#, fuzzy
+msgid "My Account"
+msgstr "Mein Account"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:36
+#: стол/black_sea/woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr "Danke. Ihre Bestellung wurde empfangen."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:40
+#, fuzzy
+msgid "Order:"
+msgstr "Beiträge ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:44
+#, fuzzy
+msgid "Date:"
+msgstr "Datum"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr "Summe:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr "Zahlungsmethode:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/form-pay.php:19
+#: стол/black_sea/woocommerce/checkout/review-order.php:21
+#: стол/black_sea/woocommerce/cart/cart.php:31
+#, fuzzy
+msgid "Product"
+msgstr "Custom Tags"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/form-pay.php:20
+#: стол/black_sea/woocommerce/cart/cart.php:103
+msgid "Qty"
+msgstr "Menge"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr "Gesamtbetrag"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/form-pay.php:78
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Entschuldigung, momentan gibt es keine verfügbaren Zahlungsmethoden für "
+"Ihren Lokalisierung. Wünschen Sie Hilfe oder Sie alternativen Vereinbarungen "
+"vornehmen müssen, kontaktieren Sie uns bitte."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/form-pay.php:87
+#, fuzzy
+msgid "Pay for order"
+msgstr "Keine Ordnung"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:22
+#: стол/black_sea/woocommerce/cart/cart.php:34
+#, fuzzy
+msgid "Total"
+msgstr "Untertitel:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:27
+#, fuzzy
+msgid "Cart Subtotal"
+msgstr "Untertitel:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:34
+msgid "Cart Discount"
+msgstr "Warenkorb Rabatt"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:45
+#, fuzzy
+msgid "Shipping"
+msgstr "Shopping cart widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:93
+#, fuzzy
+msgid "Subtotal"
+msgstr "Untertitel:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:113
+msgid "Tax"
+msgstr "Steuer"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:124
+#, fuzzy
+msgid "Order Discount"
+msgstr "Beiträge ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:133
+#, fuzzy
+msgid "Order Total"
+msgstr "Beiträge ordnen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:151
+#, php-format
+msgid "(Includes %s)"
+msgstr "(Enthalten %s)"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:217
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Bitte tragen Sie Ihre Angaben ein für verfügbaren Zahlungsmethoden."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:219
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Entschuldigung, momentan gibt es keine verfügbaren Zahlungsmethoden für "
+"diesen Staat. Wünschen Sie Hilfe oder Sie alternativen Vereinbarungen "
+"vornehmen müssen, kontaktieren Sie uns bitte."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:228
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Da Ihr Browser über kein JavaScript verfügt, oder deaktiviert, bitte klicken "
+"Sie auf die Schaltfläche <em>Summen aktualisieren</em> vor Aufgabe Ihrer "
+"Bestellung. Sie können mehr als die oben genannten, wenn Sie dies nicht tun "
+"angegebenen Menge berechnet."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:228
+#, fuzzy
+msgid "Update totals"
+msgstr "Custom Tag aktualizieren"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:234
+#, fuzzy
+msgid "Place order"
+msgstr "Platzhalter"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:238
+msgid "I have read and accept the"
+msgstr "Ich habe gelesen und akzeptiert "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/review-order.php:238
+msgid "terms &amp; conditions"
+msgstr "Bedingungen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/form-shipping.php:32
+#, fuzzy
+msgid "Ship to billing address?"
+msgstr "Shopping cart widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/form-shipping.php:35
+#, fuzzy
+msgid "Shipping Address"
+msgstr "Shopping cart widget"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/form-shipping.php:59
+#, fuzzy
+msgid "Additional Information"
+msgstr "Theme-Information"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Gibt es einige Probleme mit den Artikel im Warenkorb (oben dargelegt). Bitte "
+"gehen Sie zurück in den Warenkorb Seite und beheben diese Probleme vor dem "
+"Auschecken."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/checkout/cart-errors.php:20
+msgid "&larr; Return To Cart"
+msgstr "&larr;  Wieder zum Warenkorb"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/cart/cart.php:32
+msgid "Price"
+msgstr "Preis"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/cart/cart.php:33
+msgid "Quantity"
+msgstr "Menge"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/cart/cart.php:50
+#, fuzzy
+msgid "Remove this item"
+msgstr "Frische Beiträge"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr "Erhältlich im Lieferrückstand"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/cart/cart.php:130
+msgid "Coupon"
+msgstr "Gutschein"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/cart/cart.php:130
+msgid "Apply Coupon"
+msgstr "Wenden Gutschein "
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/cart/cart.php:137
+#, fuzzy
+msgid "Update Cart"
+msgstr "Custom Tag aktualizieren"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/cart/cart.php:137
+msgid "Proceed to Checkout &rarr;"
+msgstr "Zur Kasse gehen &rarr;"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/cart/shipping-methods.php:32
+msgid "Free"
+msgstr "Kostenlos"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/cart/shipping-methods.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr "Bitte tragen Sie Ihre Angaben ein für verfügbaren Versandarten."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/cart/shipping-methods.php:69
+msgid ""
+"Sorry, it seems that there are no available shipping methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Entschuldigung, momentan gibt es keine verfügbaren Versandarten für diesen "
+"Staat. "
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product/related.php:38
+#, fuzzy
+msgid "Related products"
+msgstr "Verwandten Produkten"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr "Gewicht"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product/product-attributes.php:37
+msgid "Dimensions"
+msgstr "Größe"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr "SKU:"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product/review.php:26
+#, fuzzy, php-format
+msgid "Rated %d out of 5"
+msgstr "Liste von"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product/review.php:27
+#: стол/black_sea/woocommerce/loop/rating.php:22
+#, fuzzy
+msgid "out of 5"
+msgstr "Liste von"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product/review.php:33
+#, fuzzy
+msgid "Your comment is awaiting approval"
+msgstr "Ihr Kommentar wartet auf Moderierung."
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/single-product/review.php:40
+msgid "verified owner"
+msgstr "Verifizierten Benutzer"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/shop/breadcrumb.php:72
+#, fuzzy
+msgid "Products tagged &ldquo;"
+msgstr "Beiträge Tagged \"%s\""
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/shop/breadcrumb.php:100
+#: стол/black_sea/woocommerce/shop/breadcrumb.php:202
+#, fuzzy
+msgid "Search results for &ldquo;"
+msgstr "Suchergebnisse für %s"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/shop/breadcrumb.php:206
+#, fuzzy
+msgid "Posts tagged &ldquo;"
+msgstr "Beiträge Tagged \"%s\""
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/shop/breadcrumb.php:211
+#, fuzzy
+msgid "Author:"
+msgstr "Autorinformation"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/loop/orderby.php:27
+#: стол/black_sea/woocommerce/loop/orderby.php:52
+msgid "Sort by popularity"
+msgstr "Nach Beliebtheit sortieren "
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/loop/orderby.php:30
+#: стол/black_sea/woocommerce/loop/orderby.php:55
+msgid "Sort by newness"
+msgstr "Nach Neuheit sortieren"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/loop/orderby.php:33
+#: стол/black_sea/woocommerce/loop/orderby.php:58
+msgid "Sort by price: low to high"
+msgstr "Nach Preis sortieren: niedrig bis hoch"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/loop/orderby.php:36
+#: стол/black_sea/woocommerce/loop/orderby.php:61
+msgid "Sort by price: high to low"
+msgstr "Nach Preis sortieren: hoch bis niedrig"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/loop/orderby.php:39
+#: стол/black_sea/woocommerce/loop/orderby.php:48
+#, fuzzy
+msgid "Default sorting"
+msgstr "Standarduntertitel"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/loop/rating.php:21
+#, fuzzy, php-format
+msgid "Rated %s out of 5"
+msgstr "Liste von"
+
+#: /home/dfd/Рабочий стол/black_sea/woocommerce/loop/share.php:10
+#, fuzzy
+msgid "Details"
+msgstr "Details zeigen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/loop/add-to-cart.php:18
+#: стол/black_sea/woocommerce/loop/add-to-cart.php:43
+#: стол/black_sea/woocommerce/loop/add-to-cart.php:52
+#, fuzzy
+msgid "Read More"
+msgstr "Mehr lesen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/loop/add-to-cart.php:35
+#, fuzzy
+msgid "Select options"
+msgstr "Hauptoptionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/loop/add-to-cart.php:39
+#, fuzzy
+msgid "View options"
+msgstr "Hauptoptionen"
+
+#: /home/dfd/Рабочий
+#: стол/black_sea/woocommerce/loop/add-to-cart.php:48
+#, fuzzy
+msgid "Add to cart"
+msgstr "Mehr geben"
+
+#~ msgid "Posted by"
+#~ msgstr "Artikel publiziert von %s"
+
+#~ msgid "on"
+#~ msgstr "an"
+
+#~ msgid "Leave a Reply"
+#~ msgstr "Antwort hinterlassen"
+
+#~ msgid "Wrong check code. Please try again</h2>"
+#~ msgstr "Falscher Prüfungscode. Bitte, versuchen Sie später nochmals</h2>"
+
+#~ msgid "Enter your name"
+#~ msgstr "Tippen Sie Ihren Namen"
+
+#~ msgid "Your email"
+#~ msgstr "Ihre E-mail"
+
+#, fuzzy
+#~ msgid "Please answer antispam question"
+#~ msgstr "Tippen Sie Antwort auf der Antispam-Frage ein"
+
+#~ msgid "Send message"
+#~ msgstr "Mitteilung senden"
+
+#~ msgid "<a href=\"%s\">Customize</a>"
+#~ msgstr "<a href=\"%s\">Anpassen</a>"
+
+#~ msgid "Member profession"
+#~ msgstr "Mitgliedsberuf"
+
+#~ msgid "Text that will be displayed under name"
+#~ msgstr "Text, der unter den Titel angezeigt wird"
+
+#~ msgid "Small description"
+#~ msgstr "Kleine Beschreibung"
+
+#, fuzzy
+#~ msgid "Small description for Contacts page"
+#~ msgstr "Kleine Beschreibung fur Kontaktenseite"
+
+#~ msgid "Block with author info / pic"
+#~ msgstr "Block mit Autorinformation/-bild"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Select Image"
+#~ msgstr "Bild wählen"
+
+#~ msgid "Author name"
+#~ msgstr "Autorname"
+
+#~ msgid "Text block with button"
+#~ msgstr "Textblock mit Button"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Title Tag:"
+#~ msgstr "Titel-Tag:"
+
+#~ msgid "Description:"
+#~ msgstr "Beschreibung:"
+
+#~ msgid "Alignment:"
+#~ msgstr "Alignment:"
+
+#~ msgid "Type Icon name"
+#~ msgstr "Tippen Sie Icon Namen!"
+
+#~ msgid "Icon Size:"
+#~ msgstr "Icongrösse:"
+
+#, fuzzy
+#~ msgid "Display posts from category"
+#~ msgstr "Beiträge aus einigen Kategorien anzeigen"
+
+#~ msgid "Display Gallery thumbnails"
+#~ msgstr "Galerieminiatürbilder anzeigen"
+
+#~ msgid "Number of columns"
+#~ msgstr "Spaltenzahl"
+
+#~ msgid "1 column"
+#~ msgstr "1 Spalte"
+
+#~ msgid "3 columns"
+#~ msgstr "3 Spalte"
+
+#~ msgid "4 columns"
+#~ msgstr "4 Spalte"
+
+#~ msgid "Box: Recent from portfolio"
+#~ msgstr "Box: Frische aus dem Portfolio"
+
+#~ msgid "Must be placed in 1 column row "
+#~ msgstr "Muss in einer Spalte/ Zeile gesetzt sein"
+
+#, fuzzy
+#~ msgid "Recent projects"
+#~ msgstr "Frische Beiträge"
+
+#~ msgid "Grid of 4 tiles"
+#~ msgstr "Gitter von 4 Fliesen"
+
+#, fuzzy
+#~ msgid "Hover Background Color"
+#~ msgstr "Fusszeilenhintergrundfarbe"
+
+#, fuzzy
+#~ msgid "Block with charts display"
+#~ msgstr "Block mit Featured Elementen"
+
+#, fuzzy
+#~ msgid "Percent"
+#~ msgstr "Frische"
+
+#~ msgid "Large"
+#~ msgstr "Groß"
+
+#, fuzzy
+#~ msgid "Display clients / partners logos"
+#~ msgstr "Kunden-/ Partnerlogo anzeigen"
+
+#, fuzzy
+#~ msgid "Partners list"
+#~ msgstr "Partnerlogo-Block"
+
+#~ msgid "Link for details page"
+#~ msgstr "Link für Detailseite"
+
+#, fuzzy
+#~ msgid "Limit number of items"
+#~ msgstr "Beiträgezahl"
+
+#, fuzzy
+#~ msgid "Block with image on top"
+#~ msgstr "Block mit Icon"
+
+#~ msgid "Block with icon"
+#~ msgstr "Block mit Icon"
+
+#, fuzzy
+#~ msgid "Icon alignment"
+#~ msgstr "Textausrichtung"
+
+#~ msgid "Align left"
+#~ msgstr "Links azusrichten"
+
+#, fuzzy
+#~ msgid "Align top"
+#~ msgstr "Links azusrichten"
+
+#, fuzzy
+#~ msgid "Box: 3 posts from category"
+#~ msgstr "Box: 4 Beiträge aus Kategorie"
+
+#~ msgid "Box: 4 posts from category"
+#~ msgstr "Box: 4 Beiträge aus Kategorie"
+
+#~ msgid "Display address on map"
+#~ msgstr "Adresse an der Karte anzeigen"
+
+#~ msgid "On map"
+#~ msgstr "Auf der Karte"
+
+#~ msgid "My slills widget"
+#~ msgstr "Mein Skills widget"
+
+#~ msgid "My skills"
+#~ msgstr "Meine Skills"
+
+#~ msgid "Skill"
+#~ msgstr "Skill"
+
+#~ msgid "Skill percent"
+#~ msgstr "Skill-Prozent"
+
+#~ msgid "Box: Posts"
+#~ msgstr "Box: Posten"
+
+#, fuzzy
+#~ msgid "Box align"
+#~ msgstr "Textausrichtung"
+
+#~ msgid "Vertical"
+#~ msgstr "Vertikal"
+
+#, fuzzy
+#~ msgid "Box: Posts list 1"
+#~ msgstr "EigenschaftsBlock"
+
+#~ msgid "Posts list with right image"
+#~ msgstr "Posten Liste mit rechte Bild"
+
+#, fuzzy
+#~ msgid "Box: Posts list 2"
+#~ msgstr "EigenschaftsBlock"
+
+#~ msgid "Light post list"
+#~ msgstr "Licht Posten Liste"
+
+#~ msgid "Post carousel"
+#~ msgstr "Posten-Karussell"
+
+#, fuzzy
+#~ msgid "latest portfolio items + description "
+#~ msgstr "3 neueste Portolio Elemente + Beschreibung"
+
+#~ msgid "Any shortcode can be added here"
+#~ msgstr "Man kann einen Kurzcode hier addieren"
+
+#~ msgid "Shortcode"
+#~ msgstr "Kurzcode"
+
+#, fuzzy
+#~ msgid "Start point label"
+#~ msgstr "Button-Label:"
+
+#~ msgid "Finish point label"
+#~ msgstr "Schluss Labelpunkt"
+
+#, fuzzy
+#~ msgid "Skill subtitle"
+#~ msgstr "Untertitel:"
+
+#, fuzzy
+#~ msgid "Skill align"
+#~ msgstr "Skill"
+
+#, fuzzy
+#~ msgid "Top"
+#~ msgstr "Zu:"
+
+#~ msgid "Bottom"
+#~ msgstr "Unterseite"
+
+#~ msgid "Display sticky articles from some category"
+#~ msgstr "Angeschlossene Beiträge aus einigen Kategorien anzeigen"
+
+#, fuzzy
+#~ msgid "Block with team member  pic/info"
+#~ msgstr "Block mit Autorinformation/-bild"
+
+#, fuzzy
+#~ msgid "Google+ link"
+#~ msgstr "Google +"
+
+#~ msgid "Display clients / partners testimonials"
+#~ msgstr "Kunden-/Partnergutachten anzeigen"
+
+#, fuzzy
+#~ msgid "Timeline posts list"
+#~ msgstr "Einzelbeiträge-Layout"
+
+#~ msgid "Recent instagram items + autor info"
+#~ msgstr "Instagram benutzten Objekte + Autoren-Info"
+
+#, fuzzy
+#~ msgid "Instagram"
+#~ msgstr "Instagram Link"
+
+#~ msgid "Logotype text"
+#~ msgstr "Logotext"
+
+#~ msgid "If you do not use logo image - you can type text here"
+#~ msgstr "Wenn Sie kein Logobild benutzen, können Sie Text hier tippen"
+
+#~ msgid "Select what type of logo you want."
+#~ msgstr "Wählen Sie den gewünschten Logostil."
+
+#~ msgid "Top panel Options"
+#~ msgstr "Toppaneloptionen"
+
+#~ msgid "Display top panel"
+#~ msgstr "Toppanel anzeigen"
+
+#~ msgid "Enable or disable top slidin"
+#~ msgstr "Topsliding aktivieren oder deaktivieren"
+
+#~ msgid "Display login panel"
+#~ msgstr "Login-Panel anzeigen"
+
+#~ msgid "Enable or disable login form"
+#~ msgstr "Loginform aktivieren oder deaktivieren"
+
+#~ msgid "Icon for panel text"
+#~ msgstr "Icon für den Paneltext"
+
+#~ msgid "You can select icon here"
+#~ msgstr "Sie können ein Icon hier hinaufladen"
+
+#~ msgid "Title of right column"
+#~ msgstr "Titel der rechten Spalte"
+
+#~ msgid "Text for top panel"
+#~ msgstr "Toppaneltext"
+
+#~ msgid "Text, that will displayed in top panel"
+#~ msgstr "Text, der an dem Toppanel angezeigt wird"
+
+#~ msgid "Items Sorting"
+#~ msgstr "ElementenSortierung"
+
+#~ msgid ""
+#~ "Disable or enable items sort on portfolio page templates that allow that"
+#~ msgstr ""
+#~ "ElementenSortierung aktivieren oder deaktivieren auf den Portfolio Page "
+#~ "Schablonen, die es erlauben"
+
+#~ msgid "Date in portfolio"
+#~ msgstr "Datum in Portfolio"
+
+#~ msgid "Featured image"
+#~ msgstr "Beitragsbild"
+
+#~ msgid "Display featured image on inner page?"
+#~ msgstr "Beitragsbild auf der Innerseite anzeigen?"
+
+#~ msgid "Portfolio Images sort"
+#~ msgstr "Portfolio Bilder sortieren"
+
+#~ msgid "Sort images on portfolio single page"
+#~ msgstr "Bilder auf der Portfolio Single Seite sortieren"
+
+#~ msgid "Portfolio Images order"
+#~ msgstr "Portfolio Bilder ordnen"
+
+#~ msgid "Order images on portfolio single page"
+#~ msgstr "Bilder auf der Portfolio Single Seite sortieren"
+
+#~ msgid "Menu items width:"
+#~ msgstr "Menüpunkte Breite:"
+
+#~ msgid ""
+#~ "If selected \"Static\" - menu element will be 16% width. \"Fluid\" option "
+#~ "- elements will depend on menu item text length"
+#~ msgstr ""
+#~ "Wenn ausgewählt \"Statisch\" - die Breite der Menü Element wird16%. "
+#~ "\"Beweglich\" option - Elemente werden auf den Menüpunkt Textlänge "
+#~ "abhängig"
+
+#~ msgid "Margin between menu items"
+#~ msgstr "Margin zwischen den Menüpunkten"
+
+#, fuzzy
+#~ msgid "in pixels"
+#~ msgstr "Embed-Breite in Pixel"
+
+#~ msgid "Color of inactive or hovered elements"
+#~ msgstr "Farbe der inactiven und Hover-Elemente"
+
+#~ msgid "<p class=\"description\">Not Boxed site options</p>"
+#~ msgstr "<p class=\"description\">Vollbreite Website Optionen</p>"
+
+#~ msgid "Form address"
+#~ msgstr "Adressenform"
+
+#~ msgid "Type the antispam question"
+#~ msgstr "Tippen Sie Antispam-Frage ein"
+
+#~ msgid "Antispam question will protect you from spamers"
+#~ msgstr "Antispamfrage wird Sie gegen Spammers schützen"
+
+#~ msgid "Type the answer for antispam question"
+#~ msgstr "Tippen Sie Antwort auf der Antispam-Frage ein"
+
+#, fuzzy
+#~ msgid "Additional form description"
+#~ msgstr "Theme-Information"
+
+#, fuzzy
+#~ msgid "Will be displayed under contact form"
+#~ msgstr "Text, der unter den Titel angezeigt wird"
+
+#, fuzzy
+#~ msgid "Post author"
+#~ msgstr "Über Autor-Block"
+
+#~ msgid "Post tags: "
+#~ msgstr "Posten Tags"
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "% Kommentare"
+
+#, fuzzy
+#~ msgid "Follow us:"
+#~ msgstr "folge mich"
+
+#~ msgid "Your cart is currently empty."
+#~ msgstr "Ihr Warenkorb ist derzeit leer. "
+
+#~ msgid "&larr; Return To Shop"
+#~ msgstr "&larr; Zurück zum Shop"
+
+#~ msgid "You may be interested in&hellip;"
+#~ msgstr "Sie können im &hellip; interessiert "
+
+#, fuzzy
+#~ msgid "No products in the cart."
+#~ msgstr "Keine Portfolio im Papierkorb gefunden"
+
+#~ msgid "View Cart &rarr;"
+#~ msgstr "Warenkorb anzeigen &rarr;"
+
+#~ msgid "Checkout &rarr;"
+#~ msgstr "Auschecken &rarr;"
+
+#~ msgid "Calculate Shipping"
+#~ msgstr "Versandkosten berechnen "
+
+#, fuzzy
+#~ msgid "Select a country&hellip;"
+#~ msgstr "Farbe wählen"
+
+#~ msgid "State / county"
+#~ msgstr "Staat / Land"
+
+#~ msgid "Select a state&hellip;"
+#~ msgstr "Staat wählen&hellip;"
+
+#~ msgid "Postcode / Zip"
+#~ msgstr "Postleitzahl / Zip"
+
+#, fuzzy
+#~ msgid "Postcode"
+#~ msgstr "Kurzcode"
+
+#, fuzzy
+#~ msgid "Update Totals"
+#~ msgstr "Custom Tag aktualizieren"
+
+#~ msgid "Cart Totals"
+#~ msgstr "Warenkorb Summen"
+
+#, fuzzy
+#~ msgid "[Remove]"
+#~ msgstr "Entfernen"
+
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr "(Steuern werden für %s)"
+
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr ""
+#~ "Anmerkung: Verschiffung und Steuern geschätzt%s und werden nur während "
+#~ "des Bezahl aktualisiert, basierend auf der Rechnungs- und "
+#~ "Lieferinformationen."
+
+#~ msgid ""
+#~ "No shipping methods were found; please recalculate your shipping and "
+#~ "enter your state/county and zip/postcode to ensure there are no other "
+#~ "available methods for your location."
+#~ msgstr ""
+#~ "Wurde bisher kein Bericht Versandauftrag gefunden; Bitte Neuberechnen "
+#~ "dieser Versandauftrag und geben Sie die Eingabe den Staat/Landes und "
+#~ "Postleitzahl/Zip. "
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no available shipping methods for your "
+#~ "location (%s)."
+#~ msgstr ""
+#~ "Entschuldigung, momentan gibt es keine verfügbaren Versandarten für Ihren "
+#~ "Lokalisierung (%s)."
+
+#~ msgid ""
+#~ "If you require assistance or wish to make alternate arrangements please "
+#~ "contact us."
+#~ msgstr ""
+#~ "Wünschen Sie Hilfe oder Sie alternativen Vereinbarungen vornehmen müssen, "
+#~ "kontaktieren Sie uns bitte."
+
+#~ msgid "Billing &amp; Shipping"
+#~ msgstr "Rechnungsschreibung &amp; Verschiffung"
+
+#, fuzzy
+#~ msgid "Billing Address"
+#~ msgstr "Shopping cart widget"
+
+#~ msgid "Create an account?"
+#~ msgstr "Konto erstellen?"
+
+#~ msgid ""
+#~ "Create an account by entering the information below. If you are a "
+#~ "returning customer please login at the top of the page."
+#~ msgstr ""
+#~ "Bitte füllen Sie dafür die Information unten ein. Wenn Sie bereits bei "
+#~ "uns Kunde sind, können Sie sich hier anmelden."
+
+#, fuzzy
+#~ msgid "You must be logged in to checkout."
+#~ msgstr ""
+#~ "Sie müssen<a href=\"%s\">angemeldet sein</a> Kommentar zu hinterlassen."
+
+#, fuzzy
+#~ msgid "Your order"
+#~ msgstr "Keine Ordnung"
+
+#, fuzzy
+#~ msgid "Have a coupon?"
+#~ msgstr "Kommentar hinterlassen"
+
+#~ msgid "Click here to enter your code"
+#~ msgstr "Um Ihren Code einzugeben, klicken Sie bitte hier. "
+
+#~ msgid "Coupon code"
+#~ msgstr "Gutschein-Code"
+
+#~ msgid "Returning customer?"
+#~ msgstr "Bestandskunden?"
+
+#, fuzzy
+#~ msgid "Click here to login"
+#~ msgstr "Flickr link"
+
+#~ msgid ""
+#~ "If you have shopped with us before, please enter your details in the "
+#~ "boxes below. If you are a new customer please proceed to the Billing "
+#~ "&amp; Shipping section."
+#~ msgstr ""
+#~ "Wenn Sie bei uns eingekauft vor, geben Sie bitte Ihre Daten in den "
+#~ "Feldern unterhalb. Wenn Sie ein neuer Kunde sind, gehen Sie zu Abrechnung "
+#~ "&amp; Verschiffung Abschnitt bitte."
+
+#~ msgid "Sort by:"
+#~ msgstr "Sortieren nach:"
+
+#, fuzzy
+#~ msgid "Product Description"
+#~ msgstr "Beschreibung"
+
+#~ msgid "New Testimonial"
+#~ msgstr "Neues Testimonial"
+
+#~ msgid "All Testimonials"
+#~ msgstr "Alle Testimonials"
+
+#~ msgid "View Testimonial"
+#~ msgstr "Testimonial ansehen"
+
+#~ msgid "No testimonial found"
+#~ msgstr "Kein Testimonial gefunden"
+
+#~ msgid "No testimonial found in the Trash"
+#~ msgstr "Kein Testimonial im Papierkorb gefunden"
+
+#~ msgid "Clients / Partners"
+#~ msgstr "Kunden/ Partner"
+
+#~ msgid "Add New Client / Partner"
+#~ msgstr "Neuen Kunden/ Partner addieren"
+
+#~ msgid "Edit Client / Partner"
+#~ msgstr "Kunden/ Partner redigieren"
+
+#~ msgid "New Client / Partner"
+#~ msgstr "Neuer Kunde/ Partner"
+
+#~ msgid "All Clients / Partners"
+#~ msgstr "Alle Kunden/ Partner"
+
+#~ msgid "View Client / Partner"
+#~ msgstr "Kunden/ Partner ansehen"
+
+#~ msgid "Search Client / Partner"
+#~ msgstr "Kunden/ Partner suchen"
+
+#~ msgid "No Client / Partner found"
+#~ msgstr "Keine Kunden/ Partner gefunden"
+
+#~ msgid "No Client / Partner found in the Trash"
+#~ msgstr "Keine Kunden/ Partner im Papierkorb gefunden"
+
+#~ msgid "Features"
+#~ msgstr "Eigenschaften"
+
+#~ msgid "Feature"
+#~ msgstr "Eigenschaft"
+
+#~ msgid "Add New Feature"
+#~ msgstr "Neue Eigenschaft addieren"
+
+#~ msgid "Edit Feature"
+#~ msgstr "Eigenschaft redigieren"
+
+#~ msgid "New Feature"
+#~ msgstr "Neue Eigenschaft"
+
+#~ msgid "All Features"
+#~ msgstr "Alle Eigenschaften"
+
+#~ msgid "View Feature"
+#~ msgstr "Eigenschaft ansehen"
+
+#~ msgid "Search Feature"
+#~ msgstr "Eigenschaft suchen"
+
+#~ msgid "No Feature found"
+#~ msgstr "Keine Eigenschaft gefunden"
+
+#~ msgid "No Feature found in the Trash"
+#~ msgstr "Keine Eigenschaft im Papierkorb gefunden"
+
+#~ msgid "Galleries"
+#~ msgstr "Galerien"
+
+#~ msgid "Gallery"
+#~ msgstr "Galerie"
+
+#~ msgid "Edit Gallery"
+#~ msgstr "Galerie redigieren"
+
+#~ msgid "New Gallery"
+#~ msgstr "Neue Galerie"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Galerie suchen"
+
+#~ msgid "No Gallery found"
+#~ msgstr "Keine Galerie gefunden"
+
+#~ msgid "No Gallery found in the Trash"
+#~ msgstr "Keine Galerie im Papierkorb gefunden"
+
+#~ msgid "Crumina Mega Menu"
+#~ msgstr "Crumina Megamenu"
+
+#~ msgid "Category icon"
+#~ msgstr "Kategorienicon"
+
+#~ msgid "Cannot delete file. Something's wrong."
+#~ msgstr "File kann nicht gelöscht werden. Fehler geschehen. "
+
+#~ msgid "Add"
+#~ msgstr "Addieren"
+
+#~ msgid "Uploaded files"
+#~ msgstr "Hinaufgeladene Files"
+
+#~ msgid "Upload new files"
+#~ msgstr "Neue Files hinaufladen"
+
+#~ msgid "Add more files"
+#~ msgstr "Mehr Files addieren"
+
+#~ msgid "Text block 1"
+#~ msgstr "Textblock 1"
+
+#~ msgid "Text block 2"
+#~ msgstr "Textblock 2"
+
+#~ msgid "Box: Vertical tab"
+#~ msgstr "Box: Vertikaler Tab"
+
+#~ msgid "Vertical tabs block"
+#~ msgstr "Vertikaltabs-Block"
+
+#~ msgid "Boxes from \"Features\" section"
+#~ msgstr "Boxes aus der \"Features\" Sektion"
+
+#~ msgid "Align center"
+#~ msgstr "Zentral ausrichten"
+
+#~ msgid "every line - list element"
+#~ msgstr "Jede Linie - Element der Liste"
+
+#~ msgid "Box: Galleries"
+#~ msgstr "Box: Galerien"
+
+#~ msgid "Display Galleries thumbnails"
+#~ msgstr "Galerieminiatürbilder anzeigen"
+
+#~ msgid "Select news alignment"
+#~ msgstr "News-Alignment wählen"
+
+#~ msgid "Display news/articles from some category"
+#~ msgstr "News/ Beiträge aus einigen Kategorien anzeigen"
+
+#~ msgid "Horizontal slide"
+#~ msgstr "Horizontal Slide"
+
+#~ msgid "Enable"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Disable"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "Post row with desc."
+#~ msgstr "Beitragsreihe mit Beschreibung"
+
+#~ msgid "Icon name:"
+#~ msgstr "Iconname"
+
+#~ msgid "Continue"
+#~ msgstr "Fortfahren"
+
+#~ msgid "Subscribe"
+#~ msgstr "Zeichnen"
+
+#~ msgid "Subscribers"
+#~ msgstr "Zeichner"
+
+#~ msgid "To RSS Feed"
+#~ msgstr "Zu RSS Feed"
+
+#~ msgid "OR Choose the Post Type: "
+#~ msgstr "Oder einen Beitragstyp auswählen:"
+
+#~ msgid "Search widget with subtitle"
+#~ msgstr "Widget mit Untertitel suchen"
+
+#~ msgid ""
+#~ "Displays a form for users to subscribe to your Feedburner feed via email"
+#~ msgstr ""
+#~ "Zeigt Form für Benutzerzeichnung zu Ihrem Feedburner feed per E-Mail"
+
+#~ msgid "Join Us"
+#~ msgstr "Machen Sie mit"
+
+#~ msgid ""
+#~ "By subscribing to our mailing list you will always be update with the "
+#~ "latest news from us."
+#~ msgstr ""
+#~ "Wenn Sie sich zu unserer Mailing Liste zeichnen, werden Sie immer frische "
+#~ "Nachrichten von uns bekommen."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Tippen Sie Ihre E-Mail Adresse ein"
+
+#~ msgid "Popular limit (days):"
+#~ msgstr "Populärfrist (Tage):"
+
+#~ msgid "Web"
+#~ msgstr "Web"
+
+#~ msgid "Cr: Categories with icons"
+#~ msgstr "Cr: Kategorien mit Icons"
+
+#~ msgid "Blog categories"
+#~ msgstr "Blogkategorien"
+
+#~ msgid ""
+#~ "<p>This text is displayed above the options panel. It isn't required, but "
+#~ "more info is always better! The intro_text field accepts all HTML.</p>"
+#~ msgstr ""
+#~ "<p>Dieser Text ist über Optionen-Panel gezeigt. Er ist nicht benötigt, "
+#~ "aber mehr Info ist immer besser! Das intro_text Feld akzeptiert alle HTML."
+#~ "</p>"
+
+#~ msgid ""
+#~ "<p>This text is displayed below the options panel. It isn't required, but "
+#~ "more info is always better! The footer_text field accepts all HTML.</p>"
+#~ msgstr ""
+#~ "<p>Dieser Text ist unter Optionen-Panel gezeigt. Er ist nicht benötigt, "
+#~ "aber mehr Info ist immer besser! Das footer_text Feld akzeptiert alle "
+#~ "HTML.</p>"
+
+#~ msgid "Follow me on Twitter"
+#~ msgstr "Folge mich in Twitter"
+
+#~ msgid "Find me on LinkedIn"
+#~ msgstr "Finde mich in LinkedIn"
+
+#~ msgid "Theme Information 1"
+#~ msgstr "Themeninformation 1"
+
+#~ msgid "<p>This is the tab content, HTML is allowed.</p>"
+#~ msgstr "<p>Das ist Tab-Inhalt, HTML ist ermöglicht.</p>"
+
+#~ msgid "Theme Information 2"
+#~ msgstr "Themeninformation 2"
+
+#~ msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+#~ msgstr "<p>Das ist Seitenleisteninhalt, HTML ist ermöglicht.</p>"
+
+#~ msgid "Facebook icon"
+#~ msgstr "Facebook Icon"
+
+#~ msgid "Type icon name here"
+#~ msgstr "Tippen Sie Icon Namen hier"
+
+#~ msgid "Twitter icon"
+#~ msgstr "Twitter Icon"
+
+#~ msgid "Instagram icon"
+#~ msgstr "Instagram Icon"
+
+#~ msgid "Vimeo icon"
+#~ msgstr "Vimeo Icon"
+
+#~ msgid "LastFM icon"
+#~ msgstr "Last FM Icon"
+
+#~ msgid "Vkontakte icon"
+#~ msgstr "Vkontakte Icon"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Deviantart"
+#~ msgstr "Deviantart"
+
+#~ msgid "Picasa"
+#~ msgstr "Picasa"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "WP icon"
+#~ msgstr "WP Icon"
+
+#~ msgid "Dropbox"
+#~ msgstr "Dropbox"
+
+#~ msgid "RSS icon"
+#~ msgstr "RSS Icon"
+
+#~ msgid "Select format for posts displaying"
+#~ msgstr "Wählen Sie ein Format der Beiträgeanzeigen"
+
+#~ msgid "Links in author info"
+#~ msgstr "Links in der Autorinformation"
+
+#~ msgid "Enable or disable additional links in author box"
+#~ msgstr ""
+#~ "Zusätzliche Links in der Autorinformation aktivieren oder deaktivieren"
+
+#~ msgid "Icons customization"
+#~ msgstr "Iconsanpassung"
+
+#~ msgid "Default widget icon"
+#~ msgstr "Standart Widget Icon"
+
+#~ msgid "Recent posts widget"
+#~ msgstr "Recent Posts Widget"
+
+#~ msgid "Recent from portfolio block"
+#~ msgstr "Frische von dem Portfolioblock"
+
+#~ msgid "News from category block"
+#~ msgstr "Nachrichten aus dem Kategorienblock "
+
+#~ msgid "Horizontal Tabs block"
+#~ msgstr "Horizontal Tabs block"
+
+#~ msgid "Styled list widget"
+#~ msgstr "Styled list widget"
+
+#~ msgid "Testimonial block"
+#~ msgstr "Testimonial-Block"
+
+#~ msgid "Flickr widget"
+#~ msgstr "Flickr widget"
+
+#~ msgid "Text widget"
+#~ msgstr "Text widget"
+
+#~ msgid "Tags widget"
+#~ msgstr "Tags widget"
+
+#~ msgid "Tabs-posts widget"
+#~ msgstr "Tabs-posts widget"
+
+#~ msgid "From portfolio widget"
+#~ msgstr "Aus dem Portfolio widget"
+
+#~ msgid "Twitter widget"
+#~ msgstr "Twitter widget"
+
+#~ msgid "Category widget"
+#~ msgstr "Kategorie widget"
+
+#~ msgid "oEmbed widget"
+#~ msgstr "oEmbed widget"
+
+#~ msgid "Galleries block"
+#~ msgstr "Galerienblock"
+
+#~ msgid "My skills block"
+#~ msgstr "My skills Block"
+
+#~ msgid "Shortcode block"
+#~ msgstr "Shortcode-Block"
+
+#~ msgid "Features list block"
+#~ msgstr "Features list Block"
+
+#~ msgid "Shopping cart widget"
+#~ msgstr "Shopping cart widget"
+
+#~ msgid "Accordion block"
+#~ msgstr "Accordion block"
+
+#~ msgid "Map block"
+#~ msgstr "Mapblock"
+
+#~ msgid "<p class=\"description\">Other settings</p>"
+#~ msgstr "<p class=\"description\">Andere Einstellungen</p>"
+
+#~ msgid "All posts"
+#~ msgstr "Alle Beiträge"
+
+#~ msgid "Says"
+#~ msgstr "Sagt"
+
+#~ msgid "<cite class=\"fn\">%s "
+#~ msgstr "<cite class=\"fn\">%s "
+
+#~ msgid " (required)"
+#~ msgstr " (gefordert)"
+
+#~ msgid "Welcome"
+#~ msgstr "Willkommen"
+
+#~ msgid "Type your email!"
+#~ msgstr "Tippen Sie Ihre E-Mail!"
+
+#, fuzzy
+#~ msgid "Email is incorect"
+#~ msgstr "Falsche Emailadresse "
+
+#~ msgid "Type the subject!"
+#~ msgstr "Tippen Sie das Thema!"
+
+#~ msgid "Type the message!"
+#~ msgstr "Tippen Sie die Mitteilung!"
+
+#~ msgid "Type the answer!"
+#~ msgstr "Tippen Sie die Antwort!"
+
+#~ msgid "Wrong  answer!"
+#~ msgstr "Falsche Antwort!"
+
+#~ msgid "A Section added by hook"
+#~ msgstr "A Section added by hook"
+
+#~ msgid ""
+#~ "<p class=\"description\">This is a section created by adding a filter to "
+#~ "the sections array, great to allow child themes, to add/remove sections "
+#~ "from the options.</p>"
+#~ msgstr ""
+#~ "<p class=\"description\">Diese Sektion wurde durch zu dem Sektionsarray "
+#~ "Filteraddieren  erstellt. Sie ist wunderbar die Childthemes zu erlauben, "
+#~ "die Sektionen aus den Optionen zu addieren/entfernen.</p>"
+
+#~ msgid ""
+#~ "<p>Panel to configure theme options. If you have any questions or "
+#~ "suggestions, please write on our forum <a href=\"http://support.crumina."
+#~ "net\"/>support.crumina.net</a></p>"
+#~ msgstr ""
+#~ "<p>Themenoptionenkonfigurationspanel. Wenn Sie Fragen oder Vorschläge "
+#~ "haben, melden Sie darüber, bitte, auf unserem Forum <a href=\"http://"
+#~ "support.crumina.net\"/>support.crumina.net</a></p>"
+
+#~ msgid "Crumina Theme Options panel"
+#~ msgstr "Crumina Theme-Optionenpanel"
+
+#~ msgid "Responsive mode"
+#~ msgstr "Responsive mode"
+
+#~ msgid "Enable or disable Responsive CSS"
+#~ msgstr "Responsive CSS aktivieren oder deaktivieren"
+
+#~ msgid "Subtitle top panel"
+#~ msgstr "Toppaneluntertitel"
+
+#, fuzzy
+#~ msgid "Subtitle of right column"
+#~ msgstr "Untertitel der rechten Spalte"
+
+#~ msgid "Dribble link"
+#~ msgstr "Dribble link"
+
+#~ msgid "Microsoft ID"
+#~ msgstr "Microsoft ID"
+
+#~ msgid "Sorting items"
+#~ msgstr "Portfoliosortierung"
+
+#~ msgid "Portfolio columns"
+#~ msgstr "Portfoliospalten"
+
+#~ msgid "Portfolio style"
+#~ msgstr "Portfoliostil"
+
+#~ msgid "Square"
+#~ msgstr "quadratisch"
+
+#~ msgid "Round"
+#~ msgstr "rund"
+
+#~ msgid "Unlimited sidebars"
+#~ msgstr "Unbegrenzte Seitenleisten"
+
+#~ msgid "<p class=\"description\">Add or delete your own sidebars</p>"
+#~ msgstr ""
+#~ "<p class=\"description\">Ihre Seitenleisten hinzufugen oder löschen</p>"
+
+#~ msgid "You may create a custom sidebar to be displayed on a single page."
+#~ msgstr ""
+#~ "Sie konnen eine Custom-Seitenleiste erstellen um auf der Einzelseite zu "
+#~ "zeigen."
+
+#~ msgid "Site color version"
+#~ msgstr "Websitefarbeversion"
+
+#~ msgid "Main menu alignment"
+#~ msgstr "Hauptmenu-Alignment"
+
+#~ msgid "Text on top"
+#~ msgstr "Text oben"
+
+#~ msgid "This is the description field, again good for additional info."
+#~ msgstr "Das ist Beschreibungsfeld, z.B. fur zusätzliche Information."
+
+#~ msgid "Adress in contact page"
+#~ msgstr "Adresse auf der Kontaktsseite"
+
+#~ msgid "In Hours"
+#~ msgstr "In Stunden"
+
+#~ msgid "News row box"
+#~ msgstr "News row box"
+
+#~ msgid "Typography"
+#~ msgstr "Typographie"
+
+#~ msgid "Body main font size"
+#~ msgstr "Body-Hauptschriftgröße"
+
+#~ msgid "Body main font color"
+#~ msgstr "Body-Hauptschriftfarbe"
+
+#~ msgid "Select font color."
+#~ msgstr "Wählen Sie eine Schriftfarbe aus."
+
+#~ msgid "H1 elements style"
+#~ msgstr "H1 Elementsstil"
+
+#~ msgid "H1 elements color"
+#~ msgstr "H1 Elementsfarbe"
+
+#~ msgid "Click on field to choose color"
+#~ msgstr "Klicken Sie aufs Feld eine Farbe zu wählen"
+
+#~ msgid "H2 elements style"
+#~ msgstr "H2 Elementsstil"
+
+#~ msgid "H2 elements color"
+#~ msgstr "H2 Elementsfarbe"
+
+#~ msgid "H3 elements style"
+#~ msgstr "H3 Elementsstil"
+
+#~ msgid "H3 elements color"
+#~ msgstr "H3 Elementsfarbe"
+
+#~ msgid "H4 elements style"
+#~ msgstr "H4 Elementsstil"
+
+#~ msgid "H4 elements color"
+#~ msgstr "H4 Elementsfarbe"
+
+#~ msgid "H5 elements style"
+#~ msgstr "H5 Elementsstil"
+
+#~ msgid "H5 elements color"
+#~ msgstr "H5 Elementsfarbe"
+
+#~ msgid "H6 elements style"
+#~ msgstr "H6 Elementsstil"
+
+#~ msgid "H6 elements color"
+#~ msgstr "H6 Elementsfarbe"
+
+#~ msgid "Browse"
+#~ msgstr "Hinaufladen"
+
+#~ msgid "Continue reading &#187;"
+#~ msgstr "Lesen fortfahren &#187;"
+
+#~ msgid "Custom Types"
+#~ msgstr "Kundenarten"
+
+#~ msgid "Custom Post"
+#~ msgstr "Kundenbeitrag"
+
+#~ msgid "Add New Custom Type"
+#~ msgstr "eine neue Kundenart addieren"
+
+#~ msgid "Edit"
+#~ msgstr "Redigieren"
+
+#~ msgid "Edit Post Types"
+#~ msgstr "Beitragsarten redigieren"
+
+#~ msgid "New Post Type"
+#~ msgstr "Neu Beitragsart"
+
+#~ msgid "View Post Type"
+#~ msgstr "Beitragsart ansehen"
+
+#~ msgid "Nothing found in the Database."
+#~ msgstr "In Datenbank wurde nichts gefunden."
+
+#~ msgid "Nothing found in Trash"
+#~ msgstr "Im Papierkorb wurde nichts gefunden"
+
+#~ msgid "This is the example custom post type"
+#~ msgstr "Das ist eine Beispielskundenbeitragsart"
+
+#~ msgid "Custom Categories"
+#~ msgstr "Kundenkategorien"
+
+#~ msgid "Custom Category"
+#~ msgstr "Kundenkategorie"
+
+#~ msgid "Search Custom Categories"
+#~ msgstr "Kundenkategorien suchen"
+
+#~ msgid "All Custom Categories"
+#~ msgstr "Alle Kundenkategorien"
+
+#~ msgid "Parent Custom Category"
+#~ msgstr "Elternkundenkategorie"
+
+#~ msgid "Parent Custom Category:"
+#~ msgstr "Elternkundenkategorie:"
+
+#~ msgid "Update Custom Category"
+#~ msgstr "Kundenkategorie aktualizieren"
+
+#~ msgid "Add New Custom Category"
+#~ msgstr "eine neue Kundenkategorie addieren"
+
+#~ msgid "New Custom Category Name"
+#~ msgstr "Neue Kundenkategorienname "
+
+#~ msgid "Custom Tags"
+#~ msgstr "Custom Tags"
+
+#~ msgid "Custom Tag"
+#~ msgstr "Custom Tag"
+
+#~ msgid "Search Custom Tags"
+#~ msgstr "Custom Tags suchen"
+
+#~ msgid "All Custom Tags"
+#~ msgstr "Alle Custom Tags"
+
+#~ msgid "Parent Custom Tag"
+#~ msgstr "Eltern Custom Tag"
+
+#~ msgid "Parent Custom Tag:"
+#~ msgstr "Eltern Custom Tags:"
+
+#~ msgid "Edit Custom Tag"
+#~ msgstr "Custom Tags redigieren"
+
+#~ msgid "Add New Custom Tag"
+#~ msgstr "einen neuen Custom Tag addieren"
+
+#~ msgid "New Custom Tag Name"
+#~ msgstr "Ein neuer Custom Tag-Name"
+
+#~ msgid "Box: Clickable promo block"
+#~ msgstr "Box: Promoblock zum Klicken"
+
+#~ msgid "Promo block with link itself"
+#~ msgstr "Promoblock als der Link"
+
+#~ msgid "Hover image"
+#~ msgstr "Hoverbild"
+
+#~ msgid "Text block with title + desc + butt"
+#~ msgstr "Textblock mit Titel + Beschreibung + Button"
+
+#~ msgid "Button URL:"
+#~ msgstr "Button URL:"
+
+#~ msgid "Button Height:"
+#~ msgstr "Buttonhöhe:"
+
+#~ msgid "Button Width:"
+#~ msgstr "Buttonbreite:"
+
+#, fuzzy
+#~ msgid "Button Font Size:"
+#~ msgstr "Button-Schriftgröße:"
+
+#~ msgid "Display Features with icons"
+#~ msgstr "Eigenschaften mit Icons anzeigen"
+
+#~ msgid "Display news/articles row from some category"
+#~ msgstr "News-/ Beiträgezeilen aus einigen Kategorien anzeigen"
+
+#~ msgid "Title for Tab:"
+#~ msgstr "Titel für Tab:"
+
+#~ msgid "Content for Tab:"
+#~ msgstr "Tab-Inhalt"
+
+#~ msgid "A list of categories, with slightly tweaked output."
+#~ msgstr "Kategorienliste mit geändertem Inhalt."
+
+#~ msgid "Theme: Recent Posts"
+#~ msgstr "Theme: Recent Posts"
+
+#~ msgid "Display stiky articles from some category"
+#~ msgstr "Angeschlossene Beiträge aus einigen Kategorien anzeigen"
+
+#~ msgid "Tags block with subtitle"
+#~ msgstr "Tags-Block mit Untertitel"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Visual"
+#~ msgstr "Visuell"
+
+#~ msgid ""
+#~ "Displays arbritrary text of HTML just like the standard Text widget, but "
+#~ "this one does not include the header bar and wrapper style - just a blank "
+#~ "canvas for content"
+#~ msgstr ""
+#~ "Displays arbritrary text of HTML just like the standard Text widget, but "
+#~ "this one does not include the header bar and wrapper style - just a blank "
+#~ "canvas for content"
+
+#~ msgid "Text/HTML"
+#~ msgstr "Text/HTML"
+
+#, fuzzy
+#~ msgid "Text block with tiltle + desc + butt"
+#~ msgstr "Textblock mit Titel + Beschreibung + Button"
+
+#~ msgid "<h2>Thank you for your message!</h2>"
+#~ msgstr "<h2>Danke für Ihre Mitteilung!</h2>"
+
+#~ msgid "<h2>Unknown error, during message sending.</h2>"
+#~ msgstr "<h2>Unbekannter Fehler während Mitteilungsenden.</h2>"
+
+#~ msgid "<h2>Wrong answer for the question!</h2>"
+#~ msgstr "<h2>Falsche Antwort auf die Frage!</h2>"
+
+#~ msgid "E-mail"
+#~ msgstr "E-Mail"
+
+#~ msgid "Topic:"
+#~ msgstr "Thema:"
+
+#, fuzzy
+#~ msgid "E-mail:"
+#~ msgstr "E-Mail"
+
+#~ msgid "Anti-spam question:"
+#~ msgstr "Antispam-Frage:"
+
+#~ msgid "Cool Facebook Widget"
+#~ msgstr "Cool Facebook Widget"
+
+#~ msgid "Border color:"
+#~ msgstr "Ränderfarbe:"
+
+#~ msgid "Cr: Tabbed Widget"
+#~ msgstr "Cr: Tabbed Widget"
+
+#~ msgid "Date & Thumb"
+#~ msgstr "Datum & Miniatürbild"
+
+#~ msgid "full page"
+#~ msgstr "Ganze Seite"
+
+#~ msgid "%1$s"
+#~ msgstr "%1$s"
+
+#~ msgid "Press ENTER to login"
+#~ msgstr "Klicken Sie ENTER zu anmelden"
+
+#~ msgid "%s ago"
+#~ msgstr "vor %s "
+
+#~ msgid "Y/m/d"
+#~ msgstr "Y/m/d"
+
+#, fuzzy
+#~ msgid "You can access your account area here: %s."
+#~ msgstr "Soe können Ihr eigenes Icon hier hinaufladen"
+
+#, fuzzy
+#~ msgid "Username: %s"
+#~ msgstr "Benutzername:"
+
+#, fuzzy
+#~ msgid "Order date: %s"
+#~ msgstr "Nach Datum ordnen"
+
+#, fuzzy
+#~ msgid "Email:"
+#~ msgstr "E-Mail:"
+
+#, fuzzy
+#~ msgid "Enter a new password below."
+#~ msgstr "Tippen Sie Ihr Passwort ein"
+
+#, fuzzy
+#~ msgid "Download file%s"
+#~ msgstr "Hinaufgeladene Files"
+
+#, fuzzy
+#~ msgid "Choose an option"
+#~ msgstr "Kontaktseite-Optionen"
+
+#, fuzzy
+#~ msgid "WooCommerce crum Cart"
+#~ msgstr "WooCommerce Login"
+
+#~ msgid "Display a login area and \"My Account\" links in the sidebar."
+#~ msgstr ""
+#~ "Login-Fläche und \"My Account\" Links in der Seitenleiste anzeigen. "
+
+#~ msgid "WooCommerce Login"
+#~ msgstr "WooCommerce Login"
+
+#~ msgid "Customer Login"
+#~ msgstr "Kundenlogin"
+
+#~ msgid "Welcome %s"
+#~ msgstr "Willkommen %s"
+
+#~ msgid "Change my password"
+#~ msgstr "Mein Passwort ändern"
+
+#, fuzzy
+#~ msgid "WooCommerce Product Tags"
+#~ msgstr "WooCommerce Login"
+
+#~ msgid "Username or email"
+#~ msgstr "Benutzername und E-Mail"
+
+#~ msgid "Login &rarr;"
+#~ msgstr "Login &rarr;"
+
+#~ msgid "Logged out title:"
+#~ msgstr "Abmeldungstitel:"
+
+#~ msgid "Logged in title:"
+#~ msgstr "Anmeldungstitel:"
+
+#~ msgid "Latest tweets"
+#~ msgstr "Letzte Tweets"
+
+#~ msgid "seconds"
+#~ msgstr "Sekunden"

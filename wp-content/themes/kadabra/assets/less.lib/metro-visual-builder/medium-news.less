@@ -1,0 +1,47 @@
+/* -----------------------------------------
+   Mini news block
+----------------------------------------- */
+@medium-news-entry-meta-height: 20px;
+
+article.medium-news {
+	
+	div.entry-thumb {
+		margin-bottom: 15px;
+	}
+	
+	.box-name {
+		margin-bottom: 10px;
+	}
+	
+	.text-center, .text-right {
+		> .entry-meta {
+			.inline-block();
+			margin-bottom: 0;
+		}
+	}
+	
+	.entry-meta {
+		height: @recent-post-entry-meta-height;
+		margin-bottom: 20px;
+		padding: 0px;
+		
+		> * {
+			height: @recent-post-entry-meta-height;
+			line-height: @recent-post-entry-meta-height;
+		}
+		
+		.delim {
+			@delim-gutter-width: 10px;
+			
+			.rel();
+			height: @recent-post-entry-meta-height;
+			padding-right: @delim-gutter-width;
+			margin-right: @delim-gutter-width;
+		}
+		
+		.entry-comments {
+			padding-left: 15px;
+		}
+		
+	}
+}

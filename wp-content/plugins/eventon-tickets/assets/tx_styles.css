@@ -1,0 +1,315 @@
+/**
+ * Event Ticket styles
+ * @version 0.2
+ */
+
+/* cart notification */
+	.evoTX_wc.loading{
+		position: relative;
+		opacity: 0.5;
+	}
+	.evoTX_wc.loading:before{
+		content:"";
+		background: url(evo-loader.gif) center center no-repeat;
+		position: absolute;
+		top: 0; left: 0;
+		width: 100%;
+		height: 100%;		
+	}
+	.evoTX_wc.loading .tx_single{opacity: 0.3}
+
+	.evo_metarow_tix .tx_wc_notic{
+		padding: 10px 20px;
+		margin-left: -15px;	
+		margin-right: -15px;	
+		background-color: #abbba1;
+		margin-top: 15px;
+		margin-bottom: -15px;
+	}
+	.evo_metarow_tix.lastrow .tx_wc_notic{margin-right: 0;}
+	.evo_metarow_tix .tx_wc_notic p{
+		font-size: 16px; padding: 0;
+		min-height: 36px;
+		margin: 0;		
+	}
+	.evo_metarow_tix .tx_wc_notic p span{
+		float: left;
+		color: #fff; padding-top: 8px;
+		font-size: 16px;
+	}
+	.evo_metarow_tix .tx_wc_notic p b{
+		position: relative;
+		display: inline-block;
+		vertical-align: top;
+		margin-right: 12px;
+		width: 33px;
+		height: 33px;
+		border: 2px solid #fff;
+		border-radius: 50%;
+		float: left;
+	}
+	.evo_metarow_tix .tx_wc_notic p b:before{
+		content: '';
+		display: block;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin: -5px 0 0 -6px;
+		height: 4px;
+		width: 8px;
+		border: solid #fff;
+		border-width: 0 0 4px 4px;
+		-webkit-transform: rotate(-45deg);
+		-moz-transform: rotate(-45deg);
+		-ms-transform: rotate(-45deg);
+		-o-transform: rotate(-45deg);
+		transform: rotate(-45deg);
+		box-sizing:content-box;
+	}
+	
+
+	.evo_metarow_tix .tx_wc_notic p em{clear: both;}
+	.tx_wc_notic a.evcal_btn{
+		float: right;
+		margin-left: 5px;
+		margin-top: 0;
+	}
+	
+	#evcal_widget #evcal_list .eventon_list_event .tx_wc_notic p a{
+		float:none; margin-left: 0;
+		margin-right: 5px;
+		margin-top: 8px;
+		font-size: 12px;
+	}
+	#evcal_widget .evo_metarow_tix .tx_wc_notic p span{
+		display: block;	float: none;	
+		font-size: 14px;
+	}
+	#evcal_widget .evo_metarow_tix .tx_wc_notic{
+		padding-bottom: 20px;
+		text-align: center;
+	}
+	
+	/* smaller screens */
+	@media (max-width: 600px){
+		.evo_metarow_tix .tx_wc_notic p b{
+			float: none;
+		}
+		.evo_metarow_tix .tx_wc_notic p span{
+			display: block;	float: none;
+			font-size: 14px;
+		}
+		.evo_metarow_tix .tx_wc_notic p a{float: none;
+			margin-left: 0px; margin-right: 3px;
+		}
+		.evo_metarow_tix .tx_wc_notic{
+			padding: 20px;
+			text-align: center;
+		}
+	}
+
+/* event top add to cart buttons */
+	#evcal_list .eventon_list_event .evcal_desc .evotx_add_to_cart em{
+		font: bold 14px arial;
+		display: inline-block;
+		padding: 8px 12px!important;
+		margin-top: 4px;
+		text-transform: uppercase;
+		text-decoration: none;
+		border-radius: 4px;
+		border-bottom: none;
+		font-style: normal;
+		color: #ffffff;
+		background: #237ebd;
+	}
+
+/* event card event ticket image section */
+	.evoTX_wc.tximg .evotx_image, .evoTX_wc.tximg .evoTX_wc_section{
+		width: 50%;
+		float: left;
+		display: block;
+	}
+	.evoTX_wc.tximg .evotx_image img{
+		width: 100%; height: auto;
+	}
+	.evoTX_wc.tximg .clear{clear: both;}
+	
+	#evcal_list .evoTX_wc.tximg table.variations tr{
+		position: relative;
+	}
+	#evcal_list .evoTX_wc.tximg table.variations td.label{
+		display: block;
+		position: absolute;
+	}
+	#evcal_list .evoTX_wc.tximg table.variations td.label label{
+		font-family: 'open sans',georgia;
+		font-style: italic;
+	}
+	#evcal_list .evoTX_wc.tximg table.variations td.value{
+		padding-top: 40px; position: relative;
+	}
+	#evcal_list .evoTX_wc.tximg table.variations td.value a.reset_variations{
+		clear: both;
+		display: block;
+		padding-left: 0;
+		color: #6b6b6b;
+		font-size: 12px;
+	}
+	#evcal_list .evoTX_wc.tximg table.variations td.value a.reset_variations:hover{opacity: 0.5}
+
+	.single_variation_wrap.evotx_orderonline_add_cart .variations_button, .evotx_orderonline_add_cart .single_variation{
+		border-top: 1px dashed #b8b8b8;
+		padding-top: 8px;
+		padding-bottom: 8px;
+		margin-right: 20px;
+	}
+	.single_variation_wrap.evotx_orderonline_add_cart .variations_button{padding-top: 14px;}
+	.single_variation_wrap.evotx_orderonline_add_cart .single_variation p{
+		padding: 0 0 5px;
+		margin: 0;
+	}
+	.single_variation_wrap.evotx_orderonline_add_cart .single_variation .amount{
+		font-weight: bold;
+		font-style: normal;
+	}
+	#evcal_list .eventon_list_event .evcal_eventcard p.evotx_caption{
+		text-align: center;
+		padding: 8px 0 0px;
+		margin: 0;
+	}
+
+	@media (max-width: 480px){
+		.evoTX_wc.tximg .evotx_image, .evoTX_wc.tximg .evoTX_wc_section{
+			width: 100%;
+			float: none;
+			display: block;
+		}
+		.evoTX_wc.tximg .evotx_image{
+			padding-top: 20px;
+		}
+	}
+
+/* inqury section */
+	.evotx_inquery{padding-top: 10px;}
+	.evotx_inquery .evotxINQ_box{
+		padding: 15px;
+		border-radius: 5px;
+		margin-top: 8px;
+		background-color: rgba(0, 0, 0, 0.07);
+	}
+	.evotx_inquery .evotxINQ_box p{padding: 0;margin: 0; padding-bottom: 5px;}
+	.evotx_inquery .evotxINQ_box label{
+		display: block;
+	}
+	.evotx_inquery .evotxINQ_box input, .evotx_inquery .evotxINQ_box textarea{
+		box-sizing:border-box;
+		width: 100%;
+		font-family: arial;
+		border-radius: 5px;
+		border:2px solid #CDCDCD;
+		color: #141412;
+	}
+	.evotx_inquery .evotxINQ_msg{	text-align: center;		}
+	#evcal_list .evotx_inquery .evotxINQ_msg p, .evo_pop_body .evcal_evdata_row .evotxINQ_msg p{
+		padding: 0;margin: 0;
+		font-size: 16px;
+		font-style: normal;
+	}
+	.evotx_inquery .evotxINQ_msg em{
+		position: relative;
+		  display: inline-block;
+		  vertical-align: top;
+		  margin-right: 12px;
+		  width: 33px;
+		  height: 33px;
+		  border: 2px solid #fff;
+		  border-radius: 50%;
+		  margin-bottom: 10px;
+	}
+	.evotx_inquery .evotxINQ_msg em:before{
+		content: '';
+		  display: block;
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  margin: -5px 0 0 -6px;
+		  height: 4px;
+		  width: 8px;
+		  border: solid #fff;
+		  border-width: 0 0 4px 4px;
+		  -webkit-transform: rotate(-45deg);
+		  -moz-transform: rotate(-45deg);
+		  -ms-transform: rotate(-45deg);
+		  -o-transform: rotate(-45deg);
+		  transform: rotate(-45deg);
+	}
+	.evotxINQ_box .evotxINQ_form.loading{
+		opacity: 0.4; position: relative;
+	}
+	.evotxINQ_box .evotxINQ_form.loading:before{
+		content:"";
+		background: url(evo-loader.gif) center center no-repeat;
+		position: absolute;
+		top: 0; left: 0;
+		width: 100%;
+		height: 100%;		
+	}
+
+/* general */
+	.eventon_events_list .eventon_list_event .event_description p.evotx_remaining{
+		padding: 5px 0; margin: 0;
+	}
+
+	.evoTX_wc .tx_price_line {font-size: 18px!important;}
+	.evoTX_wc .tx_price_line{margin-bottom: 5px;}
+	.evoTX_wc .quantity{
+		float: left;
+		margin-right: 10px;
+	}
+	.evoTX_wc .quantity input{
+		border: 2px solid #b7b7b7;
+		font-family: inherit;
+		padding: 5px;
+		font-size: 100%;
+		margin: 0;
+		max-width: 70px;
+		vertical-align: baseline;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	.evoTX_wc .variations_button .quantity input, .evoTX_wc .tx_single .tx_orderonline_add_cart .quantity input{
+		border-radius:5px;padding: 4px;
+	}
+	.evoTX_wc table.variations td, .evoTX_wc table.variations{
+		border:none;
+	}
+	.evoTX_wc table.variations td.value select{
+		border-radius:5px; padding: 4px;
+	}
+	.evoTX_wc .evcal_bnt{
+		float: left;
+		border-bottom: none;
+		padding: 10px;
+		line-height: 100%;
+	}
+	#evcal_list .eventon_list_event .evoTX_wc .evcal_btn, .evo_pop_body .evoTX_wc .evcal_btn{
+		border:none;
+		margin-top: 0px;
+		cursor: pointer;
+	}
+	.evoTX_wc .quantity input[type='button'] {
+		display: none;
+	}
+
+
+/* add to cart buttons and variable item form */
+	#evcal_list .evo_metarow_tix .evoTX_wc .evotx_price_line{font-size: 18px;margin-bottom: 5px;}
+	#evcal_list .evo_metarow_tix .evoTX_wc{padding-top: 10px;}
+	#evcal_list .evo_metarow_tix .evoTX_wc table.variations{font-size: 16px; margin-bottom: 0px;}
+	#evcal_list .evo_metarow_tix .evoTX_wc table.variations .reset_variations{padding-left: 10px;font-style: italic;}
+	#evcal_list .evo_metarow_tix .evoTX_wc .evotx_orderonline_add_cart .single_variation{
+		font-size: 20px; font-style: italic;
+		color:#656565;
+		font-family:'open sans',georgia
+	}

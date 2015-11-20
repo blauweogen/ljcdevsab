@@ -1,0 +1,105 @@
+Tickets (TX) addon for EventON Plugin
+====================================
+v 1.1.8 (2015-8-31)
+FIXED: Compatibility with Woocommerce version 2.4+
+FIXED: Non-ticket products showing in tickets email
+FIXED: Redirect to cart not working
+FIXED: all events columns not showing correct woo active items
+FIXED: Sales price not working
+FIXED: Missing language translations in ticket email
+FIXED: ticket holder contact info missing in ticket email
+
+v 1.1.7 (2015-8-5)
+FIXED: variable products add to cart on fullcal and dailyview not working
+FIXED: () showing on ticket when SKU is empty
+FIXED: View attendees not working
+FIXED: All events on wp-admin showing woocommerce status wrong
+
+v 1.1.6 (2015-5-20)
+UPDATED: compatibility to eventon 2.3.2
+
+v 1.1.5 (2015-4-2)
+FIXED: Checkout and view cart text translations mixup
+FIXED: Missing translation in tickets view page
+FIXED: Missing ticket section in my accounts page
+
+v 1.1.4 (2015-3-30)
+ADDED: Missing shopping cart translations
+FIXED: End time not showing correct in event ticket
+FIXED: illegal string offset ticket on confirmation email
+
+v 1.1.3 (2015-2-19)
+ADDED: Ability to resend ticket email from ticket and order edit pages
+FIXED: Not sending ticket emails as a guest
+
+v 1.1.2(2015-2-16)
+FIXED: error on sending emails
+FIXED: removed unsupported new event tickets button on wp-admin
+
+v1.1.1 (2015-2-13)
+FIXED: Time of events in tickets error
+FIXED: Ticket image not able to delete from event edit page
+FIXED: Not sending ticket emails
+
+v1.1 (2015-2-10)
+ADDED: Ability to not send ticket emails to customer
+ADDED: Settings link to plugins page
+ADDED: Repeating event ticket capacity management
+ADDED: POT file support for backend text
+ADDED: Ability to copy and customize ticket email
+ADDED: support for event ticket image & caption
+ADDED: Event featured image be copied to woocommerce product
+ADDED: Ability to sort orders in wp-admin by ticket order or not
+ADDED: Ability for customers to inquire questions before buying
+ADDED: All event tickets to show event time in cart
+FIXED: Order notes dissapearance 
+FIXED: view attendees not showing all the attendees
+FIXED: Ticket product to be saved as virtual product
+FIXED: Not to send ticket email for guest order checkouts
+FIXED: Variable tickets not getting added to cart
+FIXED: Correct variable item variations not adding to cart
+FIXED: remaining ticket count be integer
+FIXED: Not to emails for non ticket orders
+UPDATED: Add to cart code solving minor bugs
+UPDATED: New cooler loading icon
+
+v1.0.2 (2014-11-5)
+FIXED: Non repeating events showing incorrect event date on order information
+
+v1.0.1 (2014-10-23)
+FIXED: Minor string offset error
+
+v1.0 (2014-10-21)
+ADDED: Compatibility with our new QR code checkin addon
+ADDED: Edit event button to corresponding WC product edit page
+ADDED: SKU to ticket product title
+ADDED: Ability to check in each ticket for multiple people party
+ADDED: Ability to search tickets by number in wp-admin tickets section
+ADDED: Manage ticket out of stock straight from event edit page
+ADDED: Ability to show tickets to only loggedin users
+ADDED: You can now send confirmation ticket email again to customer
+ADDED: Remining ticket count to show only after certain number
+ADDED: Style color customization for notification bar items
+FIXED: Repeating events to show correct date when added to cart
+FIXED: Price text translation not working
+FIXED: Ticket title to have event date in case multiple events with same title
+FIXED: Orders without logged in customers not recording their names for ticket sale
+FIXED: Redirect to cart option for after adding to cart
+FIXED: Out of stock not showing right
+FIXED: Styles for widget add to cart notification message & responsive styles
+FIXED: Orders over 10 not showing correct quantity
+FIXED: Show remaining not saving as NO
+FIXED: Sold individually items not getting added to cart 
+
+v 0.3 (2014-9-18)
+FIXED: Widget add to cart notification style fix
+FIXED: Add to cart button not working correct for some items
+FIXED: Addon initial check and eventon 2.2.18 up compatibility
+
+v 0.2 (2014-9-4)
+FIXED: Woocommerce installed check not working correct for some
+FIXED: Duplicate events not creating correct event ticket woo product
+FIXED: Remaining tickets still shows when stock status is out of stock
+
+v 0.1 (2014-6-24)
+Initial release

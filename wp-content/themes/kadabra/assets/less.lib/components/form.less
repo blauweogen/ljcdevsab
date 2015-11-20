@@ -1,0 +1,44 @@
+input[type="text"], 
+input[type="password"], 
+input[type="date"], 
+input[type="datetime"], 
+input[type="email"],
+input[type="number"], 
+input[type="search"], 
+input[type="tel"], 
+input[type="time"], 
+input[type="url"], 
+textarea {
+    background-color: @forth-site-light-color;
+    border: 1px solid @third-light-site-light-color;
+    color: #7E8385;
+    padding: 7px 15px 7px;
+    width: 100%;
+    display: block;
+    font-size: 14px;
+    height: 50px;
+    margin: 0 0 13px;
+	
+	&:focus { 
+		background: #fafafa; 
+		border-color: #b3b3b3; 
+	}
+}
+
+input[type="text"][disabled], 
+input[type="password"][disabled], 
+input[type="date"][disabled], 
+input[type="datetime"][disabled], 
+input[type="email"][disabled], 
+input[type="number"][disabled], 
+input[type="search"][disabled], 
+input[type="tel"][disabled], 
+input[type="time"][disabled], 
+input[type="url"][disabled], 
+textarea[disabled] { 
+	background-color: #ddd; 
+}
+
+textarea {
+	height: auto;
+}

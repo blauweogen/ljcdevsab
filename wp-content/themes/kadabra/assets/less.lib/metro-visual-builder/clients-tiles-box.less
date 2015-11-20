@@ -1,0 +1,44 @@
+.clients_tiles_module {
+	
+	.columns {
+		.rel();
+		height: 140px;
+		display: table;
+		padding: 4px;
+		
+		.client-tile {
+			text-align: center;
+			display: table-cell;
+			vertical-align: middle;
+			padding: 20px 0;
+		}
+		.clients-tooltip {
+			.abs();
+			top: 0;
+			left: 0;
+			opacity: 0;
+			z-index: -3;
+			display: block;
+			background: #3d3d3d;
+			color: @white-dark;
+			white-space: nowrap;
+			overflow: hidden;
+			padding: 5px 10px;
+			font-size: 12px;
+			.transition(~"opacity .3s ease-in-out, background-color .3s ease-out");
+		}
+		
+		&:last-child {
+			float: left;
+		}
+		
+		.client-tile img {
+			.transition(opacity 0.2s ease-in-out);
+			.opacity(1);
+		}
+		
+		&:hover .client-tile img {
+			.opacity(0.4);
+		}
+	}
+}

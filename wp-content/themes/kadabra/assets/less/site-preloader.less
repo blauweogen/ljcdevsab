@@ -1,0 +1,44 @@
+#qLoverlay { width: 100%; height: 100%; background-color: rgb(255, 255, 255); position: fixed; z-index: 666999; top: 0px; left: 0px; opacity: 1; font-size: 100px; }
+#qLoverlay #qLpercentage { font-weight: 100; opacity: 0.4; height: 1em; width: 100%; position: absolute; font-size: 1em; top: 50%; left: 50%; text-align: center; margin-left: -50%; color: #545454; }
+#qLlogo_container { width:100%; height: 100%; }
+#qLlogo_container img { position: relative; left: 50%; -webkit-transform: translateX(-50%); -moz-transform: translateX(-50%); -o-transform: translateX(-50%); transform: translateX(-50%); top: 40%; opacity: 0.4; -moz-transition: translateX(-50%); -o-transition: translateX(-50%); transition: translateX(-50%); }
+
+
+#qLbar_wrap {
+	position: relative;
+	margin: 0 auto;
+	top: 50%;
+}
+
+#qLbar_wrap_label {
+	position: relative;
+	top: 50%;
+	
+	padding-top: 20px;
+	font-size: 15px;
+	font-weight: 300;
+	text-align: center;
+}
+
+#qLbar_wrap img {
+	max-width: none;
+}
+
+#qLbar_wrap #qLbar,
+#qLbar_wrap #qLbar_bg,
+#qLbar_wrap img
+{
+	position: absolute;
+	top: 0; bottom: 0;
+	left: 0;
+}
+
+#qLbar_wrap #qLbar {
+	overflow: hidden;
+	z-index: 10;
+}
+
+#qLbar_wrap #qLbar_bg {
+	right: 0;
+	z-index: 2;
+}

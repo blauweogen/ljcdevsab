@@ -1,0 +1,56 @@
+a.read-more {
+	@padding-x: 40px;
+	@shift: 10px;
+	@speed: .2s;
+	
+	.rel();
+	left: 0;
+	z-index: 1;
+	.inline-block();
+	
+	margin-top: 10px;
+	padding: 10px 40px;
+	
+	border: 1px solid @border-color;
+	
+	color: @read-more-color;
+	font-size: 12px;
+	font-family: @font-titles;
+	
+	> span {
+		.rel();
+		z-index: 1;
+		left: 0;
+		.transition(left @speed ease-in-out);
+	}
+	
+	@after-init: 10px;
+	&:after {
+		content: "\e607";
+		font-family: "streamline-30px";
+		.abs();
+		z-index: -1;
+		.inline-block();
+		top: 10px;
+		right: @padding-x - @after-init;
+		
+		.opacity(0);
+		.transition(~"right @{speed} ease-in-out, opacity @{speed} ease-in-out");
+	}
+	
+	&:hover > span {
+		left: -(@shift);
+	}
+	
+	&:hover:after {
+		right: @padding-x - (@after-init + @shift);
+		.opacity(1);
+	}
+	
+	
+}
+
+.project .read-more {
+	margin-top: 0px;
+	margin-bottom: 10px;
+}

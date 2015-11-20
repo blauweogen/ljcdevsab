@@ -1,0 +1,11 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">my-product</custom-type>
+		<custom-type translate="1">layerslider</custom-type>
+		<custom-type translate="1">revslider</custom-type>
+		<custom-type translate="1">timeline</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">my-product_category</taxonomy>
+	</taxonomies>
+</wpml-config>
