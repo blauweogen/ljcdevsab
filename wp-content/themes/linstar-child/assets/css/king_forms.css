@@ -1,0 +1,852 @@
+
+/*Form*/
+/**/
+/* defaults */
+/**/
+.king-form {
+	margin: 0;
+	outline: none;
+	font: 14px/1.55 'Open Sans', Helvetica, Arial, sans-serif;
+	color: #272727;
+}
+.king-form header {
+	display: block;
+	padding: 0px 0px 9px 0px;
+	margin-bottom: 13px;
+	font-size: 22px;
+	font-weight: normal;
+	color: #272727;
+	border-bottom: 1px solid #e3e3e3;
+	font-family: 'Raleway', sans-serif;
+}
+.king-form header strong {
+	font-weight: 600;
+}
+
+.king-form fieldset {
+	display: block;	
+	padding: 0px 0px 5px;
+	border: none;
+	background: none;
+}
+.king-form fieldset + fieldset {
+	border-top: 1px solid rgba(0,0,0,.1);
+}
+.king-form section {
+	margin-bottom: 20px;
+}
+.king-form footer {
+	display: block;
+	padding: 15px 0px 25px;
+}
+.king-form footer:after {
+	content: '';
+	display: table;
+	clear: both;
+}
+.king-form a {
+	color: #999;
+}
+.king-form .label {
+	display: block;
+	margin-bottom: 6px;
+	line-height: 19px;
+	font-weight: 400;
+}
+.king-form .label.col {
+	margin: 0;
+	padding-top: 10px;
+}
+.king-form .note {
+	margin-top: 6px;
+	padding: 0 1px;
+	font-size: 11px;
+	line-height: 15px;
+	color: #999;
+}
+.king-form .input,
+.king-form .select,
+.king-form .textarea,
+.king-form .radio,
+.king-form .checkbox,
+.king-form .toggle,
+.king-form .button {
+	position: relative;
+	display: block;
+}
+.king-form .button {
+	float: left;
+	height: 39px;
+	overflow: hidden;
+	margin: 10px 0 0 0px;
+	padding: 0 25px;
+	outline: none;
+	font: 400 14px/39px 'Open Sans', Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	color: #fff;
+	cursor: pointer;
+	background: #9eca45;
+	border: 1px solid #9eca45;
+	opacity: 0.9;
+}
+.king-form .input input,
+.king-form .select select,
+.king-form .textarea textarea {
+	display: block;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	width: 100%;
+	height: 39px;
+	padding: 8px 10px;
+	outline: none;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 0;
+	background: #fff;
+	font: 15px/19px 'Open Sans', Helvetica, Arial, sans-serif;
+	color: #404040;
+	appearance: normal;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+}
+.king-form .progress {
+	float: right;
+	margin-top: 10px;
+	line-height: 39px;
+	color: #232323;
+}
+
+
+/**/
+/* file inputs */
+/**/
+.king-form .input-file .button {
+	position: absolute;
+	top: 4px;
+	right: 4px;
+	float: none;
+	height: 31px;
+	margin: 0;
+	padding: 0 20px;
+	font-size: 13px;
+	line-height: 31px;
+}
+.king-form .input-file .button:hover {
+	box-shadow: none;
+}
+.king-form .input-file .button input {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 0;
+	font-size: 30px;
+	cursor: pointer;
+	opacity: 0;
+}
+body .king-form input[type="checkbox"]{
+	width: auto;
+	height: auto;
+}
+
+/**/
+/* selects */
+/**/
+.king-form .select-multiple select {
+	height: auto;
+}
+
+
+/**/
+/* textareas */
+/**/
+.king-form .textarea textarea {
+	height: auto !important;
+	resize: none;
+}
+.king-form .textarea-resizable textarea {
+	resize: vertical;	
+}
+.king-form .textarea-expandable textarea {
+	height: 39px;
+}
+.king-form .textarea-expandable textarea:focus {
+	height: auto;
+}
+
+
+/**/
+/* radios and checkboxes */
+/**/
+.king-form .radio,
+.king-form .checkbox {
+	margin-bottom: 4px;
+	padding-left: 27px;
+	font-size: 15px;
+	line-height: 27px;
+	color: #404040;
+	cursor: pointer;
+}
+.king-form .radio:last-child,
+.king-form .checkbox:last-child {
+	margin-bottom: 0;
+}
+.king-form .radio input,
+.king-form .checkbox input {
+	margin-top: 8px;
+}
+.king-form .inline-group {
+	margin: 0 -30px -4px 0;
+}
+.king-form .inline-group:after {
+	content: '';
+	display: table;
+	clear: both;
+}
+.king-form .inline-group .radio,
+.king-form .inline-group .checkbox {
+	float: left;
+	margin-right: 30px;
+}
+.king-form .inline-group .radio:last-child,
+.king-form .inline-group .checkbox:last-child {
+	margin-bottom: 4px;
+}
+.king-form .btn{
+	border-radius: 0px;
+}	
+.king-form *, .king-form *:after, .king-form *:before {
+	margin: 0;
+	padding: 0;
+	box-sizing: content-box;
+	-moz-box-sizing: content-box;
+}
+.king-form section {
+	margin-bottom: 20px;
+}
+
+.king-form .row:after {
+	content: '';
+	display: table;
+	clear: both;
+}
+.king-form .col {
+	float: left;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+.king-form .col-1 {
+	width: 8.33%;
+}
+.king-form .col-2 {
+	width: 16.66%;
+}
+.king-form .col-3 {
+	width: 25%;
+}
+.king-form .col-4 {
+	width: 33.33%;
+}
+.king-form .col-5 {
+	width: 41.66%;
+}
+.king-form .col-6 {
+	width: 48%;
+	padding: 0px;
+	margin-right: 4%;
+}
+.king-form .col-6:last-child{
+	margin: 0px;
+}
+.king-form .col-7 {
+	width: 58.33%;
+}
+.king-form .col-8 {
+	width: 66.67%;
+}
+.king-form .col-9 {
+	width: 75%;
+}
+.king-form .col-10 {
+	width: 83.33%;
+}
+.king-form .col-11 {
+	width: 91.66%;
+}
+@media screen and (max-width: 600px) {
+	.king-form .col {
+		float: none;
+		width: 100%;
+	}
+}
+
+
+
+/**/
+/* hover state */
+/**/
+.king-form .input:hover input,
+.king-form .select:hover select,
+.king-form .textarea:hover textarea,
+.king-form .radio:hover i,
+.king-form .checkbox:hover i,
+.king-form .toggle:hover i {
+	border-color: #13afeb;
+}
+.king-form .rating input + label:hover,
+.king-form .rating input + label:hover ~ label {
+	color: #d9d9d9;
+}
+.king-form .button:hover {
+	opacity: 1;
+}
+
+
+/**/
+/* focus state */
+/**/
+.king-form .input input:focus,
+.king-form .select select:focus,
+.king-form .textarea textarea:focus,
+.king-form .radio input:focus + i,
+.king-form .checkbox input:focus + i,
+.king-form .toggle input:focus + i {
+	border-color: #13afeb;
+}
+
+
+.king-form .input input, .king-form .select select, .king-form .textarea textarea, .king-form .radio i, .king-form .checkbox i, .king-form .toggle i, .king-form .icon-append, .king-form .icon-prepend {
+	border-color: #d3d3d3;
+	transition: border-color 0.3s;
+	-o-transition: border-color 0.3s;
+	-ms-transition: border-color 0.3s;
+	-moz-transition: border-color 0.3s;
+	-webkit-transition: border-color 0.3s;
+}
+.king-form fieldset{
+	display: inline-block;
+    width: 100%;
+    padding: 0px;
+}     
+.king-form .input input, .king-form .select select, .king-form .textarea textarea {
+	display: block;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	width: 100%;
+	height: 39px;
+	padding: 8px 10px 8px 30px;
+	outline: none;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 0;
+	background: #fff;
+	font: 15px/19px 'Open Sans', Helvetica, Arial, sans-serif;
+	color: #404040;
+	appearance: normal;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+}
+.footer-form.king-form .input input, .footer-form.king-form .select select, .footer-form.king-form .textarea textarea{
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px 14px;
+	outline: none;
+	border-width: 0px;
+	border-style: solid;
+	background: rgba(0, 0, 0, 0.3);
+	font: 14px/18px 'Open Sans', Helvetica, Arial, sans-serif;
+	color: #999;
+	border-color: #454545;
+}
+.light .footer-form.king-form .input input,.light .footer-form.king-form .select select,.light .footer-form.king-form .textarea textarea{
+	color: #fff;
+}
+.footer-form.king-form .col{
+	float: left;
+	width: 100%;
+	margin-bottom: 7px;
+	min-height: 1px;
+	padding-right: 0px;
+	padding-left: 0px;
+	box-sizing: border-box;
+}
+
+.king-form .subbutton {
+	width: 100%;
+	height: 40px;
+	overflow: hidden;
+	padding: 0px;
+	margin-top: 8px;
+	outline: none;
+	border: 0;
+	font: 400 14px 'Open Sans', Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	color: #fff;
+	cursor: pointer;
+	background: #e54c4c;
+	text-transform: uppercase;
+	transition: all 0.3s ease;
+}	
+.footer-form .wpcf7-validation-errors{
+	color: #fff;
+}
+.footer-form  img.ajax-loader{
+	background: #fff;
+}
+.king-form .rating input:checked ~ label {
+	color: #999;	
+}
+
+/**/
+/* bootstrap compatibility */
+/**/
+.king-form *,
+.king-form *:after,
+.king-form *:before {
+	margin: 0;
+	padding: 0;
+	box-sizing: content-box;
+	-moz-box-sizing: content-box;
+}
+.king-form .label {
+	border-radius: 0;
+	font-size: 100%;
+	text-align: left;
+	white-space: normal;
+	color: inherit;
+}
+.king-form .radio,
+.king-form .checkbox {
+	font-weight: 400;
+}
+.king-form .radio + .radio,
+.king-form .checkbox + .checkbox {
+  margin-top: 0;
+}
+.king-form label i.fa{
+	color: #ccc;
+	z-index: 10;
+}
+	
+.king-form.two,.king-form.two header{
+	color: #fff;
+}
+.king-form.two header{
+	border-bottom-color: #6f6f6f;
+	font-size: 20px;
+}
+.king-form.two .label {
+	border-radius: 0;
+	font-size: 100%;
+	text-align: left;
+	white-space: normal;
+	color: inherit;
+	color: #fff;
+}
+.king-form.two .input input, .king-form.two .select select, .king-form.two .textarea textarea{
+	color: #fff;
+	background: none;
+	-ms-transition: border-color 0.3s;
+	-moz-transition: border-color 0.3s;
+	-webkit-transition: border-color 0.3s;
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	height: 39px;
+	padding: 6px 10px;
+	outline: none;
+	font: 15px/23px 'Open Sans', Helvetica, Arial, sans-serif;
+	appearance: normal;
+	-moz-appearance: none;
+	-webkit-appearance: none;	
+}
+.king-form.two .input:hover input, .king-form.two .select:hover select, .king-form.two .textarea:hover textarea{
+	border-color: #fff;
+}
+.king-form.two .textarea textarea{
+	min-height: 100px;
+}
+.sky-form .textarea textarea {
+	height: auto;
+	resize: none;
+}
+.login_form {
+	margin: 20px auto 0 auto;
+	width: 400px;
+	padding: 20px 35px 13px 35px;
+	background-color: #f9f9f9;
+	border: 1px solid #fff;
+	-moz-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.2);
+	box-shadow:0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+.login_form .btn-primary{
+	width: 93%;
+	margin-top: 20px;
+}
+.login_form.two {
+	margin: 0px auto 0 auto;
+}
+
+.reg_form {
+	margin: 20px auto 0 auto;
+	width: 550px;
+	padding: 20px 35px 13px 35px;
+	background-color: #f9f9f9;
+	border: 1px solid #fff;
+	-moz-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.2);
+	box-shadow:0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.reg_form.two {
+	margin: 0px auto 0 auto;
+}
+
+
+.formSliderWrp{
+	height: auto !important;
+	min-height: 350px;
+}
+.formSliderWrp{
+
+}
+.formSliderWrp .king-form-style2{
+	margin: 30% 0 20px 5%;
+}
+.formSliderWrp span.wpcf7-not-valid-tip {
+	display: block;
+	position: absolute;
+	z-index: 1100;
+	top: -5px;
+	right: 106%;
+	text-align: right;
+	background: #fff;
+	padding: 5px 10px;
+	font-weight: normal;
+}
+.formSliderWrp .textarea span.wpcf7-not-valid-tip {
+	top: -80px;
+}
+.formSliderWrp span.wpcf7-not-valid-tip:after{
+	content: "";
+	position: absolute;
+	right: -4px;
+	top: 50%;
+	margin-top: -5px;
+	height: 10px;
+	width: 10px;
+	background: #fff;
+	transform: rotate(45deg);
+}
+.formSliderWrp #slide-from-1  span.wpcf7-not-valid-tip{
+	top: 5px;
+	left: 50%;
+	padding: 3px 10px;
+	right: auto;
+}
+.formSliderWrp #slide-from-1 span.wpcf7-not-valid-tip:after{
+	left: 50%;
+	top: 2px;
+	margin-top: -6px;
+}
+.formSliderWrp div.wpcf7-response-output{
+	margin: 0px !important;
+	padding: 0px !important;
+	background: #fff;
+	text-align: center;
+}
+html body * .formSliderWrp  .king-form img.ls-preloaded{
+	position: absolute;
+	right: 9%;
+	bottom: 7%;
+	box-shadow: 0px 0px 50px 0px #fff inset !important;
+	border-radius: 100% !important;
+}
+.king-form-style2{
+	width:90%;
+}
+.king-form-style2 fieldset{
+	border:none;
+	padding:0;
+	margin:0;
+}
+.king-form-style2 .row{
+	margin-left:0;
+	margin-right:0;
+}
+.king-form-style2 #name, .king-form-style2 #email, .king-form-style2 #subject, .king-form-style2 #message{
+	width: 100.5%;
+	padding: 10px 14px;
+	outline: none;
+	border-width: 0px;
+	border-style: solid;
+	background: rgba(255, 255, 255, 0.9);
+	font: 14px/18px 'Open Sans', Helvetica, Arial, sans-serif;
+	color: #454545;
+	margin-bottom:10px;
+	height:auto;
+}
+.king-form-style2 #message{
+	margin-bottom:10px;
+}
+.king-form-style2 label.input, .king-form-style2 label.textarea{
+	width:92%;
+}
+.king-form-style2 .wpcf7-submit{
+	width: 100%;
+	height: 40px!important;
+	
+	overflow: hidden;
+	padding: 0px!important;
+	margin-top: 8px;
+	outline: none;
+	border: 0;
+	font: 400 14px 'Open Sans', Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	color: #fff;
+	border-radius:0!important;
+	cursor: pointer;
+	background: #e54c4c!important;
+	text-transform: uppercase;
+	transition: all 0.3s ease;
+}
+#slide-from-1{
+	padding: 20% 0 0 5%;
+	width: 90%;
+}
+#slide-from-1 label.label{
+	font:14px/1.55 'Open Sans', Helvetica, Arial, sans-serif;
+	color:#999;
+}
+#slide-from-1 .input input, #slide-from-1 .select select, #slide-from-1 .textarea textarea{
+	padding:8px 40px 8px 8px!important;
+	
+}
+#slide-from-1 .input input{
+	height:22px!important;
+}
+#slide-from-1 label i.fa{
+	position: absolute;
+	top: 5px;
+	padding: 8px;
+	
+	border-left: 1px solid #ccc;
+	
+}
+#slide-from-1 .text-email i.fa, #slide-from-1 .text-name i.fa{
+	right: 5px!important;
+	left: auto;
+}
+#slide-from-1 .text-subject i.fa, #slide-from-1 label.textarea i.fa{
+	right: 5px!important;
+	left: auto;
+}
+#slide-from-1.king-form .col-6{
+	width: 47%;
+	padding: 0px;
+	margin-right: 6%;
+}
+#slide-from-1.king-form .col-6:last-child{
+	margin: 0px;
+}
+#slide-from-1 #name, #slide-from-1 #email{
+	width: 90%!important;
+	padding: 8px 5% !important;
+}
+#slide-from-1 #subject, #slide-from-1 #message{
+	width: 90%!important;
+	padding: 8px 5% !important;
+}
+#slide-from-1 #message{
+	max-height: 50px;
+}
+#slide-from-1.king-form section{
+	margin-bottom:10px!important;
+}
+
+#slide-from-1 .wpcf7-submit{
+	float: left;
+	width: 94%;
+	height: 50px;
+	background: #e54c4c;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius:0!important;
+	text-transform: uppercase;
+	color: #fff;
+	opacity: 1;
+	padding: 0px 10px;
+}
+#slide-from-1.king-form footer{
+	padding:10px 0px 25px;
+}
+
+
+
+
+/*** = Login & register
+*************************/
+
+.logregform {
+	float: left;
+	width: 35%;
+	margin-left: 32.5%;
+	background: #fff;
+	border: 1px solid #f9f9f9;
+	-webkit-box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+	box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2);
+}
+.logregform.two {
+	float: left;
+	width: 50%;
+	margin-left: 25%;
+}
+.logregform .title {
+	float: left;
+	width: 100%;
+	background: #f3f3f3;
+	text-align: center;
+	padding: 23px 0px 21px 0px;
+}
+.logregform .title h3 {
+	margin-bottom: 3px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.logregform .title p {
+	font-size: 12px;
+}
+.logregform .feildcont {
+	float: left;
+	width: 100%;
+	padding: 30px 30px 40px 30px;
+	text-align: left;
+}
+.logregform .feildcont label {
+	float: left;
+	width: 100%;
+	font-weight: normal;
+	color: #727272;
+	margin-bottom: 7px;
+}
+.logregform .feildcont label em {
+	color: #9eca45;
+	font-style: normal;
+}
+.logregform .feildcont input {
+	float: left;
+	width: 100%;
+	padding: 7px 12px;
+	border: 1px solid #e3e3e3;
+	margin-bottom: 12px;
+}
+.logregform.two .feildcont input {
+	margin-bottom: 18px;
+}
+.logregform .feildcont .checkbox {
+	float: left;
+	width: 100%;
+}
+.logregform .feildcont .checkbox label {
+	float: left;
+	width: auto;
+	font-size: 13px;
+}
+.logregform .feildcont .checkbox label strong {
+	font-weight: 600;
+}
+.logregform .feildcont .checkbox label a {
+	margin-left: 10px;
+}
+.logregform .feildcont .fbut {
+	float: left;
+	background: #9eca45;
+	padding: 13px 23px;
+	border: none;
+	border-radius: 3px;
+	color: #fff;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	transition: all 0.3s ease;
+	margin-top: 18px;
+}
+.logregform .feildcont .fbut:hover {
+	background: #393939;
+}
+
+.logregform .feildcont .radiobut input {
+	float: left;
+	width: auto;
+}
+.logregform .feildcont .radiobut .onelb {
+	float: left;
+	color: #aaa;
+	margin: 0px 12px 0px 5px;
+}
+
+.logregform .feildcont select {
+	float: left;
+	width: 100%;
+	border: 1px solid #e3e3e3;
+	padding: 9px 5px 10px 5px;
+	color: #999;
+	text-align: left;
+}
+
+.logregform.two input[type="checkbox"]{
+	float: left;
+	width: 14px;
+	margin-top: 5px;
+}
+
+
+
+@media only screen and (min-width: 1000px) and (max-width: 1169px){
+	#slide-from-1 label i.fa{
+		top: 0px;
+	}
+	#slide-from-1 #subject, #slide-from-1 #message,#slide-from-1 #name, #slide-from-1 #email{
+		padding: 3px 5% !important;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+	
+
+	.reg_form {
+		margin: 10px auto 0 auto;
+		width: 400px;
+		padding: 18px 20px 13px 20px;
+	}
+
+
+	
+}
+
+
+@media only screen and (max-width: 479px){
+	
+	.login_form {
+		margin: 0px auto 0 auto;
+		width: 250px;
+		padding: 13px 20px 13px 20px;
+	}
+	
+	.reg_form {
+		margin: 10px auto 0 auto;
+		width: 280px;
+		padding: 8px 10px 13px 10px;
+	}
+
+}
+
+
+

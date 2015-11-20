@@ -11,6 +11,9 @@
 	}
 	
 ?>
+<div class="fgmapfull">
+	<?php echo '<ifr'.'ame src="'.esc_url( $king->cfg['footerMap'] ).'" style="border:0"></ifr'.'ame>'; ?>
+</div>
 <!--Footer Layout 1: Location /templates/footer/-->
 <footer class="footer">
     <div class="container">
